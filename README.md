@@ -1,4 +1,4 @@
-  <IMG SRC="1.jpg" WIDTH="349" HEIGHT="261" BORDER="0" ALT="">
+!  [](2.jpeg)
 《共产主义的终极目的——中国篇》
 ——《九评》编辑部
 <div class="title">
