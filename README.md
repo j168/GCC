@@ -1,3 +1,6 @@
+
+《共产主义的终极目的——中国篇》
+——《九评》编辑部
 <div class="title">
 1.<a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
 2.<a href=#2><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (1)</span><br>
