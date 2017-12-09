@@ -1,4 +1,4 @@
-![Alt text](/path/to/2.jpg)
+![222](2.jpg)
 《共产主义的终极目的——中国篇》
 ——《九评》编辑部
 <div class="title">
