@@ -1,4 +1,6 @@
 ![共产主义的终极目的](GCC/img/2.jpg)<br>
+<IMG SRC="GCC/img/2.jpg" WIDTH="349" HEIGHT="261" BORDER="0" ALT="">
+
 《共产主义的终极目的——中国篇》
 ——《九评》编辑部
 <div class="title">
