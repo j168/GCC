@@ -15,8 +15,8 @@
 12.<a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
 13.<a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
 </div>
+	
 -------------------
-<br>
 	
 <a href=./GCC/ebook/epub/gbUltiGoalCm.epub>epub电子书</a><br>	
 <a href=./GCC/ebook/pdf/JPN-S-171207.pdf>PDF电子书</a><br>
@@ -26,7 +26,6 @@
 <a href=./GCC/fanQing/zi_you_men_7.62_desktop.zip>自由门桌机版7.62</a>
 
 -------------------
-<br>
 
 <a name=1><span style=color:#0000FF><H2>1.《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <IMG SRC="GCC/img/1.jpg"><p>
