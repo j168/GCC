@@ -18,7 +18,7 @@
 
 <p>
 [epub電子書]<a href=./GCC/ebook/epub/gbUltiGoalCm.epub><p>
-[epub電子書](a href=./GCC/ebook/epub/gbUltiGoalCm.epub)<p>
+[PDF電子書]<a href=./GCC/ebook/pdf/JPN-S-171207.pdf><p>
 <a name=1><span style=color:#0000FF><H2>1.《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <IMG SRC="GCC/img/1.jpg"><p>
 		<p>【大纪元2017年11月18日讯】在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。大纪元从今天起将刊载全书内容。</p>
