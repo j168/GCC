@@ -1,7 +1,6 @@
 
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
-<div class="title">
-	
+<div class="title">		
 1.<a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
 2.<a href=#2><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (1)</span><br>
 3.<a href=#3><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (2)</span><br>
@@ -15,9 +14,21 @@
 11.<a href=#11><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (10)</span><br>
 12.<a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
 13.<a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
-
 </div>
-<a href=#>回目录
+	
+<hr>
+	
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCm.epub?raw=true'>epub电子书</a>	
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
+    - [桌机版17.04](https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.62_desktop.zip?raw=true'>桌机版7.62</a>
+
+<hr>
+
 
 <a name=1><span style=color:#0000FF><H2>1.《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <IMG SRC="GCC/img/1.jpg"><p>
@@ -1013,7 +1024,7 @@ http://www.epochtimes.com/gb/17/12/3/n9920883.htm <br>
 <p>为了毁灭全人类，共产党破坏了中华传统文化，把人变成非人，把一个曾经文明美好的国度，变得国已不国。</p>
 <p>神慈悲于人。生命来自美好的天国世界，神不愿看着他们这样被毁灭，因此不断发出慈悲的呼唤。读懂天象，体会神的慈悲，才能看到得救的希望。</p>
 <p>解体中共，全面清除共产主义在人间的各种表现，回归传统，守住心底的善良，生命才有希望！</p>
-<p>（点阅<a href="http://www.epochtimes.com/gb/nf1235328.htm">《共产主义的终极目的》</a>全书，下载全书<a href="http://i.epochtimes.com/assets/uploads/2017/12/JPN-S-171207.pdf" target="_blank" rel="noopener noreferrer">PDF简体版</a>，下载全书<a href="http://i.epochtimes.com/assets/uploads/2017/12/JPN-T-171207.pdf" target="_blank" rel="noopener noreferrer">PDF正体版</a>）#</p>
+<p>（点阅<a href="http://www.epochtimes.com/gb/nf1235328.htm">《共产主义的终极目的》</a>全书，下载全书<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true" target="_blank" rel="noopener noreferrer">PDF简体版</a>，下载全书<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-171207.pdf?raw=true" target="_blank" rel="noopener noreferrer">PDF正体版</a>）#</p>
 http://www.epochtimes.com/gb/17/12/5/n9924973.htm <br>
 <a href=#>回目录<HR><a name=13><span style=color:#0000FF><H2>13.《九评》编辑部：共产主义的终极目的 (12)</H2></span>
 <IMG SRC="GCC/img/2.jpg"><br>
