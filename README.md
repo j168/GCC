@@ -13,7 +13,7 @@
 10.<a href=#10><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (9)</span><br>
 11.<a href=#11><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (10)</span><br>
 12.<a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
-13.<a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br></a>
+13.<a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
 </div><p>
 [epub电子书]<a href=./GCC/ebook/epub/gbUltiGoalCm.epub><br>
 [PDF电子书]<a href=./GCC/ebook/pdf/JPN-S-171207.pdf><br>
