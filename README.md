@@ -1,9 +1,6 @@
 
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
-<div class="title">
-*  *  *  *
-./GCC/ebook/epub/gbUltiGoalCm.epub
-*  *  *  *		
+<div class="title">		
 1.<a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
 2.<a href=#2><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (1)</span><br>
 3.<a href=#3><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (2)</span><br>
@@ -19,7 +16,9 @@
 13.<a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
 </div>
 <a href=#>回目录
-
+*  *  *  *
+./GCC/ebook/epub/gbUltiGoalCm.epub
+*  *  *  *
 <a name=1><span style=color:#0000FF><H2>1.《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <IMG SRC="GCC/img/1.jpg"><p>
 		<p>【大纪元2017年11月18日讯】在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。大纪元从今天起将刊载全书内容。</p>
