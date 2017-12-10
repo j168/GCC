@@ -17,7 +17,7 @@
 </div>
 
 <p>
-<./GCC/ebook/epub/gbUltiGoalCm.epub>**epub電子書**<p>
+[epub電子書]<a href=./GCC/ebook/epub/gbUltiGoalCm.epub><p>
 [epub電子書](a href=./GCC/ebook/epub/gbUltiGoalCm.epub)<p>
 <a name=1><span style=color:#0000FF><H2>1.《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <IMG SRC="GCC/img/1.jpg"><p>
