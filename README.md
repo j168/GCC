@@ -15,8 +15,7 @@
 11.<a href=#11><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (10)</span><br>
 12.<a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
 13.<a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
-:------ ------ ------
- 电子书  epub   pdf
+*  *  *  *
 </div>
 <a href=#>回目录
 
