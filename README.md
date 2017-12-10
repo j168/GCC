@@ -18,16 +18,17 @@
 	
 -------------------
 	
-+ <a href='https://github.com/goodabc/GCC/ebook/epub/gbUltiGoalCm.epub?raw=true'>epub电子书</a><br>	
-+ <a href='https://github.com/goodabc/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a><br>
-+ <a href='https://github.com/goodabc/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a><br>
-    - <a href='https://github.com/goodabc/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a><br>
-    - <a href='https://github.com/goodabc/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true'>桌机版17.04</a><br>   
-+ <a href='https://github.com/goodabc/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a><br>
-    - <a href='https://github.com/goodabc/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a><br>
-    - <a href='https://github.com/goodabc/GCC/fanQing/zi_you_men_7.62_desktop.zip?raw=true'>桌机版7.62</a>
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCm.epub?raw=true'>epub电子书</a>	
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>无界翻墙软件</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true'>安卓版4.1</a>
+    - [桌机版17.04](https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true)   
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
+    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.62_desktop.zip?raw=true'>桌机版7.62</a>
 
 -------------------
+
 
 <a name=1><span style=color:#0000FF><H2>1.《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <IMG SRC="GCC/img/1.jpg"><p>
