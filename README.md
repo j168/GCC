@@ -14,17 +14,18 @@
 11.<a href=#11><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (10)</span><br>
 12.<a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
 13.<a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
-</div><br><br>
+</div>
 	
-=================================
+-------------------
 <br>
 <a href=./GCC/ebook/epub/gbUltiGoalCm.epub>epub电子书</a><br>	
 <a href=./GCC/ebook/pdf/JPN-S-171207.pdf>PDF电子书</a><br>
 <a href=./GCC/fanQing/wujieliulan_android_4.1_20171123.zip>无界安卓版4.1</a><br>
 <a href=./GCC/fanQing/wujieliulan_desktop_17.04_20171112.zip>无界桌机版17.04</a><br>
 <a href=./GCC/fanQing/zi_you_men_android_3.2.zip>自由门安卓版3.2</a><br>
-<a href=./GCC/fanQing/zi_you_men_7.62_desktop.zip>自由门桌机版7.62</a><br>
-=================================
+<a href=./GCC/fanQing/zi_you_men_7.62_desktop.zip>自由门桌机版7.62</a>
+
+-------------------
 <br>
 
 <a name=1><span style=color:#0000FF><H2>1.《九评》编辑部：《共产主义的终极目的》序言</H2></span>
