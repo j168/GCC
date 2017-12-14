@@ -2,18 +2,18 @@
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
 <h2><a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span></h2><br>
-<a href=#2><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (1)</span><br>
-<a href=#3><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (2)</span><br>
-<a href=#4><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (3)</span><br>
-<a href=#5><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (4)</span><br>
-<a href=#6><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (5)</span><br>
-<a href=#7><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (6)</span><br>
-<a href=#8><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (7)</span><br>
-<a href=#9><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (8)</span><br>
-<a href=#10><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (9)</span><br>
-<a href=#11><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (10)</span><br>
-<a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
-<a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
+<h2><a href=#2><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (1)</span></h2><br>
+<h2><a href=#3><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (2)</span></h2><br>
+<h2><a href=#4><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (3)</span></h2><br>
+<h2><a href=#5><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (4)</span></h2><br>
+<h2><a href=#6><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (5)</span></h2><br>
+<h2><a href=#7><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (6)</span></h2><br>
+<h2><a href=#8><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (7)</span></h2><br>
+<h2><a href=#9><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (8)</span></h2><br>
+<h2><a href=#10><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (9)</span></h2><br>
+<h2><a href=#11><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (10)</span></h2><br>
+<h2><a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span></h2><br>
+<h2><a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span></h2><br>
 </div>
 	
 <hr>
