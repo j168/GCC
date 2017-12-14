@@ -1,7 +1,7 @@
 
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
-<a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
+<a href=#1><span style=color:#3627F1><h2>《九评》编辑部：《共产主义的终极目的》序言</h2></span><br>
 <a href=#2><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (1)</span><br>
 <a href=#3><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (2)</span><br>
 <a href=#4><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (3)</span><br>
