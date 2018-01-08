@@ -1043,7 +1043,7 @@ http://www.epochtimes.com/gb/17/12/3/n9920883.htm <br>
 <p>为了毁灭全人类，共产党破坏了中华传统文化，把人变成非人，把一个曾经文明美好的国度，变得国已不国。</p>
 <p>神慈悲于人。生命来自美好的天国世界，神不愿看着他们这样被毁灭，因此不断发出慈悲的呼唤。读懂天象，体会神的慈悲，才能看到得救的希望。</p>
 <p>解体中共，全面清除共产主义在人间的各种表现，回归传统，守住心底的善良，生命才有希望！</p>
-<p>（点阅<a href="http://www.epochtimes.com/gb/nf1235328.htm">《共产主义的终极目的》</a>全书，下载全书<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true" target="_blank" rel="noopener noreferrer">PDF简体版</a>，下载全书<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-171207.pdf?raw=true" target="_blank" rel="noopener noreferrer">PDF正体版</a>）#</p>
+<p>（点阅<a href=#>《共产主义的终极目的》</a>全书，下载全书<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true" target="_blank" rel="noopener noreferrer">PDF简体版</a>，下载全书<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-171207.pdf?raw=true" target="_blank" rel="noopener noreferrer">PDF正体版</a>）#</p>
 http://www.epochtimes.com/gb/17/12/5/n9924973.htm <br>
 <a href=#>回目录<HR><a name=13><span style=color:#0000FF><H2>《九评》编辑部：共产主义的终极目的 (12)</H2></span>
 <IMG SRC="GCC/img/2.jpg"><br>
