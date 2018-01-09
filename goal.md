@@ -15,7 +15,8 @@
 <a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
 <a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
 </div>
-	
+
+
 <TABLE border="1">
 <div >	
 <TR>
