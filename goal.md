@@ -14,14 +14,13 @@
 <a href=#11><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (10)</span><br>
 <a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
 <a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
-</div>
-<p/>
+</div><p>
 	
 <TABLE border="1">
 <div >	
 <TR>
-<TD align="center"><b><br>《九评》编辑部新书——《共产主义的终极目的——中国篇》<p>
-</b><br>
+<TD align="center"><b>《九评》编辑部新书——《共产主义的终极目的——中国篇》<p>
+</b>
 </TR>
 <TR>
 <TD>下载全书：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216.pdf?raw=true">PDF正体版，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a>  </TD>
