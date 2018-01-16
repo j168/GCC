@@ -28,6 +28,9 @@
 <TR>
 <TD>下载：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)</TD>
 </TR>
+<TR>
+<TD>下载：<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Reasily_EPUB_Reader_v17.12.01.1_apkpure.com.apk?raw=true">安卓手机epub电子书阅读器apk，安装后点击左上角那三条横杠的菜单(一般智能手机都有支援ePub，安卓或苹果都可安装“掌阅iReader”这个APP，请自行注意安全)</TD>
+</TR>	
 </div>
 </TABLE>
 
