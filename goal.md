@@ -1,4 +1,4 @@
-<IMG SRC="GCC/img/red-979573-1-600x400-0123.jpg" width=880></a><br>
+<IMG SRC="GCC/img/red-979573-1-600x400-0126.jpg" width=880></a><br>
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
 <a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
