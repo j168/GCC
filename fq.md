@@ -31,8 +31,8 @@
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true">0944版</a></td>
 </tr>
 <tr>
-	<td>iNTD TV</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true">2.1.12</a></td>
+	<td><img src="../master/GCC/img/intdtv.jpg" align="middle" width="240" alt="intdtv"></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true"><img src="../master/GCC/img/intdtv.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 	<td></td>
 </tr>
 </table>
