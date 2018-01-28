@@ -12,7 +12,7 @@
 <tr>
 	<td width="240"></td>
 	<td width="320"><center><img src="../master/GCC/img/android.jpg" align="middle"></center></td>
-	<td width="320"><center>桌機版</center></td>
+	<td width="320"><center><img src="../master/GCC/img/desktop.jpg" align="middle"></center></td>
 </tr>
 <tr>
 	<td><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由門"></td>
