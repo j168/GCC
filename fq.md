@@ -15,18 +15,18 @@
 	<td width="320"><center><img src="../master/GCC/img/desktop.jpg" align="middle"></center></td>
 </tr>
 <tr>
-	<td><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由門"></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true">3.2版</a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由門桌機"></a> </td>
+	<td><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由门"></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
-	<td><img src="../master/GCC/img/ultrasurf.jpg" align="middle" width="240" alt="無界"></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true"><img src="../master/GCC/img/wujieAndoid.jpg" align="middle" width="320" alt="無界一點通"></a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true"><img src="../master/GCC/img/wujiesurf.jpg" align="middle" width="320" alt="無界一點通"></a></td>
+	<td><img src="../master/GCC/img/ultrasurf.jpg" align="middle" width="240" alt="无界"></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true"><img src="../master/GCC/img/wujieAndoid.jpg" align="middle" width="320" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true"><img src="../master/GCC/img/wujiesurf.jpg" align="middle" width="320" alt="无界一点通"></a></td>
 </tr>
 <tr>
-	<td><img src="../master/GCC/img/ippotv.jpg" align="middle" width="240" alt="愛博電視"></td>
+	<td><img src="../master/GCC/img/ippotv.jpg" align="middle" width="240" alt="爱博电视"></td>
 	<td></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true"><img src="../master/GCC/img/ippo.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 </tr>
