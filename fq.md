@@ -1,8 +1,8 @@
-<table  width="750px">
+<table  width="800">
 <tr>
-	<td width="20%"></td>
-	<td width="40%"><center>安卓版</center></td>
-	<td width="40%"><center>桌機版</center></td>
+	<td width="240"></td>
+	<td width="320"><center>安卓版</center></td>
+	<td width="320"><center>桌機版</center></td>
 </tr>
 <tr>
 	<td>自由門</td>
