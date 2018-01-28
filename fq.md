@@ -22,7 +22,7 @@
 
 <tr>
 	<td><img src="../master/GCC/img/ultrasurf.jpg" align="middle" width="240" alt="無界"></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true">src="../master/GCC/img/wujieandroid.jpg" align="middle" width="320" alt="無界一點通"></a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_android_4.1_20171123.zip?raw=true"><img src="../master/GCC/img/wujieAndoid.jpg" align="middle" width="320" alt="無界一點通"></a></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true">17.04版</a></td>
 </tr>
 <tr>
