@@ -1,7 +1,7 @@
 <table  width="800">
 <tr>
 	<td width="240"></td>
-	<td width="320"><center>安卓版</center></td>
+	<td width="320"><center><img src="../master/GCC/img/android.jpg" align="middle"></center></td>
 	<td width="320"><center>桌機版</center></td>
 </tr>
 <tr>
