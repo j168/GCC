@@ -27,12 +27,12 @@
 </tr>
 <tr>
 	<td><img src="../master/GCC/img/ippotv.jpg" align="middle" width="240" alt="愛博電視"></td>
-	<td>沒有</td>
+	<td></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true">0944版</a></td>
 </tr>
 <tr>
 	<td>iNTD TV</td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true">2.1.12</a></td>
-	<td>沒有</td>
+	<td></td>
 </tr>
 </table>
