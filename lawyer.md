@@ -1,7 +1,7 @@
 
-<img src="../master/gcc/img/flcz.jpg" width="880">
+<img src="../master/GCC/img/flcz.jpg" width="880">
 
-<h2>一位律师的肺腑直言：我为什么发自内心敬佩法轮功</h2>
+<h1>一位律师的肺腑直言：我为什么发自内心敬佩法轮功</h1>
 <p></p>
 
 
