@@ -17,7 +17,7 @@
 <tr>
 	<td><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由門"></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true">3.2版</a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true">7.64版</a> </td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由門桌機"></a> </td>
 </tr>
 
 <tr>
