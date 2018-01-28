@@ -10,7 +10,7 @@
 
 <table  width="800">
 <tr>
-	<td width="240"></td>
+	<td width="240"><img src="../master/GCC/img/anticensor.jpg" height="60" align="middle"></td>
 	<td width="320"><center><img src="../master/GCC/img/android.jpg" align="middle"></center></td>
 	<td width="320"><center><img src="../master/GCC/img/desktop.jpg" align="middle"></center></td>
 </tr>
