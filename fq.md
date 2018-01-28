@@ -28,7 +28,7 @@
 <tr>
 	<td><img src="../master/GCC/img/ippotv.jpg" align="middle" width="240" alt="愛博電視"></td>
 	<td></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true">0944版</a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true"><img src="../master/GCC/img/ippo.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 </tr>
 <tr>
 	<td><img src="../master/GCC/img/intdtv.jpg" align="middle" width="240" alt="intdtv"></td>
