@@ -1060,3 +1060,43 @@ http://www.epochtimes.com/gb/17/12/5/n9924973.htm <br>
 <p>（《中国篇》全文完）</p>
 http://www.epochtimes.com/gb/17/12/7/n9933272.htm <br>
 <a href=#>回目录
+
+
+
+<ol start="1">
+    <li>偷天换日，篡上神位</li>
+
+    <ol start="1">
+      <li>中共篡上神位</li>
+
+      <li>毁灭通天的中华文化</li>
+
+      <li>敬神祭天的生活方式被铲除</li>
+
+      <li>建立党文化的魔教场</li>
+    </ol>
+
+    <li>神传语言文字与残体汉字</li>
+
+    <ol start="1">
+      <li>神传文字，蕴藏天机</li>
+
+      <li>中华语言，充满神性 
+
+      <ol start="1">
+        <li>文化</li>
+
+        <li>文明</li>
+      </ol></li>
+
+      <li>中共破坏神传文字</li>
+    </ol>
+
+    <li>中共对修炼文化的破坏</li>
+
+    <ol start="1">
+      <li>传统文化中的修炼文化</li>
+
+      <li>中共如何破坏修炼文化</li>
+    </ol>
+  </ol>
