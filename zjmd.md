@@ -1,6 +1,6 @@
 <table>
 <tr>
-	<td colspan=3><img src="../master/GCC/img/p8654841a650831227.jpg" width="800" height="450" border="0" alt=""></td>
+	<td colspan=3><img src="../master/GCC/img/p8654841a650831227.jpg" width="875" height="450" border="0" alt=""></td>
 </tr>
 <tr>
 	<td><a href="../master/GCC/ebook/epub/goalCh1.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
