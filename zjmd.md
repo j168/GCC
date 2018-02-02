@@ -23,6 +23,9 @@
 #### 否則要安裝 chrome 的 插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能閱讀
 #### 至於filrefox 插件， 建議使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 
+## 《共产主义的终极目的》有12個視頻，目前出到8。以下是epub電子書的下載點
+### 您也可以先下載 [希望之聲 的 mp3 版本的 epub ](https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true) , 或是 [大紀元的 文本 epub 電子書](https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true)
+ 
 
 </td>
 </tr>
