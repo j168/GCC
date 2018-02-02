@@ -22,8 +22,7 @@
 ******
 ### 以下是新唐人電視台根據大紀元原文所錄製的視頻，並且鑲崁在epub格式電子書裡面，只要下載電子書，可以很方便地閱讀、聆聽或觀賞。
 
-### 閱讀電子書，如果是安卓系統，您需要安裝APP，建議您使用 
-<a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
+### 閱讀電子書，如果是安卓系統，您需要安裝APP，建議您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
 ### 如果是蘋果的裝置，本身自帶的 ibook就能開啓 ， 
 ### 如果是桌機，假如作業系統是 win10， 那麼自帶的 Edge 可以開啓， 
 ### 否則要安裝 chrome 的 插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能閱讀
