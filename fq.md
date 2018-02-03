@@ -36,3 +36,5 @@
 	<td></td>
 </tr>
 </table>
+
+<img src="fqreadme.gif" width="880">
