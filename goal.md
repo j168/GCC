@@ -54,6 +54,9 @@
 	</tr>	
 </table> 
 
+[<H1> <center> 下载翻墙软件下载点及使用说明 EPUB </center></H1>](../master/GCC/ebook/epub/fangqian.epub)
+
+
 <hr>
 <a name=1><span style=color:#0000FF><H2>《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <IMG SRC="GCC/img/1.jpg" width=880><p>
