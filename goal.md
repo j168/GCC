@@ -49,7 +49,7 @@
 <table align="center" >
 	<tr>
 		<td>
-		<a href="fq.md"><img src="../master/GCC/img/fq.jpg" width="880"></a>	
+		<a href="fq.md"><img src="../master/GCC/img/fq2.jpg" width="880"></a>	
 		</td>	
 	</tr>	
 </table> 
