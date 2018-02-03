@@ -54,7 +54,7 @@
 	</tr>	
 </table> 
 
-[<H1> <center> 下载翻墙软件下载点及使用说明 EPUB </center></H1>](../master/GCC/ebook/epub/fangqian.epub?raw=true)
+[<H1> <center> 下载翻墙软件下载点及使用说明 EPUB 格式电子书 </center></H1>](../master/GCC/ebook/epub/fangqian.epub?raw=true)
 
 
 <hr>
