@@ -74,7 +74,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 </tr>
 <tr>
 	<td>【九评共产党】</td>
-	<td><a href="https://git.io/9ping">圖文epub</a>&nbsp;&nbsp;<a href="http://epub.lemna.men/epub/9ping16k.epub">镶崁16K音頻epub</a></td>
+	<td><a href="https://git.io/9ping">圖文epub</a></td>
 </tr>
 <tr>
 	<td>【共产主义的终极目的中国篇】</td>
@@ -82,7 +82,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 </tr>
 <tr>
 	<td>解體黨文化</td>
-	<td><a href="https://git.io/jtdwh">圖文epub</a>&nbsp;&nbsp;<a href="http://epub.lemna.men/epub/jtdwh16k.epub">镶崁16K音頻epub</a></td>
+	<td><a href="https://git.io/jtdwh">圖文epub</a></td>
 </tr>
 <tr>
 	<td>马克思的成魔之路</td>
