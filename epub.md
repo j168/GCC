@@ -1,42 +1,4 @@
-<!doctype html>
-<html lang="zh-cn">
- <head>
-  <meta charset="UTF-8">
-  <title>9ping.epub</title>
- </head>
- <style type="text/css">
-	body	{
-	background-color:#FFFAE7;
-	margin:60px 120px;
-}
-H1 {
-	color:blue;
-	font-weight:bold;
-}
-H2 , H3 , li{
-	color:skyblue;
-	font-size:24px;
-}
-.blackCircle {
-	color: #aef;
-	font-size:1.2rem;
-}
- tr , td {
-	border: 0.07rem solid  lightgray;
-	padding: 0.5rem;
-	margin: 0.5rem;
-}
-td:nth-child(1) {
-	width: 40%;
-}
 
-tr:nth-child(even) {
-	background: #e6ffe6;
-}
-tr:nth-child(odd) {
-	background: #ffeecc;
-}
- </style>
  <body>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
 
