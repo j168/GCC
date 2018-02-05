@@ -61,11 +61,11 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 <h1>其他款电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="250"></td>
-	<td  width="630">說明</td>
+	<td  width="280"></td>
+	<td  width="600">說明</td>
 </tr>
 <tr>
-	<td>【突破封锁看世界】--翻墙软件手册</td>
+	<td>【突破封锁看世界】翻墙软件手册</td>
 	<td><a href="https://git.io/fang">圖文、視頻epub</a></td>
 </tr>
 <tr>
