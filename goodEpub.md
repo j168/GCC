@@ -1,6 +1,3 @@
-
-
- <body>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
 
   <h1>手机上好看的电子书（ePub版）：《九评共产党》</h1>
@@ -30,11 +27,11 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 
 <h3>1、火狐浏览器的附加组件“EPUBReader”</h3>
 
-安装方法：在火狐浏览器的附加组件窗口中，搜索“epub”，会找到“EPUBReader”。安装后可以在Firefox中阅读ePub档案，不再需要额外的软件。<br><br>
+安装方法：在火狐浏览器的附加组件窗口中，搜索“epub”，会找到<a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">“EPUBReader”</a>。安装后可以在Firefox中阅读ePub档案，不再需要额外的软件。<br><br>
 
 阅读电子书方法：用火狐浏览器的菜单【文件/打开文件】，或者把电子书拖拽到火狐浏览器的窗口中。<br><br>
 
-<h3>2、Chrome浏览器的电子书阅读器扩展程序“Readium”</h3>
+<h3>2、Chrome浏览器的电子书阅读器扩展程序<a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl" target="_blank">“Readium”</a></h3>
 
 安装方法：点击右上角菜单按钮/更多工具/扩展程序，点击页面中的链接，進入“Chrome网上应用店”，搜索“Readium”，然后点击“+添加至CHROME”。<br><br>
 
@@ -44,7 +41,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 
 <h3>1、Adobe Digital Editions (ADE)</h3>
 
-下载页面：<a href="http://www.adobe.com/solutions/ebook/digital-editions/download.htm" target="_blank">http://www.adobe.com/solutions/ebook/digital-editions/download.htm</a>l<br><br>
+下载页面：<a href="http://www.adobe.com/solutions/ebook/digital-editions/download.htm" target="_blank" target="_blank">http://www.adobe.com/solutions/ebook/digital-editions/download.htm</a>l<br><br>
 
 <h3>2、Kindle预览器(186MB)：</h3>
 
@@ -70,5 +67,3 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<li><a href="https://git.io/mro" target="_blank">死刑犯遮不住器官市场的蘑菇云</a></li>
 </ol>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
- </body>
-</html>
