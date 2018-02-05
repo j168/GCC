@@ -48,56 +48,16 @@
 <p>直接下载Windows版：<a href="https://storage.googleapis.com/windows_updates/setup_1_1_1006.exe">https://storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a></p>
 <br><br>
 <h2>其他款电子书</h2>
-<table width="880px">
-<tr>
-	<td width="40%"></td>
-	<td width="20%"><span class="circle2">txt</span></td>
-	<td width="20%"><span class="circle2">mp3</span></td>
-	<td><span class="circle2">mp4</span></td>
-</tr>
-<tr>
-	<td><a href="https://git.io/8k">共产主义的终极目的</a></td>
-	<td><a href="https://git.io/jtdwh">下载</a></td>
-	<td><a href="https://git.io/mks">下载</a></td>
-	<td><a href="https://git.io/jzmqr">下载</a></td>
-</tr>
-<tr>
-	<td><a href="https://git.io/8k">解體黨文化</a></td>
-	<td><a href="https://git.io/jtdwh">下载</a></td>
-	<td><a href="https://git.io/mks">下载</a></td>
-	<td><a href="https://git.io/jzmqr">下载</a></td>
-</tr>
-<tr>
-	<td><a href="https://git.io/8k">马克思的成魔之路</a></td>
-	<td><a href="https://git.io/jtdwh">下载</a></td>
-	<td><a href="https://git.io/mks">下载</a></td>
-	<td><a href="https://git.io/jzmqr">下载</a></td>
-</tr>
-<tr>
-	<td><a href="https://git.io/8k">江泽民其人</a></td>
-	<td><a href="https://git.io/jtdwh">下载</a></td>
-	<td><a href="https://git.io/mks">下载</a></td>
-	<td><a href="https://git.io/jzmqr">下载</a></td>
-</tr>
-<tr>
-	<td><a href="https://git.io/8k">风雨天地行</a></td>
-	<td><a href="https://git.io/jtdwh">下载</a></td>
-	<td><a href="https://git.io/mks">下载</a></td>
-	<td><a href="https://git.io/jzmqr">下载</a></td>
-</tr>
-<tr>
-	<td><a href="https://git.io/8k">为什么要三退</a></td>
-	<td><a href="https://git.io/jtdwh">下载</a></td>
-	<td><a href="https://git.io/mks">下载</a></td>
-	<td><a href="https://git.io/jzmqr">下载</a></td>
-</tr>
-<tr>
-	<td><a href="https://git.io/8k">死刑犯遮不住器官市场的蘑菇云</a></td>
-	<td><a href="https://git.io/jtdwh">下载</a></td>
-	<td><a href="https://git.io/mks">下载</a></td>
-	<td><a href="https://git.io/jzmqr">下载</a></td>
-</tr>
-</table>
+<ol>
+	<li><a href="https://git.io/8k">共产主义的终极目的</a></li>
+	<li><a href="https://git.io/jtdwh">解體黨文化</a></li>
+	<li><a href="https://git.io/mks">马克思的成魔之路</a></li>
+	<li><a href="https://git.io/jzmqr">江泽民其人</a></li>
+	<li><a href="https://git.io/fytdx">风雨天地行</a></li>
+	<li><a href="https://git.io/whytd">为什么要三退</a></li>
+	<li><a href="https://git.io/mro">死刑犯遮不住器官市场的蘑菇云</a></li>
+</ol>
+
 
 <div align="right" class="zxbl">
 	<h3><a href="https://git.io/goal" target="_blank">回真相部落</a></h3>
