@@ -65,7 +65,7 @@
   <h1 id="sigil_toc_id_2">使用说明</h1>
 
 <h3 class="userGuide">爱博电视使用说明</h3>
-<h1 class="p1"><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp4/iPPOTV.mp4?raw=true">爱博电视教学视频：这是桌机版的软件，在桌机上全频观看会更清楚</a></h1>
+<h1 class="p1"><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp4/iPPOTV.mp4?raw=true">爱博电视教学视频：这是桌机软件，在桌机上全频观看更清楚</a></h1>
 
 
   <h2 id="sigil_toc_id_3" class="userGuide">无界一点通使用说明</h2>
