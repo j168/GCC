@@ -23,7 +23,7 @@
             <a href="https://git.io/fgma">安卓版</a>
           </td>
          <td>
-            <a href="https://git.io/fgm">专业版</a>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg764p.zip?raw=true">专业版</a>
           </td>
         </tr>
         <tr>
