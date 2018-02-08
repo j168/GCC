@@ -64,19 +64,19 @@
 
   <h1 id="sigil_toc_id_2">使用说明</h1>
 
-<h3 class="userGuide">爱博电视使用说明</h3>
+<div align="center"><h1 class="userGuide">爱博电视使用说明</h1></div>
 <h1 class="p1"><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp4/iPPOTV.mp4?raw=true">爱博电视教学视频：这是桌机软件，在桌机上全频观看更清楚</a></h1>
 
 
-  <h2 id="sigil_toc_id_3" class="userGuide">无界一点通使用说明</h2>
+  <div align="center"><h1 id="sigil_toc_id_3" class="userGuide">无界一点通使用说明</h1></div>
 
   <ol>
     <li>无界一点通是安卓版的翻墙软件，让您看到没有被过滤的真实讯息。适用于安卓2.2及以上的安卓手机/安卓机顶盒等安卓平台。此使用说明适用于最新版的无界一点通。</li>
   </ol>
 
-  <h3 id="sigil_toc_id_4">一. 安装说明(手机)</h3>
+  <h2 id="sigil_toc_id_4">一. 安装说明(手机)</h2>
 
-  <h4 id="sigil_toc_id_5">1. 安装准备工作：</h4>
+  <h3 id="sigil_toc_id_5">1. 安装准备工作：</h3>
 
   <ol>
     <li><p>安装无界一点通，如果能访问谷歌应用商店， 可以直接从那里下载安装： 搜索ydt.wujie应用。如果不能访问谷歌应用商店， 可采用以下办法：</p></li>
@@ -84,7 +84,7 @@
     <li><p>注： 有的版本是： 按“菜单”键 --&gt; settings（设置）--&gt; security (安全) 里面，钩选Unknown sources（未知源）。</p></li>
   </ol>
 
-  <h4 id="sigil_toc_id_6">2. 下载um.apk文件</h4>
+  <h3 id="sigil_toc_id_6">2. 下载um.apk文件</h3>
 
   <p>无界一点通下载地址：</p>
 
