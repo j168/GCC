@@ -69,6 +69,10 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td  width="600">說明</td>
 </tr>
 <tr>
+	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/sy.epub?raw=true">圖文、視頻epub</a></td>
+</tr>	
+<tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
 	<td><a href="https://git.io/fang">圖文、視頻epub</a></td>
 </tr>
