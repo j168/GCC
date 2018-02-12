@@ -1,3 +1,5 @@
+<img src=GCC/img/little-0212.jpg>
+
 <table>
 <tr>
 	<td colspan=3>
