@@ -32,7 +32,7 @@
 </a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)</a></h3>
 	
 ********	
-<h2>视频下载：<br><a href="zjmd.md" target="_blank">新唐人电视台视频播报版 epub 下载</a><h2></TD></TR>
+<h2>视频下载：<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true" target="_blank">新唐人电视台视频播报版 epub 下载</a><h2></TD></TR>
 <TR><TD> 
 	
 ## 下载阅读器：
