@@ -66,4 +66,85 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<li><a href="https://git.io/whytd" target="_blank">为什么要三退</a></li>
 	<li><a href="https://git.io/mro" target="_blank">死刑犯遮不住器官市场的蘑菇云</a></li>
 </ol>
+<h1>其他款电子书</h1>
+<table  cellspacing="1" cellpadding="1">
+<tr  width="880">
+	<td  width="280"></td>
+	<td  width="600">說明</td>
+</tr>
+<tr>
+	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">圖文、視頻epub</a></td>
+</tr>
+<tr>
+	<td>【突破封锁看世界】翻墙软件手册</td>
+	<td><a href="https://git.io/fang">圖文、視頻epub</a></td>
+</tr>
+<tr>
+	<td>【九评共产党】</td>
+	<td><a href="https://git.io/9ping">圖文epub</a></td>
+</tr>
+<tr>
+	<td>【共产主义的终极目的中国篇】</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/3fmd/gm/blob/master/gm/epub/goalmp4Npf.epub?raw=true" target="_blank">mp4播报版 epub </a></td>
+</tr>
+<tr>
+	<td>解體黨文化</td>
+	<td><a href="https://git.io/jtdwh">圖文epub</a></td>
+</tr>
+<tr>
+	<td>马克思的成魔之路</td>
+	<td><a href="https://git.io/mks">圖文epub</a></td>
+</tr>
+<tr>
+	<td>江泽民其人</td>
+	<td><a href="https://git.io/jzmqr">圖文epub</a></td>
+</tr>
+<tr>
+	<td>风雨天地行</td>
+	<td><a href="https://git.io/fytdx">圖文epub</a></td>
+</tr>
+<tr>
+	<td>为什么要三退</td>
+	<td><a href="https://git.io/whytd">圖文epub</a></td>
+</tr>
+<tr>
+	<td>死刑犯遮不住器官市场的蘑菇云</td>
+	<td><a href="https://git.io/mro">圖文epub</a></td>
+</tr>
+<tr>
+	<td>一位律师的肺腑直言</td>
+	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/lawyer.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+<td>【明慧周报大陆版】（第678期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_678.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+<td>【明慧周报大陆版】（第677期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_677.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+<td>【明慧周报大陆版】（第676期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_676.epub?raw=true">圖文epub</a></td>
+</tr>		
+<tr>
+<td>【明慧周报大陆版】（第675期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_675.epub?raw=true">圖文epub</a></td>
+</tr>
+<td>【明慧周报大陆版】（第674期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_674.epub?raw=true">圖文epub</a></td>
+</tr>
+<td>【明慧周报大陆版】（第673期）</td>
+<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/MHZB_673.epub?raw=true">圖文epub</a></td>
+</tr>	
+</table>
+  <div class="zxxh">
+    <ul>
+      <li><span class="h2Minghui"> ■ </span> 真相小花提供最真实、及时的真相视频、音频和电子书 
+      <p></p></li>
+      <li><span class="h2Minghui"> ■ </span>突破网络封锁访问真相小花， <a href="https://git.io/goal">https://git.io/goal</a>。 这个链接国内不屏蔽，请妥为收藏，页面有真相部落及时IP，也可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等 
+      <p></p></li>
+    </ul>
+  </div>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
