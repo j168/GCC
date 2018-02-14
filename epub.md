@@ -91,7 +91,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 </tr>
 <tr>
 	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true" target="_blank">mp4播报版 epub </a></td>
 </tr>
 <tr>
 	<td>解體黨文化</td>
