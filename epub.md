@@ -65,8 +65,8 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 <h1>其他款电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="280"></td>
-	<td  width="600">說明</td>
+	<td  width="360"></td>
+	<td  width="520">說明</td>
 </tr>
 <tr>
 	<td>新唐人2018全球华人新年晚会播出通告</td>
