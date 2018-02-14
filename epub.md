@@ -112,6 +112,14 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td>一位律师的肺腑直言</td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/lawyer.epub?raw=true">圖文epub</a></td>
 </tr>
+<tr>
+	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+	<td>新唐人2018全球华人新年晚会播出通告</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gala2018.epub?raw=true">圖文epub</a></td>
+</tr>
 </table>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
  </body>
