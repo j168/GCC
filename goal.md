@@ -1,5 +1,5 @@
-<IMG SRC="GCC/img/little-0212.jpg" width=880></a><br>
-<a href="https://github.com/goodabc/GCC/blob/master/sy2018.md"><image src="https://github.com/goodabc/GCC/blob/master/GCC/img/sy2018.jpg" width="880"></a>
+<IMG SRC="GCC/img/little-0216.jpg" width=880></a><br>
+<a href="https://github.com/goodabc/GCC/blob/master/sy2018.md"><image src="https://github.com/goodabc/GCC/blob/master/GCC/img/s3.jpg" width="880"></a>
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
 <a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
