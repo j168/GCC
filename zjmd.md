@@ -67,6 +67,11 @@
 	<td><center><a href="../master/GCC/ebook/epub/goalCh9.epub?raw=true">【共产主义的终极目的】（9）</a></center></td>
 </tr>
 <tr>
+	<td><a href="../master/GCC/ebook/epub/goalCh10.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh11.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh12.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+<tr>
 	<td><center><a href="../master/GCC/ebook/epub/goalCh10.epub?raw=true">【共产主义的终极目的】（10）</a></center></td>
 	<td><center><a href="../master/GCC/ebook/epub/goalCh11.epub?raw=true">【共产主义的终极目的】（11）</a></center></td>
 	<td><center><a href="../master/GCC/ebook/epub/goalCh12.epub?raw=true">【共产主义的终极目的】（12）</a></center></td>
