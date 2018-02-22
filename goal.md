@@ -1,4 +1,5 @@
-<IMG SRC="GCC/img/little-0218.jpg" width=880><br>
+<IMG SRC="GCC/img/little-0222.jpg" width=880><br>
+<H1 align="center">错过2018年新唐人全球华人新年晚会的朋友，元宵节可能还有一场回放，再错过可能要再等一年，请大家告诉大家！</H1>
 <a href="https://github.com/goodabc/GCC/blob/master/sy2018.md"><image src="https://github.com/goodabc/GCC/blob/master/GCC/img/s3.jpg" width="880"></a>
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
