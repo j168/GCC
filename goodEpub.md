@@ -55,23 +55,16 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 
 直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
 
-
-<h1>其他款电子书</h1>
-<ol>
-	<li><a href="https://git.io/8k"  target="_blank">共产主义的终极目的</a></li>
-	<li><a href="https://git.io/jtdwh" target="_blank">解體黨文化</a></li>
-	<li><a href="https://git.io/mks"  target="_blank">马克思的成魔之路</a></li>
-	<li><a href="https://git.io/jzmqr"  target="_blank">江泽民其人</a></li>
-	<li><a href="https://git.io/fytdx" target="_blank">风雨天地行</a></li>
-	<li><a href="https://git.io/whytd" target="_blank">为什么要三退</a></li>
-	<li><a href="https://git.io/mro" target="_blank">死刑犯遮不住器官市场的蘑菇云</a></li>
-</ol>
 <h1>其他款电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
 	<td  width="280"></td>
 	<td  width="600">說明</td>
 </tr>
+<tr>
+	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Npr.epub?raw=true">音频epub</a></td>
+</tr>		
 <tr>
 	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
 	<td><a href="https://github.com/3fmd/gm/blob/master/gm/epub/sy.epub?raw=true">圖文、視頻epub</a></td>
