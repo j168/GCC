@@ -71,7 +71,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	
 <tr>
 	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Np.epub?raw=true">音频epub</a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Npr.epub?raw=true">音频epub</a></td>
 </tr>	
 <tr>
 	<td>新唐人2018全球华人新年晚会播出通告</td>
