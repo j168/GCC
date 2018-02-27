@@ -31,7 +31,8 @@
 ### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 ******
 ## <a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">（播报版）《共产主义的终极目的》epub电子书的下载点。
-### 您也可以下载 [音频版 mp3 epub（简体版全书）方便聆听、阅读(https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true)
+### 您也可以下载  [音频版 mp3 epub（简体版全书）方便聆听、阅读
+(https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true)
  
 ******
 </td>
