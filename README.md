@@ -1,6 +1,6 @@
 <IMG SRC="GCC/img/little-0226.jpg" width=880></a><br>
 
-<a href="https://git.io/sss"><IMG SRC="img/a0301.jpg" width=880></a></p>
+<a href="https://git.io/sss"><IMG SRC="GCC/img/a0301.jpg" width=880></a></p>
 
 <H1 align="center"><a href="git.io/wh">请大家告诉大家，错过可能得等一年！<br>请通过翻墙软件自由门、无界浏览或爱博电视及 iNTD TV看观看。</a></H1>
 
