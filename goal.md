@@ -1,11 +1,14 @@
 <IMG SRC="GCC/img/little-0226.jpg" width=880><br>
-<H1 align="center"><a href="git.io/wh">请大家告诉大家，错过可能得等一年！<br>请通过翻墙软件自由门、无界浏览或爱博电视及 iNTD TV看观看。</a></H1>
+
+<a href="https://git.io/she"><image src="https://github.com/goodabc/GCC/blob/master/GCC/img/a0301.jpg" width="880"></a>
+	
+<H1 align="center"><a href="git.io/wh">请大家告诉大家，错过可能得等一年！</H1>
+	
+<H3 align="center"><a href="https://git.io/ree">请通过翻墙软件自由门、无界浏览或爱博电视及 iNTD TV看观看。</a></H3>
 
 <a href="https://git.io/good"><b>神韵晚会台湾场次表 epub电子书</b></a>
 
 <h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
-
-<a href="https://git.io/she"><image src="https://github.com/goodabc/GCC/blob/master/GCC/img/a0301.jpg" width="880"></a>
 	
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
