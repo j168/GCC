@@ -1,4 +1,4 @@
-<IMG SRC="GCC/img/little-0226.jpg" width=880></a><br>
+<IMG SRC="GCC/img/little-0302.jpg" width=880><br>
 
 <a href="https://git.io/sss"><IMG SRC="GCC/img/a0301.jpg" width=880></a></p>
 
