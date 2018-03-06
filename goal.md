@@ -2,7 +2,7 @@
 <IMG SRC="GCC/img/sy-IP-orange-0306.jpg" width=880><br>
 <a href="https://git.io/good"><b>神韵晚会台湾场次表 epub电子书</b></a>
 
-<h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
+<h4><a href="http://www.shenyun.com">观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
 	
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
