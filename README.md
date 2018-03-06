@@ -1,6 +1,5 @@
 <IMG SRC="GCC/img/little-0306.jpg" width=880><br>
 <IMG SRC="GCC/img/sy-IP-orange-0306.jpg" width=880><br>
-<a href="https://git.io/sss"><IMG SRC="GCC/img/a0301.jpg" width=880></a></p>
 
 <h4><a href="https://git.io/good"><b>神韵晚会台湾场次表 epub电子书</b></a></h4>
 
