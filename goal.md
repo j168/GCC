@@ -61,7 +61,7 @@
 
 
 <hr>
-<a name=1><span style=color:#0000FF><H2>《九评》编辑部：《共产主义的终极目的》序言</H2></span>
+<a name=1><span style=color:#0000FF><H2 align="center">《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <IMG SRC="GCC/img/1.jpg" width=880><p>
 		<p>【大纪元2017年11月18日讯】在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。大纪元从今天起将刊载全书内容。</p>
 <p>******<br />
