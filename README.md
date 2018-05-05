@@ -863,7 +863,7 @@ http://www.epochtimes.com/gb/17/12/2/n9916363.htm <br>
 <h2>******<br />
 《共产主义的终极目的──中国篇》第六章 以“恨”立国 国已不国（上）</h2>
 <p>目录</p>
-<p>引言：以“恨”立国的<a href="http://www.epochtimes.com/gb/tag/%E5%85%B1%E4%BA%A7%E5%85%9A.html">共产党</a><br />
+<p>引言：以“恨”立国的共产党</a><br />
 1. 超级邪恶放大器<br />
 2. 中共把人变成非人<br />
 1）思想<br />
