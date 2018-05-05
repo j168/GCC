@@ -40,16 +40,7 @@
 
 <h2>下载阅读器：<br><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍。更多的免费(视频、音频、图文) 好看的电子书。</b></a><h2></TD></TR>
 
-********
-## 下载阅读器：
-## 行动装置	
-### 安卓手机
-### 建议使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank" >reasily这款APP</a>
-### 频果装置请使用自带的 iBook阅读 
-## 桌机
-### 作业系统： win10 请使用自带的 Edge， 其他作业系统可以使用浏览器插件
-### 火狐 请使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
-### 谷歌 Chrome 请使用 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl" target="_blank">Readium</a></TD></TR></div>
+
 </TABLE>
 
 <table align="center" >
@@ -59,9 +50,6 @@
 		</td>	
 	</tr>	
 </table> 
-
-[<H1> <center> 下载翻墙软件下载点及使用说明 EPUB 格式电子书 </center></H1>](../master/GCC/ebook/epub/fangqian.epub?raw=true)
-
 
 <hr>
 <a name=1><span style=color:#0000FF><H2 align="center">《九评》编辑部：《共产主义的终极目的》序言</H2></span>
