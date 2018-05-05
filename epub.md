@@ -71,14 +71,31 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	
 <tr>
 	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Npr.epub?raw=true">音频epub</a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Npr.epub?raw=true">音频全书-实体镶崁</a></td>
+</tr>	
+
+<tr>
+	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goal-mp4-Npl.epub?raw=true">音频全书-网络链接</a></td>
 </tr>	
 
 <tr>
 	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">视频、图文epub</a></td>
 </tr>
-	
+<tr>
+	<td>【共产主义的终极目的中国篇】</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">图文epub</a></td>
+</tr>
+<tr>
+	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
+	<td><a href="https://git.io/8k">鑲崁8k音頻</a></td>
+</tr>
+
+<tr>
+	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
+	<td><a href="https://git.io/8k">鑲崁8k音頻</a></td>
+</tr>
 <tr>
 	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/sy.epub?raw=true">视频、图文epub</a></td>
@@ -91,10 +108,7 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td>【九评共产党】</td>
 	<td><a href="https://git.io/9ping">图文epub</a></td>
 </tr>
-<tr>
-	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">图文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true" target="_blank">mp4播报版 epub </a></td>
-</tr>
+
 <tr>
 	<td>解体党文化</td>
 	<td><a href="https://git.io/jtdwh">音频全书-图文-网络链接epub</a></td>
