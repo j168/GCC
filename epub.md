@@ -11,7 +11,7 @@
 【明慧网二零一六年七月二十八日】根据明慧网2009年3月26日刊载的中文chm格式的《九评共产党》制作成ePub格式的电子书。
 下载链接为：<a href="https://git.io/9ping" target="_blank">《九评共产党》ePub格式的电子书</a><p></p>
 
-<h1><a href="https://github.com/3fmd/gm/blob/master/epub.md">更多epub电子书</a></h1>
+<div align="center"><h1><a href="https://github.com/3fmd/gm/blob/master/epub.md">更多epub电子书</a></h1></div>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
 	<td width="640">書名</td>
