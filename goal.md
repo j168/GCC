@@ -34,10 +34,13 @@
 	<h3><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Npr.epub?raw=true">音频版 mp3 epub简体版全书</a><br>
 </a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)</a></h3>
 	
-********	
-<h2>视频下载：<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true" target="_blank">新唐人电视台视频播报版 epub 下载</a><h2></TD></TR>
-<TR><TD> 
 	
+<h2>视频下载：<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true" target="_blank">新唐人电视台视频播报版 epub 下载</a>
+<TR><TD> 
+
+<h2>下载阅读器：<br><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍。更多的免费(视频、音频、图文) 好看的电子书。</b></a><h2></TD></TR>
+
+********
 ## 下载阅读器：
 ## 行动装置	
 ### 安卓手机
