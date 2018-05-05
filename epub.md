@@ -81,11 +81,16 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 
 <tr>
 	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">视频、图文epub</a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">视频全书-网络链接</a></td>
+</tr>
+
+<tr>
+	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">12集视频全书-实体镶崁</a></td>
 </tr>
 <tr>
 	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">图文epub</a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">图文</a></td>
 </tr>
 <tr>
 	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
