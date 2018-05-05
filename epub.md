@@ -62,26 +62,26 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
 
 
-<h1>其他款电子书</h1>
+<h1><a href="https://github.com/3fmd/gm/blob/master/epub.md">更多epub电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="360"></td>
-	<td  width="520">說明</td>
+	<td width="640">書名</td>
+	<td width="350">說明</td>
 </tr>
 	
 <tr>
-	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Npr.epub?raw=true">音频全书-实体镶崁</a></td>
+	<td width="640">（音频版）【共产主义的终极目的中国篇全书】</td>
+	<td width="350"><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Npr.epub?raw=true">音频全书-实体镶崁</a></td>
 </tr>	
 
 <tr>
-	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goal-mp4-Npl.epub?raw=true">音频全书-网络链接</a></td>
+	<td width="640">（音频版）【共产主义的终极目的中国篇全书】</td>
+	<td width="350"><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goal-mp4-Npl.epub?raw=true">音频全书-网络链接</a></td>
 </tr>	
 
 <tr>
-	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">视频全书-网络链接</a></td>
+	<td width="640">（视频版）【共产主义的终极目的中国篇全书】</td>
+	<td width="350"><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">视频全书-网络链接</a></td>
 </tr>
 
 <tr>
