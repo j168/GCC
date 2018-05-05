@@ -73,60 +73,72 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td>（音频版）【共产主义的终极目的中国篇全书】</td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp3Npr.epub?raw=true">音频epub</a></td>
 </tr>	
-<tr>
-	<td>新唐人2018全球华人新年晚会播出通告</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gala2018.epub?raw=true">圖文epub</a></td>
-</tr>	
+
 <tr>
 	<td>（视频版）【共产主义的终极目的中国篇全书】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">视频、圖文epub</a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">视频、图文epub</a></td>
 </tr>
 	
 <tr>
 	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/sy.epub?raw=true">圖文、視頻epub</a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/sy.epub?raw=true">视频、图文epub</a></td>
 </tr>	
 <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
-	<td><a href="https://git.io/fang">圖文、視頻epub</a></td>
+	<td><a href="https://git.io/fang">视频、图文epub</a></td>
 </tr>
 <tr>
 	<td>【九评共产党】</td>
-	<td><a href="https://git.io/9ping">圖文epub</a></td>
+	<td><a href="https://git.io/9ping">图文epub</a></td>
 </tr>
 <tr>
 	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true" target="_blank">mp4播报版 epub </a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">图文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true" target="_blank">mp4播报版 epub </a></td>
 </tr>
 <tr>
-	<td>解體黨文化</td>
-	<td><a href="https://git.io/jtdwh">圖文epub</a></td>
+	<td>解体党文化</td>
+	<td><a href="https://git.io/jtdwh">音频全书-图文-网络链接epub</a></td>
+</tr>
+<tr>
+	<td>解体党文化</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/jtdwh-afl.epub?raw=true">音频全书-文-网络链接</a></td>
+</tr>
+<tr>
+	<td>解体党文化</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/jtdwh-ap1.epub?raw=true">音频全书-实体镶崁-上</a></td>
+</tr>
+<tr>
+	<td>解体党文化</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/jtdwh-ap2.epub?raw=true">音频全书-实体镶崁-下</a></td>
 </tr>
 <tr>
 	<td>马克思的成魔之路</td>
-	<td><a href="https://git.io/mks">圖文epub</a></td>
+	<td><a href="https://git.io/mks">图文epub</a></td>
 </tr>
 <tr>
 	<td>江泽民其人</td>
-	<td><a href="https://git.io/jzmqr">圖文epub</a></td>
+	<td><a href="https://git.io/jzmqr">图文epub</a></td>
 </tr>
 <tr>
 	<td>风雨天地行</td>
-	<td><a href="https://git.io/fytdx">圖文epub</a></td>
+	<td><a href="https://git.io/fytdx">图文epub</a></td>
 </tr>
 <tr>
 	<td>为什么要三退</td>
-	<td><a href="https://git.io/whytd">圖文epub</a></td>
+	<td><a href="https://git.io/whytd">图文epub</a></td>
 </tr>
 <tr>
 	<td>死刑犯遮不住器官市场的蘑菇云</td>
-	<td><a href="https://git.io/mro">圖文epub</a></td>
+	<td><a href="https://git.io/mro">图文epub</a></td>
 </tr>
 <tr>
 	<td>一位律师的肺腑直言</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/lawyer.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/lawyer.epub?raw=true">图文epub</a></td>
 </tr>
-
+<tr>
+	<td>新唐人2018全球华人新年晚会播出通告</td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gala2018.epub?raw=true">图文epub</a></td>
+</tr>	
 </table>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
  </body>
