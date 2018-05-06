@@ -26,9 +26,7 @@
 <TD align="center"><b><h1>《九评》编辑部新书—《共产主义的终极目的——中国篇》</h1><p>
 </b></td>
 </TR>
-	<TR>
-<TD>
-<h2>下载阅读器：<br><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍。更多的免费(视频、音频、图文) 好看的电子书。</b></a><h2></TD></TR>
+
 <TR>
 <TD><h2>全书下载：</h2>
 	<h3>	<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-171207.pdf?raw=true">PDF正体版<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D-2018-0326update.zip?raw=true">简体字TXT文本</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216D-2018-0326update.zip?raw=true">正体字TXT文本</a></h3> </TD></TR>
@@ -41,6 +39,9 @@
 <TD><h2>视频下载：<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true" target="_blank">新唐人电视台视频播报版 epub 下载</a>
 <br>
 </a><br><a href="https://github.com/goodabc/GCC/blob/master/zjmd.md">频播报版12集(实体镶崁) epub 下载</a></h3></TD></TR>
+	<TR>
+<TD>
+<h2>下载阅读器：<br><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍。更多的免费(视频、音频、图文) 好看的电子书。</b></a><h2></TD></TR>
 </div>
 </TABLE>
 
