@@ -1,4 +1,4 @@
-<img src=GCC/img/lian-0507.jpg>
+<img src=GCC/img/lian-0510.jpg>
 
 <table>
 <tr>
