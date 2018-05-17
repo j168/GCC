@@ -1,7 +1,4 @@
-<IMG SRC="GCC/img-2/lian-0515.jpg" width=880><br>
-<IMG SRC="GCC/img-2/sy-IP-orange-0515.jpg" width=880><br>
-
-<h4><a href="http://www.shenyun.com">观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
+<IMG SRC="GCC/img-2/0517.jpg" width=880><br>
 	
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
