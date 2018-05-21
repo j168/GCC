@@ -254,7 +254,7 @@
 
 <hr>
 <div align="center"><img src="GCC/img/275680cb428fc5f39cce8c1a320fda27-600x400.jpg" width=640></div>
-<div align=""center"">《共产主义的终极目的》新书封面。（博大出版社）</div><p>
+<div align="center">《共产主义的终极目的》新书封面。（博大出版社）</div><p>
   
 <h1 align="center"><b>《共产主义的终极目的》新书开始发行</b></h1>
 
