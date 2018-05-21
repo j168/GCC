@@ -1,4 +1,4 @@
-<a href=#top><h6 align="right">回上方</h6></a>
+<a name=top>
 <a href=#1>公告<br>
 <a href=#2>九评编辑部：魔鬼在统治着我们的世界(1)<br>
 <a href=#3>九评编辑部：魔鬼在统治着我们的世界(2)<br>
