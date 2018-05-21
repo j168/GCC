@@ -48,7 +48,7 @@
 		</td>	
 	</tr>	
 </table> 
-
+<h2><a href="https://github.com/goodabc/GCC/blob/master/jysl.md">纪元社论</a></h2>
 <h2><a href="https://github.com/goodabc/GCC/blob/master/xgpl.md">推荐文章</a></h2>
 
 
