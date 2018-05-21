@@ -1,5 +1,5 @@
 
-<div align="center"><img src="img/A006005-600x400.jpg" width=640></div>
+<div align="center"><img src="GCC/img/A006005-600x400.jpg" width=640></div>
 <div align="center">图为法轮功学员游行中的“九评”横幅。（戴兵／大纪元）</div><p>
   
 <h1><b>《共产主义的终极目的》是揭开创世真相的天书（上）</b></h1>
