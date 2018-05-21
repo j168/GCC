@@ -49,6 +49,9 @@
 	</tr>	
 </table> 
 
+<h2><a href="https://github.com/goodabc/GCC/blob/master/xgpl.md">推荐文章</a></h2>
+
+
 <hr>
 <a name=1><span style=color:#0000FF><H2 align="center">《九评》编辑部：《共产主义的终极目的》序言</H2></span>
 <div align=center><div align=center><IMG SRC="GCC/img/1.jpg" width=640></div></div><p>
