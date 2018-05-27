@@ -880,7 +880,7 @@
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
 <div align="center">《九评》编辑部：魔鬼在统治着我们的世界。（大纪元制图）</div><p>
 
-【大纪元2018年05月24日讯】<b>第四章 输出革命<b>
+【大纪元2018年05月24日讯】<b>第四章 输出革命</b>
 
 <b>目  录</b>
 
