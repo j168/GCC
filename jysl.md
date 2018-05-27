@@ -7,7 +7,7 @@
 <a href=#5>魔鬼在统治着我们的世界(4)：欧洲发端<br>
 <a href=#6>魔鬼在统治着我们的世界(5)：东方杀戮<br>
 <a href=#7>魔鬼在统治着我们的世界(6)：输出革命<br>
-<a href=#7>魔鬼在统治着我们的世界(7)：渗透西方(上)<br>
+<a href=#8>魔鬼在统治着我们的世界(7)：渗透西方(上)<br>
   
 <hr>
 <a name=1>
@@ -1127,12 +1127,12 @@
 
 <b>目录</b>
 
-引言
-1. 暴力共产主义和非暴力共产主义
-2. 共产国际、谍报战、“谣言”战
-3. 从罗斯福新政到进步主义
-4. 西方的文化大革命
-5. 和平反战运动与民权运动
+引言<br>
+1. 暴力共产主义和非暴力共产主义<br>
+2. 共产国际、谍报战、“谣言”战<br>
+3. 从罗斯福新政到进步主义<br>
+4. 西方的文化大革命<br>
+5. 和平反战运动与民权运动<br>
 
 *****
 
@@ -1277,8 +1277,6 @@
 全世界人都希望和平，和平主义的思想和实践滥觞于几千年以前的古代，20世纪以来也有一些富于远见和爱心的人物为了消除国家间的误解和敌意而奔走操劳。由于历史原因，在美国等西方国家存在种族歧视的现象，民众为消除种族歧视所做的教育、宣传甚至抗争都是可以理解的。共产邪灵利用社会上存在的思想动向和矛盾摩擦，挑拨离间，煽动仇恨、制造暴力，欺骗和裹挟了很多最初并无恶意的民众。
 
 （点阅《九评》编辑部新书《魔鬼在统治着我们的世界》）
-
-*****
 
 [1] “An Interview with Trevor Loudon,” Capital Research Center, https://capitalresearch.org/article/an-interview-with-trevor-loudon/. 工人世界党成立于1959年，致力于“在美国和世界范围内发起社会主义革命”，近年参与了很多捣毁各地历史雕像的极端抗议活动。参见： “Who are the Workers World Party, the group who helped organize the Durham Confederate statue toppling,” http://abc11.com/politics/who-are-the-workers-world-party-and-why-durham/2314577/.
 
