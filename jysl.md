@@ -1,5 +1,5 @@
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
-<a href=https://git.io/goal><h6 align="right">回首頁</h6></a>
+<a href="https://git.io/goal"><h6 align="right">回首頁</h6></a>
 
 <a name=top>
 <a href=#1>公告<br>
