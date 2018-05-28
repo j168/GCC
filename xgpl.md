@@ -1,3 +1,5 @@
+<a href=https://github.com/goodabc/GCC/blob/master/goal.md><h6 align="right">回首頁</h6></a>
+
 <h1 align="center"><b>《共产主义的终极目的》是揭开创世真相的天书（上）</b></h1>
 
 <div align="center"><img src="GCC/img/A006005-600x400.jpg" width=640></div>
