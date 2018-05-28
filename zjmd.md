@@ -1,4 +1,6 @@
-<img src=GCC/img-2/0524-2.jpg>
+<img src=GCC/img-2/0528.jpg>
+
+<a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <table>
 <tr>
