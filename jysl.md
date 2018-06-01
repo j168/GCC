@@ -1731,7 +1731,7 @@
 <a href=#top><h6 align="right">回上方</h6></a>
 
 <hr>
-<a name=31>
+<a name=11>
 <h1 align="center"><b>魔鬼在统治着我们的世界(10)：家庭篇(上)</b></h1>
 <h3 align="center"><b>共产党的幽灵并没有随着东欧共产党的解体而消失</b></h3>
 <div align="center"><img src="GCC/img/c2ff7a9dd8ad4e3e2dab73efe1986eaa-600x400.jpg" width=640></div>
