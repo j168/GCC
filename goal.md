@@ -1,5 +1,7 @@
 <IMG SRC="GCC/img-2/0609.jpg" width=880><br>
-	
+
+<a href=https://git.io/01><h6 align="right">回首頁</h6></a>
+
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
 <a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
