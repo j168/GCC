@@ -3,11 +3,12 @@
 
 <a href=https://github.com/goodabc/GCC/blob/master/goal.md><h6 align="right">回首頁</h6></a>
 
-魔鬼在统治着我们的世界
+<a href=#1>公告<br>
+  
+  魔鬼在统治着我们的世界
 
 ──共产党的幽灵并没有随着东欧共产党的解体而消失
 
-<a href=#1>公告<br>
 <a href=#2>九评编辑部：魔鬼在统治着我们的世界(1)</a><br>
 <a href=#3>九评编辑部：魔鬼在统治着我们的世界(2)</a><br>
 <a href=#4>魔鬼在统治着我们的世界(3)：毁人36计</a><br>
