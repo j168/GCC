@@ -1,4 +1,4 @@
-<IMG SRC="GCC/img-2/0609.jpg" width=880><br>
+<IMG SRC="GCC/img-2/0614.jpg" width=880><br>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
