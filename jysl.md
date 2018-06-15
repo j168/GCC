@@ -3375,7 +3375,7 @@ https://www.marxists.org/archive/lenin/works/1905/jul/10.htm.
 <a name=17>
 <h1 align="center"><b>魔鬼在统治着我们的世界(16)：法律篇</b></h1>
 <h3 align="center"><b>共产党的幽灵并没有随着东欧共产党的解体而消失</b></h3>
-<div align="center"><img src="GCC/img/0c3e9cbad25e493e86a986029a0e8826-600x400." width=640></div>
+<div align="center"><img src="GCC/img/0c3e9cbad25e493e86a986029a0e8826-600x400.jpg" width=640></div>
 <div align="center">《九评》编辑部：魔鬼在统治着我们的世界。（大纪元制图）</div><p>
 
 【大纪元2018年06月15日讯】<b>第十章 法律篇：魔鬼将邪恶合法化和常态化</b>
