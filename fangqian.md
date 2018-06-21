@@ -31,7 +31,7 @@
           <td>
             无界
           </td><td>
-            <a href="https://git.io/v6836">无界一点通</a>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/fangqian.epub?raw=true">无界一点通4.5</a>
           </td>
          <td>
             <a href="https://git.io/vEJlj">无界浏览</a>
