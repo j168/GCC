@@ -5,6 +5,8 @@
 
 <a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/Mgrw.epub?raw=true"><h3 align=center>epub电子书下载</a></h3>
 
+<h2 align=center>下载阅读器：<br><a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机、电脑打开 epub 电子书方法介绍。更多的免费(视频、音频、图文) 好看的电子书。</b></a></h2>
+
 <a href=#1>公告<br></a>
   
   魔鬼在统治着我们的世界<br>
