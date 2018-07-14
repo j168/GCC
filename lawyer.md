@@ -1,4 +1,5 @@
-<div align="center"><IMG SRC="GCC/img-2/0710.jpg"></a><br>
+<img src="GCC/img-2/0714.jpg" width=880><br>
+<div align=center><img src="GCC/img-2/logo-0714.png" width=500></div><br>
 <img src="../master/GCC/img/flcz.jpg" width="640"></div>
 
 <h1>一位律师的肺腑直言：我为什么发自内心敬佩法轮功</h1>
