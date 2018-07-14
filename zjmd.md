@@ -1,4 +1,5 @@
-<img src=GCC/img-2/0710.jpg>
+<img src="GCC/img-2/0714.jpg" width=880><br>
+<div align=center><img src="GCC/img-2/logo-0714.png" width=500></div><br>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
