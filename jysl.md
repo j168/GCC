@@ -4366,7 +4366,7 @@ https://www.marxists.org/archive/lenin/works/1905/jul/10.htm.
 <a name=20>
 <h1 align="center"><b>魔鬼在统治着我们的世界(19)：教育篇(下)</b></h1>
 <h3 align="center"><b>共产党的幽灵并没有随着东欧共产党的解体而消失</b></h3>
-<div align="center"><img src="Gimg/fbc36dcdd8bda3b2be91d11c498872eb-600x400.jpg" width=640></div>
+<div align="center"><img src="GCC/img/fbc36dcdd8bda3b2be91d11c498872eb-600x400.jpg" width=640></div>
 <div align="center">《九评》编辑部：魔鬼在统治着我们的世界。（大纪元制图）</div><p>
 
 【大纪元2018年07月16日讯】<b>第十二章 教育篇：魔鬼在毁掉我们的后代和未来（下）</b>
