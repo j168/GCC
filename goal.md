@@ -1,5 +1,5 @@
-<img src="GCC/img-2/0714.jpg" width=880><br>
-<div align=center><img src="GCC/img-2/logo-0714.png" width=500></div><br>
+<img src="GCC/img-2/0718.jpg" width=880><br>
+
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
