@@ -1,4 +1,6 @@
 <a name=top>
+  <div align="center"><IMG SRC="GCC/img-2/0815.jpg" width=640></div><br>
+    
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
 
 <a href="https://git.io/01"><h6 align="right">回首頁</h6></a>
