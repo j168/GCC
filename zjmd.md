@@ -1,5 +1,5 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
-<IMG SRC="GCC/img-2/0819.jpg" width=640></div><br>
+<IMG SRC="GCC/img-2/0823.jpg" width=640></div><br>
 	
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
