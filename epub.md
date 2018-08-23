@@ -3,7 +3,7 @@
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
 
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
-<IMG SRC="GCC/img-2/0815.jpg" width=640><br>
+<IMG SRC="GCC/img-2/0823.jpg" width=640><br>
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
 
