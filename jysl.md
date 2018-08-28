@@ -14,7 +14,7 @@
   魔鬼在统治着我们的世界<br>
 ──共产党的幽灵并没有随着东欧共产党的解体而消失
 
-<h2><b>文字、(MP3音频下载)、(MP4视频下载)</b></h2>
+<h2><b>文字、(MP3音频下载)</b></h2>
 
 <a href=#2>前言</a><br>
 <a href=#3>绪论：魔鬼在统治着我们的世界</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep01_preface_MP3_64k.mp3?raw=true">(64k)</a><br>
