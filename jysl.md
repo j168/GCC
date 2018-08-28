@@ -14,7 +14,7 @@
   魔鬼在统治着我们的世界<br>
 ──共产党的幽灵并没有随着东欧共产党的解体而消失
 
-文字、(MP3音频下载)、(MP4视频下载)
+<h2><b>文字、(MP3音频下载)、(MP4视频下载)</b></h2>
 
 <a href=#2>前言</a><br>
 <a href=#3>绪论：魔鬼在统治着我们的世界</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep01_preface_MP3_64k.mp3?raw=true">(64k)</a><br>
@@ -29,7 +29,7 @@
 <a href=#12>第七章  家庭篇：魔鬼在毁掉我们的家庭（下）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep10_Ch07_2-MP3_64k.mp3?raw=true">(64k)</a><br>
 <a href=#13>第八章  政治篇：魔鬼在祸乱我们的国家（上）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep11_Ch08_1-MP3_64k.mp3?raw=true">(64k)</a><br>
 <a href=#14>第八章  政治篇：魔鬼在祸乱我们的国家（下）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep12_Ch08_2-MP3_64k.mp3?raw=true">(64k)</a><br>
-<a href=#15>第九章  经济篇：魔鬼的诱饵（上）</a><br>
+<a href=#15>第九章  经济篇：魔鬼的诱饵（上）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep13_ch09_1-MP3_64k.mp3?raw=true">(64k)</a><br>
 <a href=#16>第九章  经济篇：魔鬼的诱饵（下）</a><br>
 <a href=#17>第十章  法律篇：魔鬼将邪恶合法化和常态化</a><br>
 <a href=#18>第十一章 艺术篇：从赞美神到亵渎神</a><br>
