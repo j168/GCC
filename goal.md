@@ -47,7 +47,7 @@
 <table align="center" >
 	<tr>
 		<td>
-		<a href="fq.md"><div align=center><IMG SRC="../master/GCC/img/fq2.jpg" width="880"></a>	
+		<a href="https://github.com/goodabc/GCC/blob/master/fangqian.md"><div align=center><IMG SRC="../master/GCC/img/fq2.jpg" width="880"></a>	
 		</td>	
 	</tr>	
 </table> 
