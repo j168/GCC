@@ -1,7 +1,7 @@
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
-<IMG SRC="GCC/img-2/0828.jpg" width=640><br>
+<IMG SRC="GCC/img-2/0830.jpg" width=640><br>
   
 <body>
 
