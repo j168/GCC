@@ -30,7 +30,7 @@
 <a href=#13>第八章  政治篇：魔鬼在祸乱我们的国家（上）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep11_Ch08_1-MP3_64k.mp3?raw=true">(64k)</a><br>
 <a href=#14>第八章  政治篇：魔鬼在祸乱我们的国家（下）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep12_Ch08_2-MP3_64k.mp3?raw=true">(64k)</a><br>
 <a href=#15>第九章  经济篇：魔鬼的诱饵（上）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep13_ch09_1-MP3_64k.mp3?raw=true">(64k)</a><br>
-<a href=#16>第九章  经济篇：魔鬼的诱饵（下）</a><br>
+<a href=#16>第九章  经济篇：魔鬼的诱饵（下）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep14_ch09_2_64k.mp3?raw=true">(64k)</a><br>
 <a href=#17>第十章  法律篇：魔鬼将邪恶合法化和常态化</a><br>
 <a href=#18>第十一章 艺术篇：从赞美神到亵渎神</a><br>
 <a href=#19>第十二章 教育篇：魔鬼在毁掉我们的后代和未来（上）<br>
