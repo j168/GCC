@@ -1,5 +1,5 @@
 <a name=top>
-  <div align="center"><IMG SRC="GCC/img-2/09122.jpg" width=640></div><br>
+  <div align="center"><IMG SRC="GCC/img-2/09166.jpg" width=640></div><br>
     
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
 
