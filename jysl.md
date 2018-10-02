@@ -1,4 +1,4 @@
-a name=top>
+<a name=top>
   <div align="center"><IMG SRC="GCC/img-2/1002.jpg" width=640></div><br>
     
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
@@ -39,7 +39,7 @@ a name=top>
 <a href=#22>第十四章 大众文化和社会生活篇：魔鬼的狂欢</a><br>
 <a href=#23>第十五章  恐怖主义的共产主义根源</a><br>
 <a href=#24>第十六章  环保主义背后的共产主义推手（上）</a><br>
-<a href=#25>第十六章  环保主义背后的共产主义推手（下）</a><br>  
+<a href=#25>第十六章  环保主义背后的共产主义推手（下）</a><br>
 第十七章  全球化背后的共产主义黑手</a><br>
 第十八章  魔鬼安排下中共的全球野心</a><br>
 结束语</a><br>
@@ -6087,7 +6087,7 @@ https://science.house.gov/legislation/hearings/full-committee-hearing-climate-sc
 
 <hr>
 
-<a name=24>
+<a name=25>
 <h1 align="center"><b>魔鬼在统治着我们的世界(23)：环保主义(下)</b></h1>
 <h3 align="center"><b>共产党的幽灵并没有随着东欧共产党的解体而消失</b></h3>
 <div align="center"><img src="GCC/img/ada95ed9de626286fc0294810cdff25b-600x400.jpg" width=640></div>
