@@ -1,5 +1,5 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
-<IMG SRC="GCC/img-2/0928.jpg" width=640><br>
+<IMG SRC="GCC/img-2/1002.jpg" width=640><br>
 
 <img src="../master/GCC/img/flcz.jpg" width="640"></div>
 
