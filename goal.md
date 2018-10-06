@@ -1,6 +1,8 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
 <IMG SRC="GCC/img-2/1002.jpg" width=640></div><br>
-	
+
+新唐人 新闻 评论 视频  http://61.228.119.244
+
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
