@@ -1,5 +1,5 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
-<IMG SRC="GCC/img-2/1002.jpg" width=640></div><br>
+<IMG SRC="GCC/img-2/ntdtvflower.jpg" width=640></div><br>
 
 新唐人 新闻 评论 视频  http://61.228.119.244
 
