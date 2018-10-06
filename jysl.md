@@ -1,7 +1,7 @@
 <a name=top>
 <IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800></div><br>
 
-<div align="center">新唐人 新闻 评论 视频 http://61.228.119.244</div>
+<div align="center">新唐人 新闻 评论 视频 http://61.228.119.244 </div>
 
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
 
