@@ -2,7 +2,7 @@
 
 新唐人 新闻 评论 视频 http://61.228.119.244</div>
 
-<img src="../master/GCC/img/flcz.jpg" width="640"></div>
+<div align="center"><img src="../master/GCC/img/flcz.jpg" width="640"></div>
 
 <h1>一位律师的肺腑直言：我为什么发自内心敬佩法轮功</h1>
 <p></p>
