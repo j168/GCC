@@ -1,12 +1,12 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
 <IMG SRC="GCC/img-2/ntdtvflower.jpg" width=640></div><br>
 
-新唐人 新闻 评论 视频  http://61.228.119.244
+<div align="center">新唐人 新闻 评论 视频  http://61.228.119.244</div>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
-<div class="title">		
+<div class="title"><b>	
 <a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
 <a href=#2><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (1)</span><br>
 <a href=#3><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (2)</span><br>
@@ -20,7 +20,7 @@
 <a href=#11><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (10)</span><br>
 <a href=#12><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (11)</span><br>
 <a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
-</div><p>
+</b></div><p>
 	
 <TABLE border="0">
 <div>	
