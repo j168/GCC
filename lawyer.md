@@ -1,6 +1,6 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800><br>
 
-新唐人 新闻 评论 视频 http://61.228.119.244</div>
+新唐人 新闻 评论 视频 http://36.227.98.164</div>
 
 <div align="center"><img src="../master/GCC/img/flcz.jpg" width="640"></div>
 
