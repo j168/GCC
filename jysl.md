@@ -1,7 +1,7 @@
 <a name=top>
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800><br>
 
-http://61.228.119.244 </div>
+http://36.227.98.164 </div>
 
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
 
