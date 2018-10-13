@@ -1,8 +1,9 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800><br>
 
-新唐人 新闻 评论 视频 http://61.228.116.242</div>
+新唐人 新闻 评论 视频 http://220.141.123.94</div>
 
 <hr>
+<h1><b><a href="https://git.io/zbdodo">热门 三退大潮 觉醒之路</a></b></h1>
 
 <h1><b><a href="https://git.io/3f">手机上好看的电子书（ePub版）</a></b></h1>
 
@@ -10,7 +11,7 @@
 
 <h1><b><a href="https://git.io/goal-2">《魔鬼在统治着我们的世界》</a></b></h1>
 
-<h1><b><a href="https://git.io/n99">热门评论</a></b></h1>
+<h1><b><a href="https://git.io/n99">热门时事、评论</a></b></h1>
 
 <h1><b><a href="https://git.io/wnn">小之分享</a></b></h1>
 
