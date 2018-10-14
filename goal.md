@@ -1,7 +1,7 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
 <IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800></div><br>
 
-<div align="center">新唐人 新闻 评论 视频  http://220.141.123.94</div>
+<div align="center">新唐人视频 http://61.228.117.11</div>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
