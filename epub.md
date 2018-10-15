@@ -3,13 +3,10 @@
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
 
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800><br>
-
-新唐人 新闻 评论 视频 http://220.141.123.94</div>
+	
+新唐人视频 http://61.228.117.11</div>
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
-
-
- 
 
 【明慧网二零一六年七月二十八日】根据明慧网2009年3月26日刊载的中文chm格式的《九评共产党》制作成ePub格式的电子书。
 下载链接为：<a href="https://git.io/9ping" target="_blank">《九评共产党》ePub格式的电子书</a><p></p>
