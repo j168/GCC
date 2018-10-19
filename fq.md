@@ -1,4 +1,6 @@
+<div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800><br>
 
+新唐人视频 http://220.141.117.129</div>
 
 <table align="center" >
 	<tr>
