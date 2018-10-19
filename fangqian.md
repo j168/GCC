@@ -1,7 +1,7 @@
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800><br>
 
-新唐人视频 http://61.228.117.11</div>
+新唐人视频 http://220.141.117.129</div>
   
 <body>
 
