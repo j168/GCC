@@ -4,7 +4,7 @@
 
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800><br>
 	
-新唐人视频 http://111.241.99.25</div>
+新唐人视频 http://61.228.118.29</div>
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
 
