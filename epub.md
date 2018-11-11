@@ -2,9 +2,8 @@
  <body>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
 
-<div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800><br>
-	
-新唐人视频 http://61.228.118.29</div>
+<div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
+<h3>新唐人视频 http://220.141.120.73</h3></div>
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
 
