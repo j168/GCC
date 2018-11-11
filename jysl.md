@@ -5462,7 +5462,7 @@ http://www.fashionencyclopedia.com/fashion_costume_culture/Modern-World-Part-II-
 
 前克格勃头子、后来的苏共总书记安德罗波夫在上世纪70年代初期，决定要发起一场精心策划而又隐蔽的宣传运动，在阿拉伯和伊斯兰世界里播下反犹和反美的仇恨种子。安德罗波夫被西方称为“新的造谣时代之父”（the father of a new misinformation era），目的是要灌输仇恨，并将这种情感武器变成对以色列及其主要支持者美国的恐怖主义血腥屠杀，让美国和犹太复国主义势力范围内的任何人都不再感到安全。[9]
 
-3. 极端伊斯兰恐怖主义的共产毒根
+<b>3. 极端伊斯兰恐怖主义的共产毒根</b><p>
 2001年9月11日的 “9·11恐怖袭击”，改变了世界的格局。本‧拉登和他背后的“基地组织”登上了新闻头版。伊斯兰极端分子被推上了浪尖风口。
 
 全世界绝大多数人对恐怖袭击的第一反应是震惊和悲痛，然而在地球另一边，共产党严厉钳制言论自由的中国却是另一番场景。从互联网论坛、聊天室，到大学食堂，都有大批人群对此欢呼：“干得好啊！”“强烈支持针对美国的正义行动”……根据中国主要网站“网易”对91,701人的调查，表达“强烈反对恐怖主义”的只占17.8%，多数人或者选择“反美”或者选择“好戏在后头”等幸灾乐祸的态度。[10]
@@ -5611,7 +5611,7 @@ http://www.fashionencyclopedia.com/fashion_costume_culture/Modern-World-Part-II-
 
 点阅《九评》编辑部《魔鬼在统治着我们的世界》全书。
 
-*****
+**
 
 [1] Brian Whitaker, “The Definition of Terrorism,” The Guardian, May 7, 2001 , https://www.theguardian.com/world/2001/may/07/terrorism.
 
