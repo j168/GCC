@@ -5227,4 +5227,169 @@ https://www.marxists.org/archive/lenin/works/1905/jul/10.htm.
 
 在大多数欧洲国家里，性交易并不违法。在欧洲民众看来，从娼也是一种工作。1969年丹麦成为世界上第一个把色情合法化的国家。丹麦的邻居挪威，曾是欧洲对色情业限制最严格的国家，也在2006年把色情业合法化了。[21]在丹麦买春也能享有政府给予的福利，残障人士只要向政府申请，经审查合格后，就可在指定时间，到指定妓院嫖妓，由政府“买单”，称这是为了保证他们“平等的权利”。[22]这恰恰是空想社会主义创始人傅里叶在19世纪提出的主张。
 
-曾经全社会禁欲、谈性色变的中国，可谓是性革命浪潮中的“佼佼者”。中共改革开放中，最“成功”的莫过于性解放。如果要问中共什么开放得最彻底？不是经济，当然更不是政治，一个字，就是“性”，三十年完成了从“革命性”到“性革命”的彻底转型。中国可谓娼妓遍地，社会风气是“笑贫不笑娼”，包二奶、三奶、N奶成为官员们显摆的资本，
+曾经全社会禁欲、谈性色变的中国，可谓是性革命浪潮中的“佼佼者”。中共改革开放中，最“成功”的莫过于性解放。如果要问中共什么开放得最彻底？不是经济，当然更不是政治，一个字，就是“性”，三十年完成了从“革命性”到“性革命”的彻底转型。中国可谓娼妓遍地，社会风气是“笑贫不笑娼”，包二奶、三奶、N奶成为官员们显摆的资本，社会上下竞相效仿，中华大地被搞得乌烟瘴气。有人说中国是世界工厂，其实中国输出到世界各地的还有大量的妓女。日本、马来西亚、中东、美国、欧洲甚至非洲，都有来自中国的庞大的妓女军团。有报导指出，在撒哈拉以南非洲国家里有13,000到18,500名来自中国的妓女。[23]
+
+东南亚、南美各国也不能幸免，很多城市已成性旅游（sex tourism）的重要目的地，虽然不合法，但性交易却成了某些国家拉动经济增长的一项重要指标。甚至在非洲的埃及、突尼斯、苏丹等伊斯兰国家，被传统风俗视为“洪水猛兽”的色情业也暗潮汹涌。
+
+色情泛滥对社会的一个最直接的影响就是破坏家庭和婚姻，被称为“寂静的家庭杀手”（the quiet family killer）。观看色情内容导致人们对良好的家庭关系失去兴趣。色情制品会导致人产生更大的性放纵，从而导致非婚生育和性病的风险增加。[24]
+
+在2004年美国参议院的证词中，吉尔曼宁博士分享了一些有关色情和婚姻关系的数据。她在研究中发现56%的离婚案件涉及一方对色情网站有着浓厚的兴趣。[25]
+
+2016年美国社会学协会（American Sociological Association）年会上发表的一份研究表明，观看色情内容的比没有观看的同龄人更容易离婚，离婚率多了一倍。该研究显示，丈夫看色情的，离婚率从5%增加到10%；妻子看色情的，离婚率从6%增加到18%。还发现越年轻看色情，越容易离婚。[26]
+
+上世纪50年代以前，无论东西方各国都把婚前性生活看作是不检点，违反神给人留下的训诫。社会的压力舆论都阻止这样的事情发生。一旦年轻男女不检点，有了孩子的话，就必须为孩子、大人及社会负责而成家结婚。当时人们普遍认为：“如果一个女子因为你而怀孕，就和她结婚。没有其它选择。”[27]做错了事，就要承担后果。但随着人们的道德下滑，在性开放的带动下，自60年代以来，非婚生育大幅上升。这都是在色情产业大发展的社会环境下发生的。在1964年，未婚生育不到10%；到了2014年，主要发达国家的非婚生育已经达到了三分之一。在美国，非婚生育的平均水平是40%，在黑人中达到了71%。在2016年出生的世界1.4亿新生儿中，大约15%或2100万是非婚生育的。[28]
+
+非婚生育、离婚造成的单亲家庭常常与贫穷联系在一起。这些家庭又成为社会福利的负担。
+
+4）电玩成风
+现在很多孩子每天要花好几个小时玩电玩游戏，许多制造商们把游戏做得越来越逼真、越来越动感、越来越暴力和色情、越来越吸引人、越来越让孩子甚至大人沉溺其中而不能自拔，已经成为家长、学校甚至政府很头疼的事情。电玩游戏成为了一种伴随着人成长的大众文化，可是，这是一种什么样的文化呢？是毁人的文化，和毒品无异。沉迷于电玩游戏中的人根本无法冷静客观地看到电玩游戏带来的弊端，只觉得好玩、有趣、不赢不罢休。而且现在的电玩游戏从画面到情节几乎都在鼓吹暴力与厮杀，色情挑逗，晦暗冷血，传导的信息也是魔性的。从画面到内容很多都是青少年不宜的东西。很多电玩游戏让人从杀戮、破坏、暴力、血腥和争斗中得到快感。有些让孩子变得性早熟，更容易走向乱性甚至犯罪。
+
+网络化的电玩游戏，或称“网络游戏”，更容易使人上瘾。过去游戏是一个人在无聊的时候用来打发时间而已，现在的网络游戏成为了一种主动参与的“体育运动”，要多人同时在线玩，也变相成为人们特别是孩子们的社交活动。因为是大量玩家互动，造成了玩家的攀比心理，使人容易过度投入，会投入大量精力还有金钱。不玩此类游戏的孩子很可能没有朋友而沦为心理怪癖的孤独人，被同龄孩子看不起，于是，连家长都不得不放手让孩子玩电玩游戏，眼睁睁地看着孩子跳火坑。电玩游戏占用了孩子们大量的学习时间、户外活动时间、传统的人际交往时间，使孩子们成为了电玩游戏的俘虏。
+
+一位学者讲述了自己的亲身经历。他12岁的儿子只能定量玩电玩游戏，做完了作业才能在周末玩几个小时。如果儿子能自己做主的话，他每天要玩23.5个小时的游戏，很可能连澡都不洗，饭也不吃。他的研究表明，电玩游戏越来越多地占领了年轻人的娱乐时间，使得受教育程度低和低收入的年轻人群通过电玩游戏得到了幸福感，因此减少了他们去工作的时间。[29]这种现象在美国和其它发达国家都普遍存在。
+
+这位学者看到的社会现象是，电玩游戏造成了越来越多的年轻人不去工作，而依赖自己的父母生活。这样下去的话，到这些年轻人为人父母时，电玩游戏不能当饭吃，年轻时虚度的光阴不会帮助他们提升技术或者找到更好的工作，而他们的下一代则连依赖父母的机会都没有了。电玩游戏已经达到破坏人类正常生活状态的程度。
+
+电玩游戏就是“精神毒品”，与海洛因毒品不同的是，海洛因是所有国家禁止的，但是电玩游戏却被一些国家当作推动GDP的重大产业来发展。这意味着什么？就是国家在制造毒品，用这样的“精神毒品”来毁灭下一代，让国家和人类没有未来。
+
+互联网和手机的出现为电玩游戏产业开辟了一个更广大的市场。调研机构Newzoo在2018年4月公布的最新的全球游戏市场报告预估，2018年全球游戏市场营收将达1,379亿美元，比上年增长13.3%。超过一半的游戏收入来自手机用户。数字游戏占了全球市场的91%。该报告还预测，游戏市场将在下一个十年内保持两位数增长。在很多国家的GDP增长率在个位数的低端挣扎的时候，游戏业却是一路高歌。光是手机游戏，预计到2021年将达到1000亿美元的水平。报告称2018年全球市场中的前三名将分别是中国、美国和日本，中国就占了28%。[30]
+
+信神的人们应该知道，神造了人，也为人安排了正常的生活方式，包括娱乐方式。人走在神安排的路上，将在末世之时得到神的救度。当远离神祇、背叛神，走在魔鬼安排的路上，则只能被神抛弃、被魔鬼毁掉。传统的游戏、体育活动和其它户外活动受自然、天气、器材和体力的限制，很难让人们成瘾，而电玩游戏基本不存在这些限制，可以让人们不眠不休地沉浸其中。但当人们看的玩的都是魔性的、魔鬼隐蔽其后的电玩游戏等，那只能和魔鬼沟通，听从魔鬼安排，不知不觉中走进魔鬼设计的圈套中。
+
+5）暴力文化
+美国从1960年到2016年，总人口增长了1.8倍，而总犯罪事件增长2.7倍，暴力事件则增长了4.5倍。[31]
+
+在1966年德州大学奥斯汀分校大规模枪杀案（University of Texas Tower shooting）之前的五十年，只有25起造成4人以上死亡的大规模枪杀案。从那以后恶性大规模枪杀事件愈演愈烈。[32]从1991年致死23人的德州基林（Killeen）枪杀案，到2017年屠杀58人的拉斯维加斯枪杀案，每一次进入公众视线的大规模枪杀案都让人触目惊心。
+
+世界范围内，每年恐怖主义事件从1970年的650起跃升到2016年的13,488起，增加了20倍。自从2001年9.11恐怖攻击之后，恐怖攻击事件增加了160%。[33]
+
+现实世界的暴力和我们的日常生活经验相一致：我们的日常生活已经被暴力文化所包围。不但激烈的摇滚重金属音乐中充满了暴力，大多数影视作品甚至电玩也以暴力为主题。许多影视作品都用正面形象的演员和手法来刻画黑社会、帮派、海盗形象，给这些负面形象赋予了魅力和光环，使得人们不但不反感，反而开始向往犯罪和黑帮。电子游戏的出现又给人一条双向互动的在游戏中使用暴力的渠道，使得暴力从影视作品的单方面的灌输，到使得人们积极地从游戏中得到暴力的体验，游戏中砍头断肢、血腥四溅的场景往往超过了电影的尺度。
+
+在2013年的一项研究中，研究者分析了从1985年到2012年之间出品的电影，结果发现从1985年至2012年间，PG-13卖座大片中枪支暴力镜头数量增加了2倍。[34]后续研究中揭示这一趋势持续至今。[35]2008年的皮尤调查研究中发现97%的12到17岁的年轻人玩过电玩，其中有2/3的人玩暴力内容的游戏。[36]
+
+面对社会中不断增多的暴力问题，从专家、学者到社会公众，人们不断提出各种设想和解决方案，从更严的法律限制、更大的执法保护，到提供公众心理咨询。但是这些方案只不过相当于砍掉有毒的树枝，却没有斩断毒根。共产邪灵通过有意地带动大众文化渲染暴力和犯罪，让更多的人们接触这类内容而见怪不怪，而部分人被这些内容带动模仿，使得暴力变成社会现实。魔鬼通过败坏传统文化、变异人的道德、让人远离神而追寻无止境的物质和欲望的满足，才是真正造成社会问题的根本原因。
+
+6）变异时尚
+今天在社会上所流行的各种奇奇怪怪的装束、行为，乃至许多习以为常的大众文化元素，表面看似个人的“自由选择”或者“时尚潮流”，其实都不是偶然出现的。究其来源，有许多装束、行为的背后往往都打着魔鬼的印记。只是随着时间的推移，许多人已经习以为常，见怪不怪，这些元素自然就成为人们日常生活的一部分了。兹举数例。
+
+今天人们已经习惯的女性短发（bob haircut），其实来源于上世纪20年代西方的“飞来波女郎”（flapper，或译轻佻女子）。受第一波女权运动和“性爱自由运动”（见本书第七章）影响，她们穿短裙、剪短发、听爵士乐，画浓妆、饮烈酒、性开放，短发是她们蔑视传统社会性别角色、寻求女性“解放”的一种表达方式。这种发型开始流行之后，一位知名歌剧演员表示：“在我看来，剪掉长发就是摆脱一个小锁链，这是妇女在通向自由之路上要摆脱的许多小锁链中的一个。”[37]之后的30年代大萧条中这种发型逐渐没落。而在反叛意识流行的60年代，各种短发打扮再次受到女性欢迎。
+
+而如今人们习惯的男人留披肩长发，其实来源于“垮掉的一代”（beatniks）和嬉皮士（hippies）。[38]虽然男子的长发传统可追溯至数千年前的古代，但是西方在一战之后男子一直剪短发。60年代反文化运动中青年男性把“垮掉的一代”和嬉皮士的披肩长发视作对传统的反叛符号，纷纷效仿。
+
+在上世纪20年代和60年代，社会主流对青年男女这种反传统性别的打扮一直非常抵制。随着时间的推移，人们对此习以为常了，在进步主义看来，这是社会“宽容度”的增加。事实上在东西方传统中，男女有别不仅仅体现在男女生理差别和家庭、社会角色的差别上，日常生活中还体现在服饰、发型、言语、举止等各方面。共产邪灵的计划是让社会“无阶级差别”，也无性差别，让男人不是男人，女人不是女人。同性恋、女权运动用“平等”的口号从思想观念上大大模糊了社会、家庭角色的性差别，反性别角色的“时尚”再从服饰打扮上进一步模糊、反向扭曲这种差别。这不仅为同性恋等变异观念大规模渗入人心做准备，也是魔鬼败坏传统道德的一步棋。人类社会东西方的传统道德，无论是西方的骑士精神、东方的君子风范还是淑女之贤德仪容，都是建立在男女有别、阴阳各居其位的基础上。魔鬼的伎俩是为了达到让人类阴阳反背、败坏道德，同时让人在没有传统规范中不断放大自我中心主义。
+
+看穿了魔鬼的目的，就很容易看出如今社会上流行的各种变异服饰，表面上是“时尚”，其实都是魔鬼变异人类的花招。
+
+如今很“流行”的低腰裤（low-rise pants），追求时尚者认为很“性感”，实质是为更大面积败坏人类性道德打基础。低腰裤的前身是牛仔喇叭裤（hip hugger），也是60年代反文化运动中通过嬉皮士大面积流行起来的，其后到70年代一度在迪斯科舞厅里流行，最后在90年代一位“时尚设计师”从这种低裆裤发明了今天的暴露臀部的超级低腰裤（bum pants）。[39]
+
+“追星”（groupies）是如今青少年中流行的“时尚”，究其本源，也是反文化运动的副产品。60年代摇滚乐风靡西方世界，一些少女迷恋于摇滚歌星，追随他们的演出，甚至组成粉丝团为歌星提供生活服务、性服务，乃至和歌星群交乱性狂欢。[40]她们成为“追星时尚”的滥觞。此外现代许多追星族追捧反性别装扮的“明星”，如越来越多的男星以女性的气质装扮受到追捧，也是魔鬼通过大众文化败坏人类、模糊性别观念的伎俩。
+
+很多“时尚”的来源和庞克（punk）亚文化有密切联系。类似于嬉皮士，庞克同样推崇反传统、虚无主义。嬉皮士大多是来自中产阶级家庭的青年对传统的反叛，庞克则属于底层人士对社会传统的反叛，所以很多庞克乐队和社会主义有紧密联系。[41]为了表达更彻底的反传统态度，庞克经常剃各种怪模怪样的发式，或者用支离破碎的材料制作衣服、服饰，看如一堆垃圾，或者把头发染成五颜六色的，或者在一般人想不到的地方刺青、穿孔挂上装饰品，或者暴露一般人掩饰的身体部分；庞克在穿着上经常没有性别区分，如果有的话，可能是女人穿男人的衣服，诸如此类。庞克们为当前许多“时尚”提供了“创意灵感”。
+
+庞克们崇尚享乐主义，一个流行的庞克口号是，“活得快，死得年轻，留下一具好看的尸体（Live Fast, Die Young and Leave a Pretty Corpse）。”这充分体现失去对神的信仰、被魔鬼引诱掉进物质主义深渊的可悲，也应当引起被各种反传统变异时尚吸引的现代人的警觉。
+
+除此以外，在魔鬼的带动下，人类社会出现了很多末世乱象，如流行的服饰上印着骷髅或者妖魔鬼怪的形象；很多人选择丑恶的形象作为纹身图案；很多装饰品、工艺品、小孩的玩具甚至节日饰物都越做越丑陋；以妖魔鬼怪、巫术魔法为主题的文学和影视作品大量出现，人们趋之若鹜，乐此不疲；互联网上各种魔性信息泛滥；足球场上观众大喊大叫，魔性大发；人们在娱乐时追求强烈的刺激等等，这一切都是魔鬼统治世界的表现。
+
+结语
+人有追求幸福生活的权利，但这种追求必须在一定的道德尺度之内进行。超过这个限度的过分追求必然给人带来无尽的痛苦、灾难和痛悔。
+
+人类的正统文化并不排斥对欲望的合理满足。但是传统文化谆谆告诫人要节制欲望，选择健康的生活方式。与自然和谐共处、从事各种传统的劳作、和睦的家庭关系、参与社会的自治和国家的管理，还有各种传统的文学艺术、体育娱乐等，都能够带给人幸福感和满足感，同时对个人的身心和社会都有益而无害。
+
+共产邪灵的终极目的是毁灭全人类，其中一个必然的步骤是败坏人的道德，使神无法再管人。因此，不管掌握政权与否，邪灵都要全面掌控大众文化，把大面积的人群导向邪恶的生活方式。在过去几十年中，魔鬼在东西方用不同的方式，催生了一套完整的大众文化和社会生活。突然面对光怪陆离的现代社会，很多人忘掉了神的教诲和道德法则，开始放纵自己的欲望，无度地追求享乐。自我中心、享乐主义、虚无主义成了流行时尚。变异文化在主导著这个世界，魔鬼在大众文化和社会生活中狂欢。人类已经忘记了生命存在的真正目的。
+
+性、毒品、摇滚乐和电玩刺激并放大着人的欲望，很多人沉溺其中，逃避生活的苦难和不如意之处，却没有想过，这些瘾好只会给自己带来片刻的满足，随之而来的是更大的痛苦和灾难。吸毒造成的是疾病、死亡和人格扭曲；乱性破坏了家庭，使得人们失去了信任和温情；电玩使人迷失人的本性，长时间生活在虚幻的世界里。沉迷于这些瘾好当中的人觉得自己在狂欢，其实是魔鬼在利用着他们的身体狂欢，等待他们本人的是肉体的死灭和精神的沉沦。
+
+整个社会和国家也是如此。当大面积的人群沉迷于欲望和享乐时，就是灾难来临的前夜。
+
+神创造了人，也给了人自由意志。在魔鬼毁灭人类的最后关头，人不应该滥用自由，继续走在堕落的不归路上；而应该善用自由，选择重新走回传统文化和传统的生活方式。
+
+神一直在关注着人、呵护着人。人能不能走回来，全看人自己的选择。#
+
+**
+
+[1] “110 Rules of Civility & Decent Behavior in Company and Conversation,” Foundations Magazine, http://www.foundationsmag.com/civility.html.
+
+[2] Benjamin Franklin, The Autobiography and Other Writings on Politics, Economics, and Virtue (Cambridge: Cambridge University Press, 2004), 68-69.
+
+[3] 大纪元编辑部：《解体党文化》，第四章（台北：博大出版社，2007），页158~220。
+
+[4] 薛飞：〈“缺哪个神就造一个” 河北奶奶庙乱象〉，大纪元新闻网，2017年8月10日，http://www.epochtimes.com/gb/17/8/9/n9513251.htm。
+
+[5] “Oxford Dictionary Adds Popular Chinese Terms,” China Daily, September 6, 2010, http://www.chinadaily.com.cn/business/2010-09/06/content_11259791.htm.
+
+[6] 〈北京工商查处山寨苹果店 员工真以为自己在苹果工作〉, 新浪网，2018年2月8日, http://tech.sina.com.cn/mobile/n/n/2018-02-08/doc-ifyrmfmc0011341.shtml; Loretta Chao, “The Ultimate Knock-Off: A Fake Apple Store,” The Wall Street Journal, July 21, 2011, https://blogs.wsj.com/chinarealtime/2011/07/21/the-ultimate-knock-off-a-fake-apple-store/.
+
+[7] Jack Kerouac,  “The Birth of a Socialist,” Atop an Underwood: Early Stories and Other Writings (New York: Penguin, 2000).
+
+[8] 参见Roberto Franzosi, “Power and Protest: Global Revolution and the Rise of Détente by Jeremi Suri,” American Journal of Sociology, 111 (5), 1589；以及陶短房，〈法国五月风暴：一场真正的’文化革命〉，新浪历史，2013年1月18日，http://book.sina.com.cn/history/2013-01-18/1340405148.shtml。
+
+[9] Meredith Box and Gavan McCormack, “Terror in Japan,” The Asia-Pacific Journal: Japan Focus, 2(6), June 25, 2004, https://apjjf.org/-Meredith-Box–Gavan-McCormack/1570/article.pdf.
+
+[10] Georgia Wallen, “The Seven Stages of the ‘Hamilton’ Kennedy Center Queue,” The Washigton Post,  March 30, 2018, https://www.washingtonpost.com/opinions/the-seven-stages-of-the-hamilton-kennedy-center-queue/2018/03/30/c1ae15fc-31f8-11e8-8bdd-cdb33a5eef83_story.html.
+
+[11] Amy D. McDowell, “Contemporary Christian Music,” Oxford Music and Art Online,　https://doi.org/10.1093/gmo/9781561592630.article.A2234810.
+
+[12] “The Opioid Crisis,” https://www.whitehouse.gov/opioids/.
+
+[13] “Drug Facts:  Marijuana,” Report from National Institute on Drug Abuse for Teens, https://teens.drugabuse.gov/drug-facts/marijuana.
+
+[14]  Allison Bond, “Why Fentanyl Is Deadlier than Heroin, in a Single Photo,” statnews.com, September 29, 2016, https://www.statnews.com/2016/09/29/why-fentanyl-is-deadlier-than-heroin/.
+
+[15] “Overdose Death Rates,” National Institute on Drug Abuse, September 2017, https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates.
+
+[16] Amanda Hoover, “110 Pounds of Fentanyl Seized at Port in Shipment from China,” New Jersey, July 2, 2018, https://www.nj.com/news/index.ssf/2018/07/110_pounds_of_fentanyl_found_in_philadelphia_port.html.
+
+[17] 〈中国毒品报告：全国吸毒人数逾1400万〉，BBC中文网，2015年 6月 24日, http://www.bbc.com/zhongwen/simp/china/2015/06/150624_china_drugs_report。
+
+[18] 张洋：《2017年中国毒品形势报告》发布：全国破获毒品刑事案件14万起，人民网，2018年6月26日, http://yuqing.people.com.cn/n1/2018/0626/c209043-30088689.html。
+
+[19] “Things Are Looking Up in America’s Porn Industry,” NBC News, January 20, 2015, https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431.
+
+[20] “Boy, 12, Repeatedly Raped Sister after Becoming Fascinated with Internet Porn,” New Zealand, November 7, 2016, https://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11743460.
+
+[21] Lars Gravesen, “Taxpayers Foot Bill for Disabled Danes’ Visits to Prostitutes,” Telegraph, October 2, 2005,  https://www.telegraph.co.uk/news/worldnews/europe/denmark/1499735/Taxpayers-foot-bill-for-disabled-Danes-visits-to-prostitutes.html.
+
+[22] Inga Margrete Ydersbond, The “Promiscuous” and the “Shy”: Denmark and Norway – A Historic Comparative Analysis of Pornography Legislation, The NPPR Working Paper Series: The Politics of Commercial Sex, March 2012, https://www.duo.uio.no/bitstream/handle/10852/34447/NPPRWP201201.pdf?sequence=1.
+
+[23] Takudzwa Hillary Chiwanza, “Thousands of Chinese Prostitutes Are Flocking to Africa for Lucrative Fortunes,” The African Exponent, May 7, 2018, https://www.africanexponent.com/post/8965-chinese-prostitutes-have-joined-the-scramble-for-africas-fortunes.
+
+[24] Pat Fagan, The Family Research Council Brief Issue: The Effects of Pornography on Individuals, Marriage, Family and Community, https://downloads.frc.org/EF/EF11C36.pdf.
+
+[25] Jill Manning, Senate Testimony, November 10, 2005, referencing: J. Dedmon, “Is the Internet Bad for Your Marriage? Online Affairs, Pornographic Sites Playing Greater Role in Divorces,” 2002, press release from American Academy of Matrimonial Lawyers, 14.
+
+[26] David Shultz, “Divorce Rates Double When People Start Watching Porn,” Science, August 26, 2016, http://www.sciencemag.org/news/2016/08/divorce-rates-double-when-people-start-watching-porn.
+
+[27] George Akerlof, Janet Yellen and Michael Katz, “An Analysis of Out-of-Wedlock Childbearing in the United States,” Explorations of Pragmatic Economics (Oxford: Oxford University Press, 2005), 120.
+
+[28] Joseph Chamie, “Out-of-Wedlock Births Rise Worldwide,” YaleGlobal Online, March 16, 2017, https://yaleglobal.yale.edu/content/out-wedlock-births-rise-worldwide.
+
+[29] Mark Aguiar, Mark Bils, Kerwin Kofi Charles, Erik Hurst, “Leisure Luxuries and the Labor Supply of Young Men,” National Bureau of Economic Research, Working Paper No. 23552 issued in June 2017, p. 1.
+
+[30] Tom Wijman, “Mobile Revenues Account for More Than 50% of the Global Games Market as It Reaches $137.9 Billion in 2018,” Newzoo, April 30, 2018, https://newzoo.com/insights/articles/global-games-market-reaches-137-9-billion-in-2018-mobile-games-take-half/.
+
+[31] “United States Crime Rates 1960 – 2016,” Compiled by DisasterCenter.com from: FBI UCS Annual Crime Reports, http://www.disastercenter.com/crime/uscrime.htm.
+
+[32] Bonnie Berkowitz, Denise Lu and Chris Alcantara, “The Terrible Numbers That Grow with Each Mass Shooting,” Washington Post,  June 29, 2018, https://www.washingtonpost.com/graphics/2018/national/mass-shootings-in-america/?utm_term=.f63cc1b03c0b.
+
+[33] 历年恐怖主义事件的数据来自Global Terrorism Database (GTD), University of Maryland, https://www.start.umd.edu/gtd/.
+
+[34] Jacque Wilson and William Hudson, “Gun Violence in PG-13 Movies Has Tripled,” CNN, November 11, 2013, http://www.cnn.com/2013/11/11/health/gun-violence-movies/index.html.
+
+[35] Assil Frayh, “Gun Violence Keeps Rising in PG-13 Movies, Study Says,” CNN, January 20, 2017,  https://www.cnn.com/2017/01/20/health/gun-violence-pg-13-movies-study/index.html.
+
+[36] “Violent Video Games and Young People,” Harvard Mental Health Letter, October 2010,  https://www.health.harvard.edu/newsletter_article/violent-video-games-and-young-people.
+
+[37] Quoted in “Short Hair for Women,” Fashion Encyclopedia, http://www.fashionencyclopedia.com/fashion_costume_culture/Modern-World-1919-1929/Short-Hair-for-Women.html#ixzz5MO5NNUTa.
+
+[38] “Long Hair for Men,” Fashion Encyclopedia, http://www.fashionencyclopedia.com/fashion_costume_culture/Modern-World-Part-II-1961-1979/Long-Hair-for-Men.html.
+
+[39] “Hip Huggers,” Fashion Encyclopedia,
+http://www.fashionencyclopedia.com/fashion_costume_culture/Modern-World-Part-II-1961-1979/Hip-Huggers.html.
+
+[40] Kathryn Bromwich, “Groupies Revisited: The Women with Triple-A Access to the 60s, “  The Guardian, November 15, 2015, https://www.theguardian.com/music/2015/nov/15/groupies-revisited-baron-wolman-rolling-stone-pamela-des-barres.
+
+[41] 参见David Ensminger, Left of the Dial: Conversations with Punk Icons (Oakland, CA: PM Press), 47；以及Neil Eriksen, “Popular Culture and Revolutionary Theory: Understanding Punk Rock,” www.marxists.org, https://www.marxists.org/history/erol/periodicals/theoretical-review/19801802.htm.
+
+<a href=#top><h6 align="right">回上方</h6></a>
+
+<a href="https://git.io/01"><h6 align="right">回首頁</h6></a>
