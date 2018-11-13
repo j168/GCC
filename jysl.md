@@ -29,15 +29,15 @@
 <a href=#12>第七章  家庭篇：魔鬼在毁掉我们的家庭（下）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep10_Ch07_2-MP3_64k.mp3?raw=true">(64k)</a><br>
 <a href=#13>第八章  政治篇：魔鬼在祸乱我们的国家（上）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep11_Ch08_1-MP3_64k.mp3?raw=true">(64k)</a><br>
 <a href=#14>第八章  政治篇：魔鬼在祸乱我们的国家（下）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep12_Ch08_2-MP3_64k.mp3?raw=true">(64k)</a><br>
-<a href=#15>第九章  经济篇：魔鬼的诱饵（上）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep13_ch09_1-MP3_64k.mp3?raw=true">(64k)</a><br>
-<a href=#16>第九章  经济篇：魔鬼的诱饵（下）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep14_ch09_2_64k.mp3?raw=true">(64k)</a><br>
+<a href=#15>第九章  经济篇：魔鬼的诱饵（上）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep13_ch09_1-MP3_64k.mp3?raw=true">(32k)</a><br>
+<a href=#16>第九章  经济篇：魔鬼的诱饵（下）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep14_ch09_2_64k.mp3?raw=true">(32k)</a><br>
 <a href=#17>第十章  法律篇：魔鬼将邪恶合法化和常态化</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep15_ch10-MP3_64k.mp3?raw=true">(64k)</a><br>
 <a href=#18>第十一章 艺术篇：从赞美神到亵渎神</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep16_ch11-MP3_64k.mp3?raw=true">(64k)</a><br>
-<a href=#19>第十二章 教育篇：魔鬼在毁掉我们的后代和未来（上）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep17_ch12_1_p1-MP3_64k.mp3?raw=true">（一）(64k)</a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep17_ch12_1_p2-MP3_64k.mp3?raw=true">（二）(64k)</a><br>
-<a href=#20>第十二章 教育篇：魔鬼在毁掉我们的后代和未来（下）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep19_ch12_2_p1-MP3_64k.mp3?raw=true">（一）(64k)</a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep20_ch12_2_p2-MP3_64k.mp3?raw=true">（二）(64k)</a><br>
-<a href=#21>第十三章 媒体篇：魔鬼把媒体变成谎言集散地和魔性信息通道</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep21_ch13_p1-MP3_64k.mp3?raw=true">（一）(64k)</a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep22_ch13_p2-MP3_64k.mp3?raw=true">（二）(64k)</a><br>
-<a href=#22>第十四章 大众文化和社会生活篇</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep23_ch14_p1-MP3_64k.mp3?raw=true">（一）(64k)</a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep24_ch14_p2-MP3_64k.mp3?raw=true">（二）(64k)</a><br>
-<a href=#23>第十五章  恐怖主义的共产主义根源</a><br>
+<a href=#19>第十二章 教育篇：魔鬼在毁掉我们的后代和未来（上）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep17_ch12_1_p1-MP3_64k.mp3?raw=true">（一）(64k)</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep17_ch12_1_p2-MP3_64k.mp3?raw=true">（二）(64k)</a><br>
+<a href=#20>第十二章 教育篇：魔鬼在毁掉我们的后代和未来（下）</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep19_ch12_2_p1-MP3_64k.mp3?raw=true">（一）(64k)</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep20_ch12_2_p2-MP3_64k.mp3?raw=true">（二）(64k)</a><br>
+<a href=#21>第十三章 媒体篇：魔鬼把媒体变成谎言集散地和魔性信息通道</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep21_ch13_p1-MP3_64k.mp3?raw=true">（一）(64k)</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep22_ch13_p2-MP3_64k.mp3?raw=true">（二）(64k)</a><br>
+<a href=#22>第十四章 大众文化和社会生活篇</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep23_ch14_p1-MP3_64k.mp3?raw=true">（一）(64k)</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ep24_ch14_p2-MP3_64k.mp3?raw=true">（二）(64k)</a><br>
+<a href=#23>第十五章  恐怖主义的共产主义根源</a>、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/ep25_ch15-MP3_64k.mp3?raw=true">(32k)</a><br>
 <a href=#24>第十六章  环保主义背后的共产主义推手（上）</a><br>
 <a href=#25>第十六章  环保主义背后的共产主义推手（下）</a><br>
 <a href=#26>第十七章  全球化背后的共产主义黑手</a><br>
