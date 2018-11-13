@@ -24,7 +24,7 @@
 <tr>
 	<td><img src="../master/GCC/img/ultrasurf.jpg" align="middle" width="240" alt="无界"></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/um.apk?raw=true"><img src="../master/GCC/img/wujieAndoid.jpg" align="middle" width="320" alt="无界一点通"></a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u1804.zip?raw=true"><img src="../master/GCC/img/wujiesurf.jpg" align="middle" width="320" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u1805.zip?raw=true"><img src="../master/GCC/img/wujiesurf.jpg" align="middle" width="320" alt="无界一点通"></a></td>
 </tr>
 <tr>
 	<td><img src="../master/GCC/img/ippotv.jpg" align="middle" width="240" alt="爱博电视"></td>
