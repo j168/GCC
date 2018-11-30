@@ -1,6 +1,6 @@
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://220.141.119.18</h3></div>
+<h3>新唐人视频 http://36.227.98.168</h3></div>
   
 <body>
 
@@ -36,7 +36,7 @@
             <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/um.apk?raw=true">无界一点通4.5</a>
           </td>
          <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u1805.zip?raw=true">无界浏览</a>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u1806.zip?raw=true">无界浏览u1806</a>
           </td>
         </tr>
        <tr>
