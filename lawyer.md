@@ -1,6 +1,13 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://61.228.117.125</h3></div>
-
+<div align="center"><IMG SRC="GCC/img-2/1-25.png" width=800>
+<h3> 大陆</h3>
+12/24/2018	Monday	首播	20:00<br>
+12/25/2018	Tuesday	重播	10:00<br>
+12/25/2018	Tuesday	重播	17:00<br>
+12/31/2018	Monday	首播	13:00<br>
+12/31/2018	Monday	重播	20:30
+<h3>【预告】新唐人将独家播出2017神韵交响乐 https://git.io/dici</h3></div>
 <div align="center"><img src="../master/GCC/img/flcz.jpg" width="640"></div>
 
 <h1>一位律师的肺腑直言：我为什么发自内心敬佩法轮功</h1>
