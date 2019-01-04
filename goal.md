@@ -1,14 +1,7 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
 <IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800></div>
-<h3><div align="center">新唐人视频 http://61.228.116.228</h3></div>
-<div align="center"><IMG SRC="GCC/img-2/1-25.png" width=800>
-<h3> 大陆</h3>
-12/24/2018	Monday	首播	20:00<br>
-12/25/2018	Tuesday	重播	10:00<br>
-12/25/2018	Tuesday	重播	17:00<br>
-12/31/2018	Monday	首播	13:00<br>
-12/31/2018	Monday	重播	20:30
-<h3>【预告】新唐人将独家播出2017神韵交响乐 https://git.io/dici</h3></div>
+<h3><div align="center">新唐人视频 http://220.141.127.30</h3></div>
+
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
