@@ -1620,3 +1620,393 @@ of the United States Senate,” U.S. Senate, July 3, 2014, https://www.epw.senat
 [38] William Jasper, Global Tyranny…Step by Step: The United Nations and the Emerging New World Order, 148.
 
 [39] Grace Carr, “Ontario Makes Disapproval of Kid’s Gender Choice Potential Child Abuse,” The Daily Caller, June 5, 2018, https://dailycaller.com/2017/06/05/ontario-makes-disapproval-of-kids-gender-choice-child-abuse/.
+
+<h1 align="center"><b>魔鬼在统治着我们的世界(26)：全球野心(上)</b></h1>
+
+[1] 赵可金：〈和平发展道路：模式的突破〉，《人民网》，2009年11月11日，http://theory.people.com.cn/GB/10355796.html。
+
+[2] 国防大学等：《较量无声》，2013年6月，https://www.youtube.com/watch?v=iUjkSJxJDcw&t=2190s。
+
+[3] “Testimony of Arthur Waldron,” in “U.S.-China Relations: Status of Reforms in China,” Subcommittee on East Asian and Pacific Affairs, Committee on Foreign Relations, United States Senate, April 22, 2004, https://www.foreign.senate.gov/imo/media/doc/WaldronTestimony040422.pdf.
+
+[4] 克里斯‧贾尔斯：〈世行：中国今年或将成全球最大经济体〉，《金融时报中文网》，2014年4月30日，http://www.ftchinese.com/story/001056024?full=y&archive。
+
+[5] 陈良贤，苏颢云：〈海外港口热：中企如何布局？〉，《澎湃新闻》，2017年8月17日，https://www.thepaper.cn/newsDetail_forward_1758810。
+
+[6] Derek Watkins, K.K. Rebecca Lai and Keith Bradsher, “The World, Built by China,” The New York Times, November 18, 2018, https://www.nytimes.com/interactive/2018/11/18/world/asia/world-built-by-china.html.
+
+[7] Andrew Sheng, “A Civilizational Clash with China Comes Closer,” Asia Global Institute, The University of Hong Kong, January 16, 2018, http://www.asiaglobalinstitute.hku.hk/en/civilizational-clash-china-comes-closer/.
+
+[8] 吴心伯：〈对周边外交研究的一些思考〉，《世界知识》，2015年第2期，http://www.cas.fudan.edu.cn/picture/2328.pdf。
+
+[9]“Power and Influence: The Hard Edge of China’s Soft Power,” Australian Broadcasting Corporation, June 5, 2017, https://www.abc.net.au/4corners/power-and-influence-promo/8579844.
+
+[10] “Sam Dastyari Resignation: How We Got Here,” Australian Broadcasting Corporation, December 11, 2017, https://www.abc.net.au/news/2017-12-12/sam-dastyari-resignation-how-did-we-get-here/9249380.
+
+[11] 〈深度：中国捐赠对澳洲影响有多大？外国政治献金是否该禁？〉, SBS News, September 12, 2016, https://www.sbs.com.au/yourlanguage/mandarin/zh-hant/article/2016/09/12/shen-du-zhong-guo-juan-zeng-dui-ao-zhou-ying-xiang-you-duo-da-wai-guo-zheng-zhi?language=zh-hant.
+
+[12] Mareike Ohlberg and Bertram Lang, “How to Counter China’s Global Propaganda Offensive,” The New York Times, September 21, 2016, https://www.nytimes.com/2016/09/22/opinion/how-to-counter-chinas-global-propaganda-offensive.html?_ga=2.63090735.1831033231.1544154630-97544283.1541907311.
+
+[13] Jonathan Pearlman, “US Alarm over Aussie Port Deal with China Firm,” The Strait Times, November 19, 2015, https://www.straitstimes.com/asia/australianz/us-alarm-over-aussie-port-deal-with-china-firm.
+
+[14] Tara Francis Chan, “Rejected Three Times Due to Fear of Beijing, Controversial Book on China’s Secret Influence Will Finally Be Published,” Business Insider, February 5, 2018, https://www.businessinsider.com/australian-book-on-chinas-influence-gets-publisher-2018-2.
+
+[15] Christopher Walker and Jessica Ludwig, “From ‘Soft Power’ to ‘Sharp Power’: Rising Authoritarian Influence in the Democratic World,” in Sharp Power: Rising Authoritarian Influence (Washington, DC: National Endowment for Democracy, 2017), 20, https://www.ned.org/wp-content/uploads/2017/12/Sharp-Power-Rising-Authoritarian-Influence-Full-Report.pdf.
+
+[16] 2017 Foreign Policy White Paper, Australian Government, 2017, https://www.fpwhitepaper.gov.au/foreign-policy-white-paper/overview.
+
+[17] Caitlyn Gribbin, “Malcolm Turnbull Declares He Will ‘Stand Up’ for Australia in Response to China’s Criticism,” Australian Broadcasting Corporation, December 8, 2017, https://www.abc.net.au/news/2017-12-09/malcolm-turnbull-says-he-will-stand-up-for-australia/9243274.
+
+[18] 陈用林：〈陈用林：澳大利亚正在沦为中国的后院〉，《大纪元新闻网》，2016年9月2日，http://www.epochtimes.com/gb/16/9/2/n8261061.htm。
+
+[19] Clive Hamilton. Silent Invasion: China’s influence in Australia (Melbourne: Hardie Grant, 2018), Chapter 1.
+
+[20] 同上。
+
+[21] 同上。
+
+[22] 同上。
+
+[23] Clive Hamilton, Silent Invasion: China’s influence in Australia, Chapter 3.
+
+[24] 林坪：〈揭秘中国锐实力（十）纽西兰〉，自由亚洲电台，2018年9月25日，https://www.rfa.org/mandarin/zhuanlan/zhuantixilie/zhongguochujiaoshenxiangshijie/jm-09252018162912.html。
+
+[25] 同上。
+
+
+[26] 同上。
+
+[27] 林廷辉：〈龙在陌生海域：中国对太平洋岛国外交之困境〉，《国际关系学报》，第三十期（2010年7月），页58。https://diplomacy.nccu.edu.tw/download.php?filename=451_b9915791.pdf&dir=archive&title=File。
+
+[28] John Henderson and Benjamin Reilly, “Dragon in Paradise: China’s Rising Star in Oceania,” The National Interest, no. 72 (Summer 2003): 94-105.
+
+[29] Ben Bohane, “The U.S. Is Losing the Pacific to China,” The Wall Street Journal, June 7, 2017, https://www.wsj.com/articles/the-u-s-is-losing-the-pacific-to-china-1496853380.
+
+[30] Josh Rogin, “Inside China’s ‘Tantrum Diplomacy’ at APEC,” The Washington Post, November 20, 2018, https://www.washingtonpost.com/news/josh-rogin/wp/2018/11/20/inside-chinas-tantrum-diplomacy-at-apec/.
+
+[31] “China’s Central Asia Problem,” Asia Report No.244 (Brussels: International Crisis Group, Feb 27, 2013), https://www.crisisgroup.org/europe-central-asia/central-asia/china-s-central-asia-problem.
+
+[32] Wu Jiao and Zhang Yunbi, “Xi Proposes a ‘New Silk Road’ with Central Asia,” China Daily, September 8, 2013, http://www.chinadaily.com.cn/sunday/2013-09/08/content_16952160.htm.
+
+[33] Raffaello Pantucci, Sarah Lain, “China’s Eurasian Pivot: The Silk Road Economic Belt,” Whitehall Papers 88, no. 1 (May 16, 2017), https://www.tandfonline.com/doi/full/10.1080/02681307.2016.1274603.
+
+[34] “China’s Central Asia Problem,” International Crisis Group, https://www.crisisgroup.org/europe-central-asia/central-asia/china-s-central-asia-problem.
+
+[35] 〈孔泉：中国支持乌兹别克斯坦为国家安全所做努力〉，人民网，2005年5月17日，http://world.people.com.cn/GB/8212/14450/46162/3395401.html。
+
+[36] Benno Zogg, “Turkmenistan Reaches Its Limits with Economic and Security Challenges,” The Global Observatory, July 31, 2018, https://theglobalobservatory.org/2018/07/turkmenistan-limits-economic-security-challenges/.
+
+[37] Jakub Jakóbowski and Mariusz Marszewski, “Crisis in Turkmenistan. A test for China’s Policy in the Region,”  Centre for Eastern Studies (OSW), August 31, 2018, https://www.osw.waw.pl/en/publikacje/osw-commentary/2018-08-31/crisis-turkmenistan-a-test-chinas-policy-region-0.
+
+[38] Eiji Furukawa, “Belt and Road Debt Trap Spreads to Central Asia,”  Nikkei Asian Review, August 29, 2018, https://asia.nikkei.com/Spotlight/Belt-and-Road/Belt-and-Road-debt-trap-spreads-to-Central-Asia.
+
+[39] “Tajikistan: Chinese Company Gets Gold Mine in Return for Power Plant,”  Eurasianet, April 11, 2018, https://eurasianet.org/tajikistan-chinese-company-gets-gold-mine-in-return-for-power-plant.
+
+[40] “Risky Business: A Case Study of PRC Investment in Tajikistan and Kyrgyzstan, ” China Brief (Jamestown) 18, no. 14, https://jamestown.org/program/risky-business-a-case-study-of-prc-investment-in-tajikistan-and-kyrgyzstan/.
+
+[41] Juan Pablo Cardenal, Heriberto Araujo, China’s Silent Army: The Pioneers, Traders, Fixers and Workers Who Are Remaking the World in Beijing’s Image (New York: Crown Publishing Group, 2013), Chapter 2.
+
+[42] Lindsey Kennedy & Nathan Paul Southern, “China Created a New Terrorist Threat by Repressing Secessionist Fervor in Its Western Frontier,” Quartz, May 31, 2017, https://qz.com/993601/china-uyghur-terrorism/.
+
+[43] 徐进等：〈打造中国周边安全的“战略支点”国家〉，《世界知识》，2014年15期，页14-23，http://cssn.cn/jjx/xk/jjx_lljjx/sjjjygjjjx/201411/W020141128513034121053.pdf。
+
+[44] Therese Delpech, Iran and the Bomb: The Abdication of International Responsibility (New York: Columbia University Press, 2006), 49.
+
+[45] Juan Pablo Cardenal, Heriberto Araujo, China’s Silent Army: The Pioneers, Traders, Fixers and Workers Who Are Remaking the World in Beijing’s Image, Epilogue.
+
+
+[46] Seyed Reza Miraskari, et. al., “An Analysis of International Outsourcing in Iran-China Trade Relations,” Journal of Money and Economy 8, No 1 (Winter 2013): 110-139, http://jme.mbri.ac.ir/article-1-86-en.pdf.
+
+[47] Scott Harold, Alireza Nader, China and Iran: Economic, Political, and Military Relations (Washington, DC: RAND Corporation, 2012), 7, https://www.rand.org/content/dam/rand/pubs/occasional_papers/2012/RAND_OP351.pdf.
+
+[48] 〈绕过“马六甲困局”的商业基础——如何保证中缅油气管道有效运营〉，《第一财经日报》，2013年7月22日，https://www.yicai.com/news/2877768.html.
+
+[49] Li Chenyang, “China-Myanmar Relations since 1988,” in Harmony and Development: Asean-China Relations, eds. Lim Tin Seng and Lai Hongyi (Singapore: World Scientific Publishing, 2007), 54.
+
+[50] 同上。
+
+[51] “China’s Myanmar Dilema,”  Asia Report No.177 (Brussels: International Crisis Group , 2009), 1, https://d2071andvip0wj.cloudfront.net/177-china-s-myanmar-dilemma.pdf.
+
+[52] 〈闲置两年后 中缅原油管道终于开通〉，《BBC中文网》，2017年4月10日，https://www.bbc.com/zhongwen/simp/chinese-news-39559135。
+
+[53] 庄北甯，车宏亮：〈中缅签署皎漂深水港专案框架协定〉，《新华网》，2018年11月8日，http://www.xinhuanet.com/2018-11/08/c_1123686146.htm。
+
+[54] 鹿铖：〈中缅经济走廊：缅甸发展的新兴途径〉，《光明网》，2018年9月17日，http://news.gmw.cn/2018-09/17/content_31210352.htm。
+
+[55] 林坪：〈揭秘中国锐实力（十一）欧洲政界〉，《自由亚洲电台》，https://www.rfa.org/mandarin/zhuanlan/zhuantixilie/zhongguochujiaoshenxiangshijie/yl-11052018102634.html。
+
+[56] Jason Horowitz, Liz Alderman：〈没有炮艇的新殖民主义：希腊投身中国怀抱〉，《纽约时报中文网》，2017年8月28日，https://cn.nytimes.com/world/20170828/greece-china-piraeus-alexis-tsipras/。
+
+[57] 同上。
+
+[58] Jan Velinger, “President’s Spokesman Lashes out at Culture Minister for Meeting with Dalai Lama,” Radio Praha, October 18, 2016, https://www.radio.cz/en/section/curraffrs/presidents-spokesman-lashes-out-at-culture-minister-for-meeting-with-dalai-lama.
+
+[59] 林坪：〈揭秘中国锐实力（十一）欧洲政界〉，《自由亚洲电台》，2018年11月5日，https://www.rfa.org/mandarin/zhuanlan/zhuantixilie/zhongguochujiaoshenxiangshijie/yl-11052018102634.html。
+
+[60] 〈德国蓝皮书：中国在德国非金融直接投资大幅增长〉，《观察者网》，2018年7月9日，http://mil.news.sina.com.cn/dgby/2018-07-09/doc-ihezpzwt8827910.shtml。
+
+[61] Chinese Influence & American Interests: Promoting Constructive Vigilance (Stanford, CA: Hoover Institution Press, 2018), https://www.hoover.org/sites/default/files/research/docs/chineseinfluence_americaninterests_fullreport_web.pdf, 163.
+
+[62] Philip Oltermann, “Germany’s ‘China City’: How Duisburg Became Xi Jinping’s Gateway to Europe,” The Guardian, August 1, 2018, https://www.theguardian.com/cities/2018/aug/01/germanys-china-city-duisburg-became-xi-jinping-gateway-europe.
+
+[63] 〈希拉克：热爱中国的人〉，《中国网》，2007年3月20日， http://www.china.com.cn/international/txt/2007-03/20/content_18421202.htm。
+
+[64] 联合写作组：《真实的江泽民》，〈第九章 贪战（上）〉，《大纪元新闻网》，http://www.epochtimes.com/gb/12/6/18/n3615092.htm。
+
+[65] Nick Timothy, “The Government Is Selling Our National Security to China,” Conservative Home, October 20, 2015, http://www.conservativehome.com/thecolumnists/2015/10/nick-timothy-the-government-is-selling-our-national-security-to-china.html.
+
+
+[66] Holly Watt, “Hinkley Point: the ‘Dreadful Deal’ behind the World’s Most Expensive Power Plant,” The Guardian, December 21, 2017, https://www.theguardian.com/news/2017/dec/21/hinkley-point-c-dreadful-deal-behind-worlds-most-expensive-power-plant.
+
+[67] 林坪：〈揭秘中国锐实力（十二）在欧洲的经济渗透〉，《自由亚洲电台》，2018年11月8日，https://www.rfa.org/mandarin/zhuanlan/zhuantixilie/zhongguochujiaoshenxiangshijie/yl-11082018122750.html；〈揭秘中国锐实力（十三）欧洲学术、言论自由〉，《自由亚洲电台》，2018年11月12日，https://www.rfa.org/mandarin/zhuanlan/zhuantixilie/zhongguochujiaoshenxiangshijie/MCIEU-11122018165706.html。
+
+[68] Jack Hazlewood, “China Spends Big on Propaganda in Britain… But Returns Are Low,” Hong Kong Free Press, https://www.hongkongfp.com/2016/04/03/china-spends-big-on-propaganda-in-britain-but-returns-are-low/.
+
+[69] Thorsten Benner, et al, “Authoritarian Advance: Responding to China’s Growing Political Influence in Europe,” Global Public Policy Institute (GPPI), https://www.gppi.net/media/Benner_MERICS_2018_Authoritarian_Advance.pdf.
+
+[70] Christophe Cornevin, Jean Chichizola, “Les révélations du Figaro sur le programme d’espionnage chinois qui vise la France,” Le Figaro, October 22, 2018, http://www.lefigaro.fr/actualite-france/2018/10/22/01016-20181022ARTFIG00246-les-revelations-du-figaro-sur-le-programme-d-espionnage-chinois-qui-vise-la-france.php.
+
+
+[71] “German Spy Agency Warns of Chinese LinkedIn Espionage,” BBC News, December 10, 2017, https://www.bbc.com/news/world-europe-42304297.
+
+[72] Serge Michel and Michel Beuret, China Safari: On the Trail of Beijing’s Expansion in Africa (New York: Nation Books, 2010), 162.
+
+[73] Reuben, Brigety, “A Post-American Africa,” Foreign Affairs, August 28, 2018, https://www.foreignaffairs.com/articles/africa/2018-08-28/post-american-africa.
+
+[74] “Not as Bad as They Say: Zambians—and Other Africans—Know They Must Get along with the Chinese” Economist, October 1, 2011, https://www.economist.com/middle-east-and-africa/2011/10/01/not-as-bad-as-they-say.
+
+[75] Joseph Hammond, “Sudan: China’s Original Foothold in Africa,” The Diplomat, June 14, 2017, https://thediplomat.com/2017/06/sudan-chinas-original-foothold-in-africa/.
+
+[76] 曾勇，〈中国处理达尔富尔危机的战略分析〉，《阿拉伯世界研究》，2012年11月，第六期，http://mideast.shisu.edu.cn/_upload/article/23/47/8ee05ca2405488f615e514184f73/077159aa-8c97-41b8-bcc3-95c22c3ba732.pdf。
+
+[77] 〈北京盛情款待遭通缉的苏丹总统巴希尔〉，《法广》，2011年6月29日，http://cn.rfi.fr/中国/20110629-北京盛情款待遭通缉的苏丹总统巴希尔。
+
+[78] 中共国务院新闻办公室《中国的和平发展道路》称，截至2005年，中国减免了44个发展中国家约166亿元人民币债务。http://www.scio.gov.cn/zfbps/ndhf/2005/Document/307900/307900.htm。
+
+[79] 潘小涛：〈中国人，请准备再大撒币〉，《苹果日报》，2018年8月31日，https://hk.news.appledaily.com/local/daily/article/20180831/20488504。
+
+[80] 〈商务部：非洲33个最不发达国家97%的产品享受零关税〉，《中新网》，2018年8月28日，http://www.chinanews.com/gn/2018/08-28/8612256.shtml。
+
+
+[81] 家傲：〈中国再向非洲大撒币 美国警觉〉，《自由亚洲电台》，2018年9月3日，https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/hc-09032018110327.html。
+
+[82] 泉野：〈对话王文：从撒钱论到“新殖民主义”误区背后的真问题〉，《多维》，2018年9月2日，http://news.dwnews.com/china/news/2018-09-02/60081911_all.html。
+
+[83] 蔡临哲：〈埃塞俄比亚学习“中国模式”〉，《凤凰周刊》，2013年5月15日，http://www.ifengweekly.com/detil.php?id=403。
+
+[84] 安德鲁‧哈丁：〈记者来鸿：非洲出了个“新中国”〉，《BBC中文网》，2015年7月27日，https://www.bbc.com/ukchina/simp/fooc/2015/07/150727_fooc_ethiopia_development。
+
+[85] 斯洋：〈争夺话语权，输出中国模式，中国影响欧美和亚非方式大不同〉，《美国之音》，2018年12月7日，https://www.voachinese.com/a/4420434.html。
+
+[86] Alfonso Serrano：〈中国填补了美国在拉美留下的影响力真空〉，《纽约时报中文网》，2018年4月17日，https://cn.nytimes.com/opinion/20180417/china-trump-pence-summit-lima-latin-america/zh-hant/。
+
+[87] 豪尔赫‧布拉斯盖思-利多伊、哈威尔‧罗德里格斯、哈威尔‧桑迪索：〈中国对外贸易对拉美国家的影响：是祸还是福〉，https://www.oecd.org/brazil/38881800.pdf。该文章的西班牙文原文为“Angel o demonio? Los efectos del comercio chino en los países de América Latina”，载联合国拉美经委会杂志Revista de la CEPAL（2006年12月号）上。本文参考的是中译本。
+
+[88] Jordan Wilson, China’s Military Agreements with Argentina: A Potential New Phase in China-Latin America Defense Relations, U.S-China Economic and Security Review Commission Staff Research Report, November 5, 2015, https://www.uscc.gov/sites/default/files/Research/China%27s%20Military%20Agreements%20with%20Argentina.pdf.
+
+[89] 金雨森：〈中共金钱外交恐成为最后一根稻草〉，《看中国》，2017年7月5日，https://www.watchinese.com/article/2017/23053。
+
+[90] 〈中共巨额金援抢萨尔瓦多 引美国忧虑〉，新唐人电视台，2018年8月22日，http://www.ntdtv.com/xtr/gb/2018/08/23/a1388573.html。
+
+[91] 黄潇潇：〈拉美和加勒比地区孔子学院达39所〉，《人民网》，2018年1月26日，http://world.people.com.cn/n1/2018/0126/c1002-29788625.html。
+
+[92] Sharon Weiberger, “China Has Already Won the Drone Wars,” Foreign Policy, May 10, 2018, https://foreignpolicy.com/2018/05/10/china-trump-middle-east-drone-wars/.
+
+[93] Rick Joe, “China’s Air Force on the Rise: Zhuhai Airshow 2018,” The Diplomat, November 13, 2018, https://thediplomat.com/2018/11/chinas-air-force-on-the-rise-zhuhai-airshow-2018/.
+
+[94] 黄宇翔：〈中国无人战机惊艳珠海航展亮相假想敌是美国〉，《亚洲周刊》，2018年11月25日，第32卷 46期，https://www.yzzk.com/cfm/blogger3.cfm?id=1542252826622&author=%E9%BB%83%E5%AE%87%E7%BF%94。
+
+[95] “Pentagon Says Chinese Vessels Harassed U.S. Ship,” CNN, March 9, 2009, http://www.cnn.com/2009/POLITICS/03/09/us.navy.china/index.html.
+
+
+[96] “Chinese Boats Harassed U.S. Ship, Officials Say,” CNN, May 5, 2009, http://edition.cnn.com/2009/WORLD/asiapcf/05/05/china.maritime.harassment/index.html.
+
+[97] Barbara Starr, Ryan Browne and Brad Lendon, “Chinese Warship in ‘Unsafe’ Encounter with US Destroyer, amid Rising US-China Tensions,” CNN, October 1, 2018, https://www.cnn.com/2018/10/01/politics/china-us-warship-unsafe-encounter/index.html.
+
+[98] 军事科学院军事战略研究部：《战略学》（北京：军事科学出版社，2013），页47。
+
+[99] 乔良：〈“一带一路”战略要考虑军事力量走出去问题〉，《中国军网》，2015年4月15日，http://www.81.cn/jmywyl/2015-04/15/content_6443998_5.htm。
+
+[100] Annual Report to Congress: Military and Security Developments Involving the People’s Republic of China 2018, US Department of Defense, May 16, 2018, https://media.defense.gov/2018/Aug/16/2001955282/-1/-1/1/2018-CHINA-MILITARY-POWER-REPORT.PDF, 46, 47.
+
+[101] Benjamin Haas, “Steve Bannon: ‘We’re Going to War in the South China Sea … No Doubt’, “ The Guardian, February 1, 2017, https://www.theguardian.com/us-news/2017/feb/02/steve-bannon-donald-trump-war-south-china-sea-no-doubt.
+
+[102] Lawrence Sellin, “The US Needs a New Plan to Address Chinese Power in Southern Asia,” The Daily Caller, June 5, 2018, https://dailycaller.com/2018/06/05/afghanistan-pakistan-america-china/.
+
+[103] Panos Mourdoukoutas, “China Will Lose The South China Sea Game,” Forbes, July 1, 2018, https://www.forbes.com/sites/panosmourdoukoutas/2018/07/01/china-will-lose-the-south-china-sea-game/#5783cad73575.
+
+[104] Michael Lelyveld, “China Will Lose the South China Sea Game,” Radio Free Asia, December 4, 2017, https://www.rfa.org/english/commentaries/energy_watch/chinas-oil-import-dependence-climbs-as-output-falls-12042017102429.html.
+
+[105] M. Taylor Fravel, “Why Does China Care So Much about the South China Sea? Here Are 5 Reasons,” The Washington Post, July 13, 2016, https://www.washingtonpost.com/news/monkey-cage/wp/2016/07/13/why-does-china-care-so-much-about-the-south-china-sea-here-are-5-reasons/?utm_term=.4a7b1de04dbd.
+
+[106] 同上。
+
+[107] Brahma Chellaney, “Why the South China Sea Is Critical to Security,” The Japan Times, March 26, 2018, https://www.japantimes.co.jp/opinion/2018/03/26/commentary/world-commentary/south-china-sea-critical-security/#.XAnOBBNKiF1.
+
+[108] Scott L. Montgomery, “Oil, History, and the South China Sea: A Dangerous Mix,” Global Policy, August 7, 2018, https://www.globalpolicyjournal.com/blog/07/08/2018/oil-history-and-south-china-sea-dangerous-mix.
+
+[109] Hal Brands, “China’s Master Plan: a Global Military Threat,” The Japan Times, June 12, 2018, https://www.japantimes.co.jp/opinion/2018/06/12/commentary/world-commentary/chinas-master-plan-global-military-threat/#.W9JPPBNKj5V.
+
+[110] 林廷辉，〈龙在陌生海域：中国对太平洋岛国外交之困境〉，《国际关系学报》第三十期（2010年7月），https://diplomacy.nccu.edu.tw/download.php?filename=451_b9915791.pdf&dir=archive&title=File，页58。
+
+
+[111] Annual Report to Congress: Military and Security Developments Involving the People’s Republic of China 2018, US Department of Defense, May 16, 2018, https://media.defense.gov/2018/Aug/16/2001955282/-1/-1/1/2018-CHINA-MILITARY-POWER-REPORT.PDF.
+
+[112] 黄宇翔：〈中国无人战机惊艳珠海航展亮相假想敌是美国〉，《亚洲周刊》，2018年11月25日， 第32卷 46期，https://www.yzzk.com/cfm/blogger3.cfm?id=1542252826622&author=%E9%BB%83%E5%AE%87%E7%BF%94。
+
+[113] David E. Sanger, “U.S. Blames China’s Military Directly for Cyberattacks,” The New York Times, May 6, 2013, http://www.nytimes.com/2013/05/07/world/asia/us-accuses-chinas-military-in-cyberattacks.html?pagewanted=all&_r=1&.
+
+[114] 对此问题白宫国家贸易委员会主任彼得‧纳瓦罗在其著作中有深入分析和论述。参见：Peter Navarro, Crouching Tiger: What China’s Militarism Means for the World (New York: Prometheus Books, 2015)。
+
+[115] Steven Lee Myers, “With Ships and Missiles, China Is Ready to Challenge U.S. Navy in Pacific,” The New York Times, August 29, 2018, https://www.nytimes.com/2018/08/29/world/asia/china-navy-aircraft-carrier-pacific.html.
+
+[116] 据称出自中共将领迟浩田（1993年—2003年任国防部长）的两篇讲话，〈战争正在向我们走来〉、〈战争离我们不远，它是中华世纪的产婆〉，分别于2003年和2005年出现在互联网上，难以核实其真伪。但评论家普遍认为此言论代表中共真实的想法，或故意释放出来试探外界反应，并借此恐吓敌人。参见：三人行：〈评血腥公司的末日疯狂赌〉，《大纪元新闻网》， http://www.epochtimes.com/gb/5/8/1/n1003911.htm，http://www.epochtimes.com/gb/5/8/2/n1004823.htm；李天笑：〈神要中共亡 必先使其狂〉，《大纪元新闻网》，http://www.epochtimes.com/gb/5/8/17/n1021109.htm。
+
+[117] Jonathan Watts, “Chinese general warns of nuclear risk to US,” The Guardian, July 15 2005, https://www.theguardian.com/world/2005/jul/16/china.jonathanwatts.
+
+[118] 白邦瑞在研读一本中国军事理论著作时惊讶地发现，中国学者在评估国家实力时，军事力量在其中所占比重不足10%。苏联解体后，中共改变其评估体系，纳入了诸如经济、海外投资、技术创新、自然资源等因素。参见 Michael Pillsbury, The Hundred-Year Marathon: China’s Secret Strategy to Replace America as the Global Superpower, Chapter 2。
+
+<h1 align="center"><b>魔鬼在统治着我们的世界(27)：全球野心(下)</b></h1>
+
+[1]《九评共产党》，〈第二章 评中国共产党是怎样起家的〉，《大纪元新闻网》，http://www.epochtimes.com/gb/4/11/21/n723946.htm。
+
+[2]乔良、王湘穗：《超限战》（北京：解放军文艺出版社，1999），页1，页62。
+
+[3]乔良、王湘穗：《超限战》（北京：解放军文艺出版社，1999），页1，页63。
+
+[4]乔良、王湘穗：《超限战与反超限战：中国人提出的新战争观美国人如何应对》（北京：长江文艺出版社，2016）。
+
+[5]Louisa Lim and Julia Bergin, “Inside China’s Audacious Global Propaganda Campaign,” The Guardian, December 7, 2018, https://www.theguardian.com/news/2018/dec/07/china-plan-for-global-media-dominance-propaganda-xi-jinping.
+
+[6]毛泽东：《毛泽东新闻工作文选》（北京：新华出版社，1983），页182。
+
+[7]〈重金铺路中共大外宣海外扩张〉，自由亚洲电台，2015年11月5日，https://www.rfa.org/cantonese/news/propaganda-11052015084921.html。
+
+[8]〈中国每年用“100亿美元推动外宣攻势”〉，《BBC中文网》，2016年6月10日，http://www.bbc.com/zhongwen/trad/press_review/2016/06/160610_uk_press_china。
+
+[9]“Chinese President Xi Jinping Visits with CCTV America via Video Call,” CGTN, February 19, 2016, https://america.cgtn.com/2016/02/19/chinese-president-xi-jinping-visits-with-cctv-america-via-video-call.
+
+[10]苑基荣：〈中国电视剧热播非洲大陆〉，《人民日报》，2015年1月5日，第3版，https://web.archive.org/web/20160206004955if_/http://paper.people.com.cn/rmrb/html/2015-01/05/nw.D110000renmrb_20150105_3-03.htm。
+
+[11]Koh Gui Qing and John Shiffman, “Beijing’s Covert Radio Network Airs China-friendly News across Washington, and the World,” Reuters, November 2, 2015, https://www.reuters.com/investigates/special-report/china-radio/.
+
+[12]Louisa Lim and Julia Bergin, “Inside China’s Audacious Global Propaganda Campaign,” The Guardian, December 7, 2018, https://www.theguardian.com/news/2018/dec/07/china-plan-for-global-media-dominance-propaganda-xi-jinping.
+
+[13]James Fallow, “Official Chinese Propaganda: Now Online from the WaPo!” The Atlantic, February 3, 2011, https://www.theatlantic.com/international/archive/2011/02/official-chinese-propaganda-now-online-from-the-wapo/70690/.
+
+[14]Donnelle Eller, “Chinese-backed Newspaper Insert Tries to Undermine Iowa Farm Support for Trump, Trade War,” Des Moines Register, September 24, 2018,https://www.desmoinesregister.com/story/money/agriculture/2018/09/24/china-daily-watch-advertisement-tries-sway-iowa-farm-support-trump-trade-war-tariffs/1412954002/.
+
+[15]Bethany Allen-Ebrahimian,”Beijing Builds Its Influence in the American Media,” Foreign Policy, December 21, 2017,https://foreignpolicy.com/2017/12/21/one-of-americas-biggest-chinese-language-newspapers-toes-beijings-party-line-china-influence-united-front/.
+
+[16]〈占中揭开红色渗透142家海外党媒体瞬间曝光〉，《新唐人电视台》，2014年10月6日，http://www.ntdtv.com/xtr/gb/2014/10/06/a1143788.html。
+
+[17]Jeffrey Gil, “Why the NSW Government Is Reviewing Its Confucius Classrooms Program,” The Conversation, May 17, 2018,  http://theconversation.com/why-the-nsw-government-is-reviewing-its-confucius-classrooms-program-96783.
+
+[18]China’s Overseas United Front Work: Background and Implications for the United States, US-China Economic and Security Review Commission, August 24, 2018, 5-6， https://www.uscc.gov/sites/default/files/Research/China%27s%20Overseas%20United%20Front%20Work%20-%20Background%20and%20Implications%20for%20US_final_0.pdf, 14.
+
+[19]John S. McCainNational Defense Authorization Act for Fiscal Year 2019, House of Representatives, https://docs.house.gov/billsthisweek/20180723/CRPT-115hrpt863.pdf.
+
+[20]China’s Overseas United Front Work: Background and Implications for the United States, 5-6.
+
+[21]Thorsten Benner, et al, “Authoritarian Advance: Responding to China’s Growing Political Influence in Europe,” Global Public Policy Institute (GPPI), https://www.gppi.net/media/Benner_MERICS_2018_Authoritarian_Advance.pdf.
+
+[22]Chinese Influence & American Interests: Promoting Constructive Vigilance(Stanford，California: Hoover Institution Press, 2018), https://www.hoover.org/sites/default/files/research/docs/chineseinfluence_americaninterests_fullreport_web.pdf.
+
+[23]Jenni Marsh, “Ex-Hong Kong Politician Faces Jail after Bribery Conviction in US,” CNN, December 5, 2018, https://www.cnn.com/2018/12/05/asia/patrick-ho-bribery-conviction-intl/index.html.
+
+[24]Alexandra Stevenson, David Barboza, Matthew Goldstein and Paul Mozur, “A Chinese Tycoon Sought Power and Influence. Washington Responded,” The New York Times, December 12, 2018, https://www.nytimes.com/2018/12/12/business/cefc-biden-china-washington-ye-jianming.html.
+
+[25]骆亚：〈专访陈用林：中共全面渗透澳洲内幕〉，《大纪元新闻网》，2017年6月19日，http://www.epochtimes.com.tw/n215385。
+
+[26]Chinese Influence & American Interests: Promoting Constructive Vigilance(Stanford，California: Hoover Institution Press, 2018), https://www.hoover.org/sites/default/files/research/docs/chineseinfluence_americaninterests_fullreport_web.pdf.
+
+[27]Isaac Stone Fish, “Huawei’s Surprising Ties to the Brookings Institution, The Washington Post, December 8, 2018, https://www.washingtonpost.com/opinions/2018/12/08/chinese-companys-surprising-ties-brookings-institution/?utm_term=.2720ba57db52.
+
+[28]〈华为资助英国大学研究被指为“军工行动”〉，《BBC中文网》，2018年12月14日，https://www.bbc.com/zhongwen/trad/chinese-news-46558032。
+
+[29]Zack Dorfman, “How Silicon Valley Became a Den of Spies,” Politico, July 27, 2018, https://www.politico.com/magazine/story/2018/07/27/silicon-valley-spies-china-russia-219071.
+
+[30]China’s Overseas United Front Work: Background and Implications for the United States, 11-12.
+
+[31]China’s Overseas United Front Work: Background and Implications for the United States, 10-12.
+
+[32]高山：〈中国万达：20亿美元买下美国两家电影公司〉，自由亚洲电台，2016年8月23日，https://www.rfa.org/mandarin/yataibaodao/jingmao/hc-08232016102649.html。
+
+
+[33]崔鹏：〈阿里影业入股Amblin Partners 马云投资斯皮尔伯格〉，《搜狐网》，2016年10月9日，http://www.sohu.com/a/115703678_115565。
+
+[34]Amy Qin, Audrey Carlsen：〈中国如何重写自己的剧本〉，《纽约时报中文网》，2018年11月19日， https://www.nytimes.com/zh-hant/interactive/2018/11/19/world/asia/china-movies.html。
+
+[35]Ben Fritz and John Horn, “Reel China: Hollywood Tries to Stay on China’s Good Side,” The Los Angeles Times, March 16, 2011,  http://articles.latimes.com/2011/mar/16/entertainment/la-et-china-red-dawn-20110316.
+
+[36]林坪：〈揭秘中国锐实力（五）美国电影娱乐业〉，自由亚洲电台，2018年9月7日，https://www.rfa.org/mandarin/zhuanlan/zhuantixilie/zhongguochujiaoshenxiangshijie/yl5-09072018150445.html。
+
+[37]林坪：〈揭秘中国锐实力（三）美国学术界、高校〉，自由亚洲电台，2018年9月5日，https://www.rfa.org/mandarin/zhuanlan/zhuantixilie/zhongguochujiaoshenxiangshijie/yl3-09052018122139.html。
+
+[38]〈英保守党人被拒入境香港　约翰逊表关切〉，《BBC中文网》，2017年10月12日，https://www.bbc.com/zhongwen/trad/chinese-news-41591196。
+
+[39]China’s Overseas United Front Work: Background and Implications for the United States, 7-8.
+
+[40]高铁见闻：《高铁风云录》（长沙：湖南文艺出版社，2015），第五章〈中国高铁三国杀〉。
+
+[41]Sankei Shimbun, “Japan’s Transfer of Bullet Train Technology a Mistake. China, of Course, Has Copied It,” Japan Forward, August 18, 2017,https://japan-forward.com/japans-transfer-of-bullet-train-technology-a-mistake-china-of-course-has-copied-it/.
+
+[42]孟宝勒，Jane Perlez：〈中国资本进入美国敏感科技领域，五角大楼警觉〉，《纽约时报中文网》，2017年3月23日，https://cn.nytimes.com/business/20170323/china-defense-start-ups/。
+
+[43]同上。
+
+[44]Office of the United States Trade Representative Executive Office of the President, Update Concerning China’s Acts, Policies and Practices Related to Technology Transfer, Intellectual Property, and Innovation, November 20, 2018, https://ustr.gov/sites/default/files/enforcement/301Investigations/301%20Report%20Update.pdf, 46.
+
+[45]Justin Ling, “Man Who Sold F-35 Secrets to China Pleads Guilty,” Vice News, March 24, 2016, https://news.vice.com/en_us/article/kz9xgn/man-who-sold-f-35-secrets-to-china-pleads-guilty.
+
+[46]Bobby Yip, “Education or Espionage? A Chinese Student Takes His Homework Home to China,” NBC News, July 24, 2018,https://www.nbcnews.com/news/china/education-or-espionage-chinese-student-takes-his-homework-home-china-n893881.
+
+[47]“Chinese Hackers Indicted,” FBI News, December 20, 2018, https://www.fbi.gov/news/stories/chinese-hackers-indicted-122018.
+
+[48]Zach Dorfman, “How Silicon Valley Became a Den of Spies,” Politico, July 27, 2018,https://www.politico.com/magazine/story/2018/07/27/silicon-valley-spies-china-russia-219071.
+
+[49]Lawrence A. Tabak and M. Roy Wilson, “Foreign Influences on Research Integrity,”  Presentation at the 117th Meeting of the Advisory Committee to the Director, NIH, https://acd.od.nih.gov/documents/presentations/12132018ForeignInfluences.pdf.
+
+[50]Lev Facher, “NIH Report Scrutinizes Role of China in Theft of U.S. Scientific Research,” STAT, December 13, 2018, https://www.statnews.com/2018/12/13/nih-report-scrutinizes-role-of-china-in-theft-of-u-s-scientific-research/.
+
+[51]Jennifer Zeng, “Communist China Poses Greatest Threat to US and World, Senators Told,” The Epoch Times, December 17, 2018, https://www.theepochtimes.com/senate-told-communist-china-poses-greatest-threat-to-us-and-the-world_2738798.html.
+
+[52]Keith Bradsher, “When Solar Panels Became Job Killers,” The New York Times, April 8, 2017,https://www.nytimes.com/2017/04/08/business/china-trade-solar-panels.html?_ga=2.209817942.255138535.1542571491-142437734.1525387950.
+
+[53]《中华人民共和国国家情报法》，《中国人大网》 ，2017年6月27日，http://www.npc.gov.cn/npc/xinwen/2017-06/27/content_2024529.htm。
+
+[54]“Statement of John C. Demers before the Committee on the Judiciary United States Senate for a Hearing on China’s Non-Traditional Espionage against the United States: The Threat and Potential Policy Responses,” US Senate, December 12, 2018, https://www.judiciary.senate.gov/imo/media/doc/12-12-18%20Demers%20Testimony.pdf.
+
+[55]Megan Henney, “US Leaders React to Huawei CFO Arrest: ‘A Threat to Our National Security’,” Fox Business, December 6, 2018, https://www.foxbusiness.com/markets/us-leaders-react-to-huawei-cfo-arrest-a-threat-to-our-national-security.
+
+[56]Danielle Cave, “The African Union Headquarters Hack and Australia’s 5G Network,” Australian Strategic Policy Institute, July 13, 2018, https://www.aspistrategist.org.au/the-african-union-headquarters-hack-and-australias-5g-network/.
+
+[57]Theis Lange Olsen and Cathrine Lakmann, “Huawei Now on the Danish Mark: ‘The Chinese Can Access Systems that Govern Our Society’,” Danish Broadcasting Corporation, December 7, 2018, https://www.dr.dk/nyheder/indland/huawei-nu-paa-dansk-sigtekorn-kineserne-kan-faa-adgang-til-systemer-der-styrer-vores.
+
+
+[58]唐铭：〈中共黑客伪装法轮功网站美吁中遵守国际规则〉，《大纪元新闻网》，2013年3月16日，http://www.epochtimes.com/gb/13/3/16/n3824225.htm。
+
+[59]“Peter Navarro on China’s National Security Risks to US,” Fox Business, December 13, 2018, https://video.foxbusiness.com/v/5979037938001/?#sp=show-clips.
+
+[60]乔良、王湘穗：《超限战》（北京：解放军文艺出版社，1999），页61。
+
+[61]Eri Sugiura, “China’s 5G a Bigger Threat than Trade War, Says Ex-Dallas Fed Chief,” Nikkei Asian Review, September 24, 2018, https://asia.nikkei.com/Economy/China-s-5G-a-bigger-threat-than-trade-war-says-ex-Dallas-Fed-chief.
+
+[62]Gregg Re, “Trump Declares Opioids from Mexico, China ‘Almost a Form of Warfare,’ Tells Sessions to Sue Drug Makers, Fox News, August 16, 2018, https://www.foxnews.com/politics/trump-declares-opioids-from-mexico-china-almost-a-form-of-warfare-tells-sessions-to-sue-drug-makers.
+
+
+[63]Kirsten D. Madison, “Stopping the Poison Pills: Combatting the Trafficking of Illegal Fentanyl from China, Prepared Statement Before the Senate Caucus on International Narcotics Control,” U.S. Department of State, October 2, 2018, https://www.state.gov/j/inl/rls/rm/2018/286384.htm.
+
+[64]Markos Kounalakis, “China Is Using Fentanyl in a Chemical War against America,” Mcclatchy DC Bereau, November 2, 2017, https://www.mcclatchydc.com/opinion/article182139386.html.
+
+[65]Anna Fifield, “China’s Row with Sweden over a ‘Racist’ TV Skit Has Citizens Urging Boycotts of Ikea and H&M,” The Washington Post, September 26, 2018, https://www.washingtonpost.com/world/2018/09/26/chinas-row-with-sweden-over-racist-tv-skit-has-citizens-urging-boycott-ikea-hm/?noredirect=on&utm_term=.15e1b22bc530.
+
+[66]Xinmei Shen, “How China’s Army of Online Trolls Turned on Sweden,”  Abacus News, September 26, 2018, https://www.abacusnews.com/digital-life/how-chinas-army-online-trolls-turned-sweden/article/2165747.
+
+[67]T. Casey Fleming, Eric L. Qualkenbush, and Anthony M. Chapa, “The Secret War against the United States,”  The Cyber Defense Review, Vol. 2, Number 3, Fall 2017, 25-32, https://cyberdefensereview.army.mil/Portals/6/Documents/CDR-FALL2017.pdf.
+
+[68]“How the West Got China Wrong,” The Economist, March 1, 2018,https://www.economist.com/leaders/2018/03/01/how-the-west-got-china-wrong.
+
+[69]Michael Pillsbury, The Hundred-Year Marathon: China’s Secret Strategy to Replace America as the Global Superpower(New York: St. Martin’s Press, 2015), “Introduction.”
+
+[70]Steve Bannon, “Speech at the 12th InterEthnic/InterFaith Leadership Conference,” November 15, 2017, https://www.youtube.com/watch?v=OMp8F2tL66I.
