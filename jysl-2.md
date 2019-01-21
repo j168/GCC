@@ -1,3 +1,4 @@
+<a name=top>
 <a href=#27>第十八章 魔鬼安排下中共的全球野心（上）</a><br>
 <a href=#28>第十八章 魔鬼安排下中共的全球野心（下）</a><br>
 <a href=#29>结束语</a><br>
@@ -305,6 +306,8 @@
 
 <a href="https://github.com/goodabc/GCC/blob/master/jysl-1.md">备注</a><p>
 原文出处：http://www.epochtimes.com/gb/18/12/9/n10900318.htm
+
+<a href=#top><h6 align="right">回上方</h6></a>
 
 <hr><a name=27><h1 align="center"><b>魔鬼在统治着我们的世界(27)：全球野心(下)</b></h1>
 <h3 align="center"><b>共产党的幽灵并没有随着东欧共产党的解体而消失</b></h3>
@@ -664,5 +667,7 @@
 <a href="https://github.com/3fmd/gm/blob/master/gm/epub/Mgrw.epub?raw=true">点阅《九评》编辑部《魔鬼在统治着我们的世界》全书。</a> <p>
 <a href="https://github.com/goodabc/GCC/blob/master/jysl-1.md">备注</a><p>
 原文出处：http://www.epochtimes.com/gb/18/12/27/n10936246.htm
+
+<a href=#top><h6 align="right">回上方</h6></a>
 
 <a href="https://git.io/01"><h6 align="right">回首頁</h6></a>
