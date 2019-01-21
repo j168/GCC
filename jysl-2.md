@@ -1,3 +1,8 @@
+<a href=#28>第十八章 魔鬼安排下中共的全球野心（上）</a><br>
+<a href=#28>第十八章 魔鬼安排下中共的全球野心（下）</a><br>
+<a href=#29>结束语</a><br>
+
+
 <hr><a name=27><h1 align="center"><b>魔鬼在统治着我们的世界(26)：全球野心(上)</b></h1>
 <h3 align="center"><b>共产党的幽灵并没有随着东欧共产党的解体而消失</b></h3>
 <div align="center"><img src="GCC/img/534ab0d6b5442ce24bcd5448da6a8cc3-600x400.jpg" width=640></div>
