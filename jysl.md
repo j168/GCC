@@ -42,9 +42,9 @@
 <a href=#24>第十六章  环保主义背后的共产主义推手（上）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ch16_1_64k.mp3?raw=true">(mp3)</a><br>
 <a href=#25>第十六章  环保主义背后的共产主义推手（下）、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ch16_2_64k.mp3?raw=true">(mp3)</a><br>
 <a href=#26>第十七章  全球化背后的共产主义黑手、<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/MGZTZWMDSJ_ch17_64k.mp3?raw=true">(mp3)</a><br>
-<a href="https://github.com/goodabc/GCC/blob/master/jysl-2.md"#27>第十八章 魔鬼安排下中共的全球野心（上）</a><br>
-<a href="https://github.com/goodabc/GCC/blob/master/jysl-2.md"#28>第十八章 魔鬼安排下中共的全球野心（下）</a><br>
-<a href="https://github.com/goodabc/GCC/blob/master/jysl-2.md"#29>结束语</a><br>
+<a href="https://github.com/goodabc/GCC/blob/master/jysl-2.md">第十八章 魔鬼安排下中共的全球野心（上）</a><br>
+<a href="https://github.com/goodabc/GCC/blob/master/jysl-2.md">第十八章 魔鬼安排下中共的全球野心（下）</a><br>
+<a href="https://github.com/goodabc/GCC/blob/master/jysl-2.md">结束语</a><br>
   
 <hr><a name=1>
 <h1 align="center"><b>公告：《九评》编辑部另一部新书即将发表</b></h1>
