@@ -309,7 +309,7 @@
 
 <a href=#top><h6 align="right">回上方</h6></a>
 
-<hr><a name=27><h1 align="center"><b>魔鬼在统治着我们的世界(27)：全球野心(下)</b></h1>
+<hr><a name=28><h1 align="center"><b>魔鬼在统治着我们的世界(27)：全球野心(下)</b></h1>
 <h3 align="center"><b>共产党的幽灵并没有随着东欧共产党的解体而消失</b></h3>
 <div align="center"><img src="GCC/img/11143178f054f5059c50417075a38794-600x400.jpg" width=640></div>
 <div align="center">《九评》编辑部：魔鬼在统治着我们的世界。（大纪元制图）</div><p>
@@ -635,7 +635,7 @@
 <a href="https://github.com/goodabc/GCC/blob/master/jysl-1.md">备注</a><p>
 原文出处：http://www.epochtimes.com/gb/18/12/23/n10928319.htm
 
-<hr><a name=27><h1 align="center"><b>魔鬼在統治著我們的世界(28)：結束語</b></h1>
+<hr><a name=29><h1 align="center"><b>魔鬼在統治著我們的世界(28)：結束語</b></h1>
 <h3 align="center"><b>共产党的幽灵并没有随着东欧共产党的解体而消失</b></h3>
 <div align="center"><img src="GCC/img/c54ed2bb003ac1dc51714854df673046-600x400.jpg" width=640></div>
 <div align="center">《九评》编辑部：魔鬼在统治着我们的世界。（大纪元制图）</div><p>
