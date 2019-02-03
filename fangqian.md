@@ -11,9 +11,7 @@
 
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  
 <br/>
-<div align="center">
-<IMG SRC="sy/b_ornament_17_0M.png" width=880>
-  </div>
+
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</P>
 
