@@ -1,7 +1,7 @@
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.120.7</h3></div>
- <div align="center"><IMG SRC="GCC/img-2/1-25.png" width=800>
+ <div align="center"><IMG SRC="GCC/img/2019-newshow-1.jpg" width=800>
 <h3> 大陆</h3>
 12/24/2018	Monday	首播	20:00<br>
 12/25/2018	Tuesday	重播	10:00<br>
