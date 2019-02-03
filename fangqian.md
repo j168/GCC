@@ -1,7 +1,8 @@
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.120.7</h3></div>
- <div align="center"><IMG SRC="GCC/img/2019-newshow-1.jpg" width=800>
+ <div align="center"><IMG SRC="GCC/img/2019-newshow-1.jpg" width=800></div>
+	 
   
 【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 
@@ -84,7 +85,7 @@
             <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/um.apk?raw=true">无界一点通4.5</a>
           </td>
          <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u1806.zip?raw=true">无界浏览u1806</a>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u1901.zip?raw=true">无界浏览19.01正式版 (2019年1月27日)</a>
           </td>
         </tr>
        <tr>
