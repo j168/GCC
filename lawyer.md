@@ -1,6 +1,12 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.120.7</h3></div>
 
+<div align="center"><IMG SRC="GCC/img-2/2019-newshow-3.jpg" width=800></div>
+
+<div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
+
+<h1><b><a href="https://git.io/ict">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会</a></b></h1>
+
 <div align="center"><img src="../master/GCC/img/flcz.jpg" width="640"></div>
 
 <h1>一位律师的肺腑直言：我为什么发自内心敬佩法轮功</h1>
