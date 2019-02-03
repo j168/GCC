@@ -2,14 +2,57 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.120.7</h3></div>
  <div align="center"><IMG SRC="GCC/img/2019-newshow-1.jpg" width=800>
-<h3> 大陆</h3>
-12/24/2018	Monday	首播	20:00<br>
-12/25/2018	Tuesday	重播	10:00<br>
-12/25/2018	Tuesday	重播	17:00<br>
-12/31/2018	Monday	首播	13:00<br>
-12/31/2018	Monday	重播	20:30
-<h3>【预告】新唐人将独家播出2017神韵交响乐 https://git.io/dici</h3></div> 
-<body>
+  
+【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
+
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
+
+神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2018年演出”，对中国大陆播出的是“神韵艺术团2019年演出”。网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。
+
+海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  
+<br/>
+<div align="center">
+<IMG SRC="sy/b_ornament_17_0M.png" width=880>
+  </div>
+
+<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</P>
+
+请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
+
+<hr>
+<div align="center"><h3><a href="http://sy.epub.vin/sy">大陆频道播出时间</h3></a></div>  
+
+
+<table>
+<tr>
+	<td width="290"><div align="center">日期</td></div>  
+	<td width="290"><div align="center">时间</td></div>  
+	<td width="300"><div align="center">备注</td></div>  
+</tr>
+<tr>
+	<td><div align="center">02/04 除夕</td></div> 
+	<td><div align="center">20:00-23:00</td></div> 
+	<td><div align="center">神韵晚会  首播</td></div> 
+</tr>
+<tr>
+	<td><div align="center">02/05 除夕</td></div> 
+	<td><div align="center">23:00-02:00</td></div> 
+	<td><div align="center">神韵晚会  重播</td></div> 
+	
+</tr>
+<tr>
+	<td><div align="center">02/06 初一</td></div> 
+	<td><div align="center">08:30-11:30</td></div> 
+	<td><div align="center">神韵晚会  重播</td></div> 
+</tr>
+
+<tr>
+	<td><div align="center">02/06 初一</td></div> 
+	<td><div align="center">14:00-17:00</td></div> 
+	<td><div align="center">神韵晚会  重播 </td></div> 
+</tr>
+
+</table>
 
 
   <div align="center">
@@ -33,7 +76,7 @@
             <a href="https://git.io/fgma">安卓版</a>
           </td>
          <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg764p.zip?raw=true">专业版</a>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg765p.zip?raw=true">自由门7.65版（2月2日)专业版</a>
           </td>
         </tr>
         <tr>
