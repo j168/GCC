@@ -3,7 +3,7 @@
 <h3>新唐人视频 http://220.141.120.7</h3></div>
  <div align="center"><IMG SRC="GCC/img/2019-newshow-1.jpg" width=800></div>
 	 
- <h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
+ <div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
 	
 【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 
