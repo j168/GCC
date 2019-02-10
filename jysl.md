@@ -1,11 +1,5 @@
  <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://220.141.128.139</h3></div>
-
-<div align="center"><IMG SRC="GCC/img-2/2019-newshow-3.jpg" width=800></div>
-
-<div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
-
-<h1><b><a href="https://git.io/ict">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会</a></b></h1>
+<h3>新唐人视频 http://61.228.112.116</h3></div>
 
 <a name=top>
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
