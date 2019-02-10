@@ -1,6 +1,8 @@
  <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://61.228.112.116</h3></div>
-
+	
+<div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
+	
 <a name=top>
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
 
