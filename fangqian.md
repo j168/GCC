@@ -1,12 +1,12 @@
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://220.141.128.139</h3></div>
+<h3>新唐人视频 http://61.228.112.116</h3></div>
 	
-<div align="center"><IMG SRC="GCC/img-2/2019-newshow-3.jpg" width=800></div>
+
 
 <div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
 
-<h1><b><a href="https://git.io/ict">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会</a></b></h1>
+
 	
 【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 
