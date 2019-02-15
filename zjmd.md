@@ -1,9 +1,11 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://220.141.139.204</h3></div>
 
-<div align="center"><h1>神韵演出特别报导 http://sy.epub.vin/sy/</h1></div><p>
+<div align="center"><IMG SRC="GCC/img-2/0215-1-ict.jpg" width=800>
 
-<h1><b><a href="https://git.io/ict">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会(期待元宵节回放)</a></b></h1>
+<h1><b>神韵演出特别报导 http://sy.epub.vin/sy</b></h1>
+
+<h1><b><a href="https://git.io/sss">【预告】新唐人元宵节将播神韵晚会及音乐会 https://git.io/sss</a></b></h1></div>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
