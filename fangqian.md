@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-<IMG SRC="GCC/img2/2019-02-03_155117.jpg" width=880></p>
+<IMG SRC="GCC/img-2/2019-02-03_155117.jpg" width=880></p>
   </div>
 
  <div align="center"><h2><a href="http://sy.epub.vin/sy">《神韵晚会》大陆播出时间</h2></a></div>
@@ -53,7 +53,7 @@
 <br/>
 
 <div align="center">
-<IMG SRC="GCC/img2/bb-232.png" width=880>
+<IMG SRC="GCC/img-2/bb-232.png" width=880>
   </div>
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(一)</h3></a></div> 
@@ -132,7 +132,7 @@
 <hr>
 
 <div align="center">
-<IMG SRC="sy/2017_SYSO_EW_Lantern-600x338-600x338.png" width=880>
+<IMG SRC="GCC/img-2/2017_SYSO_EW_Lantern-600x338-600x338.png" width=880>
   </div>
 
 <div align="center"><h3><b>神韵交响乐</b></h3></div>
