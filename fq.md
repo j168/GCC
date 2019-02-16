@@ -25,14 +25,14 @@
 </tr>
 <tr>
 	<td><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由门"></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg765p.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fgma.apk?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg766r.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
 	<td><img src="../master/GCC/img/ultrasurf.jpg" align="middle" width="240" alt="无界"></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/um.apk?raw=true"><img src="../master/GCC/img/wujieAndoid.jpg" align="middle" width="320" alt="无界一点通"></a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u1901.zip?raw=true"><img src="../master/GCC/img/wujiesurf.jpg" align="middle" width="320" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u.zip?raw=true"><img src="../master/GCC/img/wujiesurf.jpg" align="middle" width="320" alt="无界一点通"></a></td>
 </tr>
 <tr>
 	<td><img src="../master/GCC/img/ippotv.jpg" align="middle" width="240" alt="爱博电视"></td>
