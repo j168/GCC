@@ -70,7 +70,7 @@
 </table>
   <br/>
   <div align="center">
-<IMG SRC="GCC/img2/b_ornament_17_0M.png" width=880>
+<IMG SRC="GCC/img-2/b_ornament_17_0M.png" width=880>
   
 <br/>
 </div>
