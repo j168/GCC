@@ -4,13 +4,11 @@
 
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 	
-<h3>新唐人视频 http://111.241.93.196</h3></div>
+<h3>新唐人视频 http://220.141.133.2</h3></div>
+  
+<div align="center"><IMG SRC="GCC/img-2/syfq.jpg" width=800>
 
-<div align="center"><IMG SRC="GCC/img-2/0215-1-ict.jpg" width=800>
-
-<h1><b>神韵演出特别报导 http://joo.epub.vin/sy</b></h1>
-
-<h1><b><a href="https://git.io/sss">【预告】新唐人元宵节将播神韵晚会及音乐会 https://git.io/sss</a></b></h1></div>
+<h1><b>神韵演出特别报导 http://joo.epub.vin/sy</b></h1></div>
 
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
