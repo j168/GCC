@@ -29,7 +29,7 @@
             <a href="https://git.io/fgma">安卓版</a>
           </td>
          <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg766r.zip?raw=true">自由门7.66版</a>
+            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg767p.zip?raw=true">自由门7.67版</a>
           </td>
         </tr>
         <tr>
