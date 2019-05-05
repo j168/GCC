@@ -46,6 +46,8 @@
 
 <h1><b><a href="https://git.io/3f">手机上好看的电子书（ePub版）</a></b></h1>
 
+<h1><b><a href="https://github.com/3fmd/gm/blob/master/mhzb.md">明慧周报大陆版（ePub版）</a></b></h1>
+
 <h1><b><a href="https://git.io/ming2">真相驿站 电子书免费阅读 国内看不到的讯息，免翻墙轻松阅读</a></b></h1>
 
 <h1><b><a href="https://git.io/goal">《共产主义的终极目的——中国篇》</a></b></h1>
