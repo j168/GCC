@@ -368,8 +368,9 @@
 
 责任编辑：高义
 
-<hr>
 <a href=#top><h6 align="right">回上方</h6></a>
+
+<hr>
 <a name=5>
  
 <h1 align="center"><b>《共产主义的终极目的》新书开始发行</b></h1>
