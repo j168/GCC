@@ -1,5 +1,18 @@
 <a href=https://github.com/goodabc/GCC/blob/master/goal.md><h6 align="right">回首頁</h6></a>
 
+<a name=top><b>
+<a href=#8>章天亮：共产主义的终极目的到底是什么？<br>
+<a href=#7>《共产主义的终极目的》是揭开创世真相的天书（上）<br>
+<a href=#6>《共产主义的终极目的》是揭开创世真相的天书（下）<br>
+<a href=#5>《共产主义的终极目的》新书开始发行<br>
+<a href=#4>《共产主义终极目的》揭中共“用欲望杀人”<br>
+<a href=#3>可帮助您认清共产邪灵的一本奇书<br>
+<a href=#2>迫害法轮功令共产主义走向失败（上）<br>
+<a href=#1>迫害法轮功令共产主义走向失败（下）<br> 
+
+<b>
+
+<hr><a name=8>
 <h1 align="center"><b>章天亮：共产主义的终极目的到底是什么？</b></h1>
 
 <div align="center"><img src="GCC/img/zhangtianliang-2-3.jpg" width=640></div>
@@ -95,7 +108,8 @@
 所以我觉得中国的未来不是由共产党来决定的，实际上是每一个中国人自己人心的选择，那么神也会根据人心的选择来给人以相应的福报或者是降下灾祸。我想这本书出来之后，就是希望更多的人能够远离邪教，靠近神。（全文完）
 
 <hr>
-
+<a target="_blank" href=#top><h6 align="right">回上方</h6></a>
+<hr><a name=7>
 <h1 align="center"><b>《共产主义的终极目的》是揭开创世真相的天书（上）</b></h1>
 
 <div align="center"><img src="GCC/img/A006005-600x400.jpg" width=640></div>
@@ -230,6 +244,9 @@
 正是看准了这一点，江泽民集团与中共邪党才形成了唇亡齿寒的互相利用关系。江泽民集团和中共邪党才成了共产邪灵用来跟创世主作对、向世人作恶、毁人不倦的犯罪工具。（未完待续）
 
 <hr>
+<a target="_blank" href=#top><h6 align="right">回上方</h6></a>
+<hr><a name=6>
+ 
 <h1 align="center"><b>《共产主义的终极目的》是揭开创世真相的天书（下）</b></h1>
 <div align="center"><img src="GCC/img/1d3bb58721e33ae8a150288c5be3c177-600x400.jpg" width=640></div>
 <div align="center">自2004年11月《九评共产党》发表以来，全球掀起了风起云涌的退党大潮。 </div><p>
@@ -349,6 +366,9 @@
 责任编辑：高义
 
 <hr>
+<a target="_blank" href=#top><h6 align="right">回上方</h6></a>
+<hr><a name=5>
+ 
 <h1 align="center"><b>《共产主义的终极目的》新书开始发行</b></h1>
 <div align="center"><img src="GCC/img/275680cb428fc5f39cce8c1a320fda27-600x400.jpg" width=640></div>
 <div align="center">《共产主义的终极目的》新书封面。（博大出版社）</div><p>
@@ -391,6 +411,9 @@
 责任编辑：高静
 
 <hr>
+<a target="_blank" href=#top><h6 align="right">回上方</h6></a>
+<hr><a name=4>
+ 
 <h1 align="center"><b>《共产主义终极目的》揭中共“用欲望杀人”</b></h1>
 
 【大纪元2017年12月19日讯】（大纪元特约记者常青、周慧心采访报导）继《九评共产党》后，大纪元又刊载了《共产主义的终极目的》，揭示了共产主义的真正本源，以及其来在世间的目的。有学者认为，回顾历史，再看现实，一切正如书中所述，共产主义的终极目的正在有步骤地进行中，他感到非常紧迫。
@@ -424,6 +447,9 @@
 最后，游兆和表示：“我衷心希望，大陆同仁、同胞都能认真研读《九评共产党》和《共产主义的终极目的》。我觉得，海峡两岸的中国人，特别是中国大陆的中国人包括中共党徒，都应该认识到：‘我们必须做中华儿女，不能做马列子孙！’做马列子孙只能是死路一条，不仅有愧于列祖列宗，而且也有悖于人类文明！”
 
 <hr>
+<a target="_blank" href=#top><h6 align="right">回上方</h6></a>
+<hr><a name=3>
+ 
 <h1 align="center"><b>可帮助您认清共产邪灵的一本奇书</b></h1>
 <div align="center"><img src="GCC/img/604291007021365-600x400.jpg" width=640></div>
 <div align="center">《共产主义的终极目的》可以帮助人类进一步认清中共的邪灵本质。（潘璟桥/大纪元）</div><p>
@@ -516,6 +542,9 @@
 责任编辑：高义
 
 <hr>
+<a target="_blank" href=#top><h6 align="right">回上方</h6></a>
+<hr><a name=2>
+ 
 <h1 align="center"><b>迫害法轮功令共产主义走向失败（上）</b></h1>
 <div align="center"><img src="GCC/img/1134406704_n-600x400.jpg" width=640></div>
 <div align="center">台湾大学国家发展研究所法学博士曾建元。（受访者提供）</div><p>
@@ -561,7 +590,9 @@
 （待续）
 
 责任编辑：林琮文
-
+<hr>
+<a target="_blank" href=#top><h6 align="right">回上方</h6></a>
+<hr><a name=1>
 <h1 align="center"><b>迫害法轮功令共产主义走向失败（下）</b></h1>
 
 【大纪元2017年12月31日讯】（大纪元记者易如采访报导）在《九评共产党》发表13周年之际，《九评》编辑部又推出新书《共产主义的终极目的》，该书因揭示共产主义的来源、共产主义的本质以及共产主义的结局，引发广泛关注。
