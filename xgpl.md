@@ -1,6 +1,7 @@
 <a href=https://github.com/goodabc/GCC/blob/master/goal.md><h6 align="right">回首頁</h6></a>
 
 <a name=top>
+ 
 <b>
 <a href=#8>章天亮：共产主义的终极目的到底是什么？<br>
 <a href=#7>《共产主义的终极目的》是揭开创世真相的天书（上）<br>
