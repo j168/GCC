@@ -1,7 +1,9 @@
-<a href=https://github.com/goodabc/GCC/blob/master/goal.md><h6 align="right">回首頁</h6></a>
+<a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <div align="center"><img src="GCC/img/2uuu.jpg" width=880></div>
 
+<h1 align="center"><b><a href=https://git.io/goal>《共产主义的终极目的》</b></h1>
+ 
 <a name=top>
  
 <b>
@@ -15,7 +17,7 @@
 <a href=#1>迫害法轮功令共产主义走向失败（下）<br> 
 
 </b>
-<h1 align="center"><b><a href=https://git.io/goal>《共产主义的终极目的》</b></h1>
+
  
 <hr><a name=8>
 <h1 align="center"><b>章天亮：共产主义的终极目的到底是什么？</b></h1>
