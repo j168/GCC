@@ -1,5 +1,7 @@
 <a href=https://github.com/goodabc/GCC/blob/master/goal.md><h6 align="right">回首頁</h6></a>
 
+<div align="center"><img src="GCC/img/2uuu.jpg" width=640></div>
+
 <a name=top>
  
 <b>
