@@ -1,6 +1,6 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
 <IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://118.161.251.214</h3></div>
+<h3>新唐人视频 http://111.240.73.110</h3></div>
   
 <div align="center"><IMG SRC="GCC/img-2/syfq.jpg" width=800>
 
