@@ -1,9 +1,5 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://118.161.140.97</h3></div>
-  
-<div align="center"><IMG SRC="GCC/img-2/syfq.jpg" width=800>
-
-<h1><b>神韵演出特别报导 http://joo.epub.vin/sy</b></h1></div>
+<h3>新唐人视频 http://111.240.64.57</h3></div>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
