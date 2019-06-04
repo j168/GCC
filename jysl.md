@@ -1,9 +1,9 @@
  <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://118.161.140.97</h3></div>
+<h3>新唐人视频 http://111.240.64.57</h3></div>
   
 <div align="center"><IMG SRC="GCC/img-2/syfq.jpg" width=800>
 
-<h1><b>神韵演出特别报导 http://joo.epub.vin/sy</b></h1></div>
+<!--<h1><b>神韵演出特别报导 http://joo.epub.vin/sy</b></h1></div> -->
 	
 <a name=top>
 <div align="center"><img src="GCC/img/276bf89d79eeda65983db79b11430c87-600x400.jpg" width=640></div>
