@@ -1,9 +1,7 @@
 <div align="center"><!-- <IMG SRC="GCC/img-2/logo-0721.jpg" width=640><br> -->
 <IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://111.240.64.57</h3></div>
-  
-<h1><b>神韵演出特别报导 http://joo.epub.vin/sy</b></h1></div>
-	
+  	
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
