@@ -1,9 +1,9 @@
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
-<div align="center"><img src="GCC/img/2uuu.jpg" width=880></div>
+<div align="center"><img src="GCC/img/2uuu.jpg" width=880>
 
 <h1 align="center"><b><a href=https://git.io/goal>《共产主义的终极目的》</b></h1>
-<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">红潮即将倾覆  天之将明</a></b></h1> 
+<h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">红潮即将倾覆  天之将明</a></b></h1> </div>
 <a name=top>
  
 <b>
