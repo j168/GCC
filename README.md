@@ -1,13 +1,13 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 <h3>新唐人视频 http://118.161.138.80</h3></div>
  
-<div align="center"><IMG SRC="GCC/img/fngrchn.jpg" width=580></div></p>
+<div align="center"><IMG SRC="GCC/img/fngrchn2.jpg" width=580></div></p>
   <div align=center>
 <h2><b><a href="https://git.io/ffq">● 免费突破封锁翻墙软件 ● </a></b></h2></div>
 <div align=center>
 <h2><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">● 红潮即将倾覆  天之将明 ● </a></b></h2></div>
 
-<div align="center"><IMG SRC="GCC/img/fngrchn.jpg" width=580></div></p>
+<div align="center"><IMG SRC="GCC/img/fngrchn2.jpg" width=580></div></p>
 
 <table>
 <tr><td width=900><h3><b><a href="https://git.io/n99">➤ 热门時事、评论</a></b></h3></tr>
@@ -21,7 +21,7 @@
 
 </table>
 
-<div align="center"><IMG SRC="GCC/img/fngrchn.jpg" width=580></div></p>
+<div align="center"><IMG SRC="GCC/img/fngrchn2.jpg" width=580></div></p>
 
 
 
@@ -53,7 +53,7 @@
 
 </table>
 
-<div align="center"><IMG SRC="GCC/img/fngrchn.jpg" width=580></div></p>
+<div align="center"><IMG SRC="GCC/img/fngrchn2.jpg" width=580></div></p>
 
 
 <table>
