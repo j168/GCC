@@ -29,7 +29,7 @@
 <tr><td width=900 ><h3><b><a href="https://git.io/zb">➤ 热门 三退大潮 觉醒之路</a></b></h3>
 </tr>
 </td>
-<tr><td width=900><h3><b><a href="https://github.com/bcdz/GCC01/blob/master/msos.md">➤ 上天在救人 你看懂了吗?</a></b></h3>
+<tr><td width=900><h3><b><a href="https://github.com/bcdz/true01/blob/master/msos.md">➤ 上天在救人 你看懂了吗?</a></b></h3>
 </tr>
 </td>
 <tr><td width=900 ><h3><b><a href="https://git.io/kkssos">➤ 九评引发三退大潮 如何三退</a></b></h3>
