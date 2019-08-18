@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://36.227.103.46</h3>
+<h3>新唐人视频 http://36.228.40.52</h3>
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">红潮即将倾覆  天之将明</a></b></h1></div>
   
 <div align="center"><img src="../master/GCC/img/flcz.jpg" width="640"></div>
