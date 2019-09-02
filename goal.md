@@ -734,8 +734,5 @@ http://www.epochtimes.com/gb/17/11/28/n9901176.htm <br>
 <p>这是共产邪灵直接切断人成神之路的阴谋，让很多有缘之士失去宝贵的修炼机缘。《西游记》写了一个完整的修炼故事，其中一句话很有意义：“夫人身难得，中土难生，正法难遇：全此三者，幸莫大焉。”得个人身不易，有大缘分生在中土，却因为共产邪灵的干扰，不相信修炼，看不懂正法的内涵，与正法失之交臂，此生错过，悔之晚矣！＃</p>
 <p>──转自《大纪元》</p>
 <p>（责任编辑：王馨宇）</p>
-<p><b>相关链接： <a href="http://www.ntdtv.com/xtr/b5/2017/12/02/a1353392.html">《</a>九评》编辑部：共产主义的终极目的 (9)</b> <a href="http://www.ntdtv.com/xtr/b5/2017/12/02/a1353392.html">（点击这里） </a><br />
-<b>相关链接： <a href="http://www.ntdtv.com/xtr/b5/2017/11/30/a1352878.html">《九评》编辑部：共产主义的终极目的 (7) </a></b><a href="http://www.ntdtv.com/xtr/b5/2017/11/30/a1352878.html">（点击这里）</a></p>
-					<div class="single_ad"></div>
-					<div class="print_link">本文网址: https://www.ntdtv.com/gb/2017/12/02/a1353250.html</div>
-				</div>
+<p>本文网址: https://www.ntdtv.com/gb/2017/12/02/a1353250.html</p>
+<a href=#>回目录<HR>
