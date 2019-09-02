@@ -956,6 +956,7 @@ http://www.epochtimes.com/gb/17/11/28/n9901176.htm <br>
 <p>──转自《大纪元》</p>
 <p>（责任编辑：王馨宇）</p>
 <p>本文网址: https://www.ntdtv.com/gb/2017/12/04/a1353561.html</p>
+<a href=#>回目录<HR>
 <a name=12><span style=color:#0000FF><H2 align="center">《九评》编辑部：共产主义的终极目的 (11)</H2></span>
 <div align=center><IMG SRC="GCC/img/2.jpg" width=640></div><br>
 《九评》编辑部新书——《共产主义的终极目的》。（大纪元制图）<br><br>
