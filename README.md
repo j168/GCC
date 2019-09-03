@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://36.228.39.182</h3></div>
+<h3>新唐人视频 http://220.141.137.109</h3></div>
  
 <div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
   <div align=center>
@@ -10,47 +10,47 @@
 <div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
 
 <table>
+ 
+<tr><td width=900><h3><b><a href="https://git.io/kkopop">➤ 中国禁闻</a></b></h3></tr>
+</td>
 <tr><td width=900><h3><b><a href="https://git.io/n99">➤ 热门時事、评论</a></b></h3></tr>
 </td>
 <tr><td width=900><h3><b><a href="https://git.io/wnn">➤ 小之分享</a></b></h3></tr>
 </td>
 <tr><td width=900><h3><b><a href="https://git.io/birdf">➤  明真相能保命</a></b></h3></tr>
 </td>
-<tr><td width=900><h3><b><a href="https://git.io/kkopop">➤ 中国禁闻</a></b></h3></tr>
-</td>
-
 </table>
 
 <div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
 
-
-
 <table>
-<tr><td width=900 ><h3><b><a href="https://git.io/zb">➤ 热门 三退大潮 觉醒之路</a></b></h3>
+<tr><td width=900 ><h3><b><a href="https://github.com/bcdz/true01/blob/master/foryou.md">➤ 热门 三退大潮 觉醒之路</a></b></h3>
+</tr>
+</td> 
+<tr><td width=900 ><h3><b><a href="https://git.io/kkssos">➤ 九评引发三退大潮 如何三退</a></b></h3>
 </tr>
 </td>
 <tr><td width=900><h3><b><a href="https://github.com/bcdz/true01/blob/master/msos.md">➤ 上天在救人 你看懂了吗?</a></b></h3>
 </tr>
 </td>
-<tr><td width=900 ><h3><b><a href="https://git.io/kkssos">➤ 九评引发三退大潮 如何三退</a></b></h3>
+<tr><td width=900 ><h3><b><a href="https://github.com/bcdz/true01/blob/master/dodo.md">➤热门 三退大潮 觉醒之路</a></b></h3>
+</tr>
+</td> 
+<tr><td width=900><h3><b><a href="https://github.com/bcdz/true01/blob/master/aaasfa.md">➤ 平安秘诀</a></b></h3>
+</tr>
+</td>
+<tr><td width=900><h3><b><a href="https://github.com/bcdz/true01/blob/master/bbfa.md">➤ 藏字石</a></b></h3>
 </tr>
 </td>
 <tr><td width=900 ><h3><b><a href="https://git.io/3th">➤ “三退”才能上“方舟”</a></b></h3>
 </tr>
 </td>
-<tr><td width=900 ><h3><b><a href="https://git.io/stpa">➤ 真相传单：三退与平安</a></b></h3>
-</tr>
-</td>
 <tr><td width=900><h3><b><a href="https://git.io/3w">➤ 三亿人退出中共</a></b></h3>
 </tr>
 </td>
-<tr><td width=900><h3><b><a href="https://git.io/zbaaas">➤ 平安秘诀</a></b></h3>
+<tr><td width=900 ><h3><b><a href="https://git.io/stpa">➤ 真相传单：三退与平安</a></b></h3>
 </tr>
 </td>
-<tr><td width=900><h3><b><a href="https://git.io/zaasfa">➤ 藏字石</a></b></h3>
-</tr>
-</td>
-
 </table>
 
 <div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
