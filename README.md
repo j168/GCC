@@ -118,18 +118,6 @@
 <div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
 
 <table>
-<tr><td width=900><h3><b><a href="https://git.io/3f">➤ 手机上好看的电子书（ePub版）</a></b></h3></tr>
-</td>
-<tr><td width=900><h3><b><a href="https://github.com/3fmd/gm/blob/master/mhzb.md">➤ 明慧周报大陆版（ePub版）</a></b></h3></tr>
-</td>
-<tr><td width=900><h3><b><a href="https://git.io/ming2">➤ 真相驿站 （ePub版）</a></b></h3></tr>
-</td>
-</table>
-
-
-<div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
-
-<table>
 <tr><td width=900><h3><b><a href="https://git.io/9m">➤《九评共产党》</a></b></h3></tr>
 </td>
 <tr><td width=900><h3><b><a href="https://git.io/goal">➤《共产主义的终极目的——中国篇》</a></b></h3></tr>
@@ -144,6 +132,16 @@
 </td>
 </table>
 
+<div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
+
+<table>
+<tr><td width=900><h3><b><a href="https://git.io/3f">➤ 手机上好看的电子书（ePub版）</a></b></h3></tr>
+</td>
+<tr><td width=900><h3><b><a href="https://github.com/3fmd/gm/blob/master/mhzb.md">➤ 明慧周报大陆版（ePub版）</a></b></h3></tr>
+</td>
+<tr><td width=900><h3><b><a href="https://git.io/ming2">➤ 真相驿站 （ePub版）</a></b></h3></tr>
+</td>
+</table>
 
 <div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
 
