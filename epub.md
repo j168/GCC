@@ -4,7 +4,7 @@
 
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
 	
-<h3>新唐人视频 http://220.141.137.109</h3>
+<h2>新唐人视频 http://220.141.128.24</h2>
 
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">红潮即将倾覆  天之将明</a></b></h1></div>
 
