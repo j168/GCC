@@ -18,7 +18,7 @@
 	
 <hr>
 	
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCm.epub?raw=true'>epub电子书</a>	
++ <a href='https://github.com/j168/GCC/blob/master/epub.md'>epub电子书</a>	
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
 + <a href='https://github.com/j168/GCC/blob/master/fangqian.md'>无界翻墙软件</a>
     - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/um4.6.apk?raw=true'>安卓版4.6</a>
