@@ -17,24 +17,24 @@
 	<td width="320"><center><img src="../master/GCC/img/desktop.jpg" align="middle"></center></td>
 </tr>
 <tr>
-	<td><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由门"></td>
+	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/apkpure.com.apk?raw=true"><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由门"></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fgma.apk?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg768p.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
 	<td><img src="../master/GCC/img/ultrasurf.jpg" align="middle" width="240" alt="无界"></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/um.apk?raw=true"><img src="../master/GCC/img/wujieAndoid.jpg" align="middle" width="320" alt="无界一点通"></a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/u.zip?raw=true"><img src="../master/GCC/img/wujiesurf.jpg" align="middle" width="320" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/um4.6.apk?raw=true"><img src="../master/GCC/img/wujieAndoid.jpg" align="middle" width="320" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/u19.02.exe?raw=true"><img src="../master/GCC/img/wujiesurf.jpg" align="middle" width="320" alt="无界浏览"></a></td>
 </tr>
 <tr>
 	<td><img src="../master/GCC/img/ippotv.jpg" align="middle" width="240" alt="爱博电视"></td>
 	<td></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true"><img src="../master/GCC/img/ippo.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
+	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/Green_iPPOTV_n.exe?raw=true"><img src="../master/GCC/img/ippo.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 </tr>
 <tr>
 	<td><img src="../master/GCC/img/intdtv.jpg" align="middle" width="240" alt="intdtv"></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true"><img src="../master/GCC/img/intdtv.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
+	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/iNTD_TVsp1(2.1.13).apk?raw=true"><img src="../master/GCC/img/intdtv.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 	<td></td>
 </tr>
 </table>
