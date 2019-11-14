@@ -10,7 +10,7 @@
 	<td colspan=3>
 		
 
-<a href="https://git.io/goal"><img src="https://github.com/goodabc/GCC/blob/master/GCC/img/cmGoal.jpg" width="875"></a>
+
 		
 ### 在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。
 ******
@@ -82,3 +82,6 @@
 	<td><center><a href="../master/GCC/ebook/epub/goalCh11.epub?raw=true">【共产主义的终极目的】（11）</a></center></td>
 	<td><center><a href="../master/GCC/ebook/epub/goalCh12.epub?raw=true">【共产主义的终极目的】（12）</a></center></td>
 </tr></table>
+
+
+<a href="https://git.io/goal"><img src="https://github.com/goodabc/GCC/blob/master/GCC/img/cmGoal.jpg" width="875"></a>
