@@ -46,7 +46,7 @@
           </td>
          <td></td>
           <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true">爱博电视</a>
+            <a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/Green_iPPOTV_n.exe?raw=true">爱博电视</a>
           </td>
         </tr>
        <tr>
