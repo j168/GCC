@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h3>新唐人视频 http://220.141.137.109</h3></div>
+<h3>新唐人视频 http://220.141.128.24</h3></div>
  
 <div align="center"><IMG SRC="GCC/img/fngrchn3.jpg" width=580></div></p>
   <div align=center>
@@ -18,6 +18,8 @@
 <tr><td width=900><h3><b><a href="https://git.io/wnn">➤ 小之分享</a></b></h3></tr>
 </td>
 <tr><td width=900><h3><b><a href="https://git.io/birdf">➤  明真相能保命</a></b></h3></tr>
+<tr><td width=900><h3><b><a href="https://git.io/zfzfzf">➤  真相渐明 疑点大曝光 天安门自焚</a></b></h3></tr>
+<tr><td width=900><h3><b><a href="https://git.io/bb99bbss">➤  法轮大法好</a></b></h3></tr>
 </td>
 </table>
 
