@@ -23,8 +23,8 @@
 + <a href='https://github.com/j168/GCC/blob/master/fangqian.md'>无界翻墙软件</a>
     - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/um4.6.apk?raw=true'>安卓版4.6</a>
     - [桌机版19.02](https://github.com/j168/GCC/blob/master/GCC/fanQing/u19.02.exe?raw=true)   
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>自由门翻墙软件</a>
-    - <a href='https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true'>安卓版3.2</a>
++ <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/apkpure.com.apk?raw=true'>自由门翻墙软件</a>
+    - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2/fgma32.apk?raw=true'>安卓版3.2</a>
     - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/fg768p.zip?raw=true'>桌机版768p</a>
 
 <hr>
