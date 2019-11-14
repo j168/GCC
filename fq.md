@@ -33,7 +33,7 @@
 	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/Green_iPPOTV_n.exe?raw=true"><img src="../master/GCC/img/ippo.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 </tr>
 <tr>
-	<td><img src="../master/GCC/img/intdtv.jpg" align="middle" width="240" alt="intdtv"></td>
+	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/iNTD_TV.apk?raw=true"><img src="../master/GCC/img/intdtv.jpg" align="middle" width="240" alt="intdtv"></td>
 	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/iNTD_TVsp1(2.1.13).apk?raw=true"><img src="../master/GCC/img/intdtv.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 	<td></td>
 </tr>
