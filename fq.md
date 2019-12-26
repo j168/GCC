@@ -1,5 +1,5 @@
 <div align="center"><IMG SRC="GCC/img-2/ntdtvflower.jpg" width=800>
-<h1>新唐人视频 http://220.141.128.24</h1>
+<h1>新唐人视频 http://220.141.128.160</h1>
 <h1><b><a href="https://github.com/awwkk/usdom/blob/master/forfor.md">红潮即将倾覆  天之将明</a></b></h1></div>
   
 <table align="center" >
@@ -19,7 +19,7 @@
 <tr>
 	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/apkpure.com.apk?raw=true"><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由门"></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fgma.apk?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg768p.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
+	<td><a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/fg770p.exe?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
