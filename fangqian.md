@@ -27,7 +27,7 @@
             <a href="https://git.io/fgma">安卓版</a>
           </td>
          <td>
-            <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/fg768p.zip?raw=true">自由门7.68版（6月15日)</a>
+            <a href="https://github.com/j168/GCC/blob/master/GCC/fanQing/fg770p.exe?raw=true">自由门7.70版（6月15日)</a>
           </td>
         </tr>
         <tr>
