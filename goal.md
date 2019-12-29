@@ -1,4 +1,12 @@
 
+
+<div align="center"><a href="http://111.241.95.80"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020newcare.jpg" width=800></a>
+<h1>点击视频 http://111.241.95.80</h1>
+ 
+<h1>请收藏网址(新闻视频ip)  随时连上最新即时IP
+https://git.io/swspip</h1>
+<hr>
+
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
 <div class="title">		
 <a href=#1><span style=color:#3627F1>《九评》编辑部：《共产主义的终极目的》序言</span><br>
