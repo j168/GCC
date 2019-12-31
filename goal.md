@@ -1,7 +1,7 @@
 
 
-<div align="center"><a href="http://111.241.95.80"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020newscar.jpg" width=600></a>
-<h1>点击视频 http://111.241.95.80</h1>
+<div align="center"><a href="http://220.141.128.109"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020newscar.jpg" width=600></a>
+<h1>点击视频 http://220.141.128.109</h1>
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
 https://git.io/swspip</h1>
