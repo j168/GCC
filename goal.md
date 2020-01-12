@@ -1,10 +1,10 @@
 
 
 <div align="center"><a href="http://111.241.90.121"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
-<h1>点击视频 http://220.141.128.236</h1>
+<h1>点击视频 http://220.241.90.121</h1>
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
-http://git.io/got15</h1>
+https://git.io/swspip</h1>
 <hr>
 
 <div align="left">
