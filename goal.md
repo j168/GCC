@@ -1,7 +1,7 @@
 
 
-<div align="center"><a href="http://36.228.9.144"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
-<h1>点击视频 http://36.228.9.144</h1>
+<div align="center"><a href="http://220.141.123.251"><IMG SRC="https://github.com/j168/j688/blob/master/menu/20200125st.jpg" width=600></a>
+<h1>点击视频 http://220.141.123.251</h1>
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
 https://git.io/swspip</h1>
