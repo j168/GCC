@@ -5,7 +5,8 @@
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
 https://git.io/swspip</h1>
-<hr>
+</p>
+<div align="center"><a href="https://github.com/gofanben/gm/blob/master/README.md"><h2>看更多真相</div></a><hr></h2>
 
 <div align="left">
 <H1>《九评》编辑部：《共产主义的终极目的——中国篇》</H1>
