@@ -3,7 +3,7 @@
 <div align="center"><a href="http://220.141.128.182"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
 <h2>点击视频 http://220.141.128.182</h2>
 	<h1>每日当天有效的即时新新闻与视频 http://61.228.179.120/69 </h1> 
-	
+
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
 https://git.io/swspip</h1>
@@ -28,10 +28,14 @@ https://git.io/swspip</h1>
 <a href=#13><span style=color:#3627F1>《九评》编辑部：共产主义的终极目的 (12)</span><br>
 </div>
 	
+	
 <hr>
 <h2>快速下载翻网</h2>
+
 + <a href='https://github.com/j168/j688/blob/master/fq/SzzdOgate.apk?raw=true'>神洲明见网.apk</a>
+
 + <a href='https://github.com/j168/j688/blob/master/fq/PnyETyGmm.1.apk?raw=true'>网门安卓.apk</a>
+
 + <a href='https://github.com/j168/j688/blob/master/fq/oGate.exe?raw=true'>网门电脑版.apk</a>
 + <a href='https://github.com/j168/GCC/blob/master/fangqian.md'>无界翻墙软件</a>
     - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/um4.6.apk?raw=true'>安卓版4.6</a>
