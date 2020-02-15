@@ -33,7 +33,6 @@ https://git.io/swspip</h1>
 + <a href='https://github.com/j168/j688/blob/master/fq/SzzdOgate.apk?raw=true'>神洲明见网.apk</a>
 + <a href='https://github.com/j168/j688/blob/master/fq/PnyETyGmm.1.apk?raw=true'>网门安卓.apk</a>
 + <a href='https://github.com/j168/j688/blob/master/fq/oGate.exe?raw=true'>网门电脑版.apk</a>
-
 + <a href='https://github.com/j168/GCC/blob/master/fangqian.md'>无界翻墙软件</a>
     - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/um4.6.apk?raw=true'>安卓版4.6</a>
     - [桌机版19.02](https://github.com/j168/GCC/blob/master/GCC/fanQing/u19.02.exe?raw=true)   
