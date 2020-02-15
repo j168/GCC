@@ -29,12 +29,11 @@ https://git.io/swspip</h1>
 </div>
 	
 <hr>
-<h3>快速下载翻网</h3>
+<h2>快速下载翻网</h2>
 + <a href='https://github.com/j168/j688/blob/master/fq/SzzdOgate.apk?raw=true'>神洲明见网.apk</a>
 + <a href='https://github.com/j168/j688/blob/master/fq/PnyETyGmm.1.apk?raw=true'>网门安卓.apk</a>
 + <a href='https://github.com/j168/j688/blob/master/fq/oGate.exe?raw=true'>网门电脑版.apk</a>
 
-+ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
 + <a href='https://github.com/j168/GCC/blob/master/fangqian.md'>无界翻墙软件</a>
     - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/um4.6.apk?raw=true'>安卓版4.6</a>
     - [桌机版19.02](https://github.com/j168/GCC/blob/master/GCC/fanQing/u19.02.exe?raw=true)   
@@ -42,8 +41,9 @@ https://git.io/swspip</h1>
     - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2/fgma32.apk?raw=true'>安卓版3.2</a>
     - <a href='https://github.com/j168/j688/blob/master/fq/fg773p.exe?raw=true'>桌机版7.73p</a>
 + <a href='https://git.io/mbbasn'>epub电子书</a>
++ <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
 
-<h4>各区域封锁情况都不同，请各位朋友在不同的时段多试试。</h4>
+<h3>各区域封锁情况都不同，请各位朋友在不同的时段多试试。</h3>
 
 <hr>
 
