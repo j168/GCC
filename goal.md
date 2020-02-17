@@ -1,8 +1,8 @@
 
 
-<div align="center"><a href="http://220.141.128.182"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
-<h2>点击视频 http://220.141.128.182</h2>
-	<h1>每日当天有效的即时新新闻与视频 http://61.228.179.120/69 </h1> 
+<div align="center"><a href="http://36.228.40.87"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
+<h2>点击视频 http://36.228.40.87</h2>
+	<h1>每日当天有效的即时新新闻与视频 http://61.228.180.28/69 </h1> 
 
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
