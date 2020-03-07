@@ -42,7 +42,7 @@ https://git.io/swspip</h1>
     - [桌机版19.02](https://github.com/j168/GCC/blob/master/GCC/fanQing/u19.02.exe?raw=true)   
 + <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/apkpure.com.apk?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2/fgma32.apk?raw=true'>安卓版3.2</a>
-    - <a href='https://github.com/j168/j688/blob/master/fq/fg774p.exe?raw=true'>桌机版7.74p</a>
+    - <a href='https://github.com/j168/j688/blob/master/fq/fg776p.exe?raw=true'>桌机版7.76p</a>
 + <a href='https://git.io/mbbasn'>epub电子书</a>
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
 
