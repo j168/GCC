@@ -2,7 +2,7 @@
 
 <div align="center"><a href="http://220.141.130.83"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
 <h2>点击视频 http://220.141.130.83</h2>
-	<h1>每日当天有效的即时新新闻与视频 http://61.228.180.80/69 </h1> 
+	<h1>每日当天有效的即时新新闻与视频 http://61.228.180.227/69 </h1> 
 
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
