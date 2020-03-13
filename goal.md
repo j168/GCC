@@ -1,9 +1,9 @@
 
 
-<div align="center"><a href="http://220.141.118.207"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
-<h2>点击视频 http://220.141.118.207</h2>
-	<h1>每日当天有效的即时新新闻与视频 http://61.228.178.172/69 </h1> 
+<div align="center"><a href="http://61.228.187.52/310"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
 
+<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p> http://61.228.187.52/310</h1></a></b></div>
+</br>
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
 https://git.io/swspip</h1>
