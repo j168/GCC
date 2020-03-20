@@ -1,8 +1,8 @@
 
 
-<div align="center"><a href="http://61.228.182.136/310"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
+<div align="center"><a href="http://61.228.187.182/310"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
 
-<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p> http://61.228.182.136/310</h1></a></b></div>
+<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p> http://61.228.187.182/310</h1></a></b></div>
 </br>
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
@@ -38,7 +38,7 @@ https://git.io/swspip</h1>
 
 + <a href='https://github.com/j168/j688/blob/master/fq/oGate.exe?raw=true'>网门电脑版.apk</a>
 + <a href='https://github.com/j168/GCC/blob/master/fangqian.md'>无界翻墙软件</a>
-    - <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/um4.6.apk?raw=true'>安卓版4.6</a>
+    - <a href='https://github.com/j168/j688/blob/master/fq/um4.8.apk?raw=true'>安卓版4.8</a>
     - [桌机版19.02](https://github.com/j168/GCC/blob/master/GCC/fanQing/u19.02.exe?raw=true)   
 + <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/apkpure.com.apk?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/j168/j688/blob/master/fq/fgma40.apk?raw=true'>安卓版4.0(最新版)</a>
