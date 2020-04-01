@@ -41,7 +41,7 @@ https://git.io/swspip</h1>
     - <a href='https://github.com/j168/j688/blob/master/fq/um4.8.apk?raw=true'>安卓版4.8</a>
     - [桌机版19.02](https://github.com/j168/GCC/blob/master/GCC/fanQing/u19.02.exe?raw=true)   
 + <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/apkpure.com.apk?raw=true'>自由门翻墙软件</a>
-    - <a href='https://github.com/j168/j688/blob/master/fq/fgma40.apk?raw=true'>安卓版4.0(最新版)</a>
+    - <a href='https://github.com/j168/j688/blob/master/fq/fgma41.apk?raw=true'>安卓版4.1(最新版)</a>
     - <a href='https://github.com/j168/j688/blob/master/fq/fg778p.exe?raw=true'>桌机版7.78(最新版)</a>
 + <a href='https://git.io/mbbasn'>epub电子书</a>
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
