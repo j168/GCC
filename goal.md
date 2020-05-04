@@ -1,8 +1,8 @@
 
 
-<div align="center"><a href="http://61.228.216.252/310"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
+<div align="center"><a href="https://bit.ly/2VIs51L"><IMG SRC="https://github.com/j168/j688/blob/master/menu/2020011215.jpg" width=600></a>
 
-<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>http://61.228.216.252/310</h1></a></b></div>
+<div align="center"><h1><b>点击视频:<p>https://bit.ly/2VIs51L</h1></a></b></div>
 </br>
  
 <h1>请收藏网址(新闻视频ip)  随时连上最新即时IP<br>
@@ -42,7 +42,7 @@ https://git.io/swspip</h1>
     - [桌机版19.02](https://github.com/j168/GCC/blob/master/GCC/fanQing/u19.02.exe?raw=true)   
 + <a href='https://github.com/j168/GCC/blob/master/GCC/fanQing/apkpure.com.apk?raw=true'>自由门翻墙软件</a>
     - <a href='https://github.com/j168/j688/blob/master/fq/fgma42.apk?raw=true'>安卓版4.2(最新版)</a>
-    - <a href='https://github.com/j168/j688/blob/master/fq/fg778p.exe?raw=true'>桌机版7.78(最新版)</a>
+    - <a href='https://github.com/j168/j688/blob/master/fq/fg779p.exe?raw=true'>桌机版7.78(最新版)</a>
 + <a href='https://git.io/mbbasn'>epub电子书</a>
 + <a href='https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-171207.pdf?raw=true'>PDF电子书</a>
 
